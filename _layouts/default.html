@@ -21,8 +21,8 @@
 {% if site.comments.isso_domain and page.layout == "post" %}<script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>{% endif %}
 
 <!-- Add Chessboard.js and chess.js scripts -->
-<script src="{{ '/assets/chessboard.min.js' | relative_url }}"></script>
-<script src="{{ '/assets/chess.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/chessboard-1.0.0js' | relative_url }}"></script>
+<script src="{{ '/assets/chessboard-1.0.0.min.js' | relative_url }}"></script>
 
 {% if site.show_sidebar or site.sidebar %}{% include sidebar.html %}{% endif %}
 
