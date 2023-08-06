@@ -18,11 +18,9 @@ Chess is an ageless game, and no matter where you are in your life journey, ther
 
 2. **Challenges and Triumphs:** Chess is a game of both victories and defeats. I'll share my triumphs and setbacks, emphasizing the lessons I've gained from each game. Remember, learning from mistakes is an integral part of becoming a stronger player.
 
-3. **Interactive Discussions:** I invite you to join the conversation and share your thoughts, questions, and ideas. Together, we can create a supportive community where we inspire and motivate one another to reach new heights in chess.
+3. **Resource Recommendations:** Along the way, I'll suggest helpful resources, books, online courses, and tools that have contributed to my growth as a chess player. Feel free to explore them and see how they can benefit you too.
 
-4. **Resource Recommendations:** Along the way, I'll suggest helpful resources, books, online courses, and tools that have contributed to my growth as a chess player. Feel free to explore them and see how they can benefit you too.
-
-5. **Chess News and Events:** Stay updated with the latest chess news and exciting events happening in the chess world. Engaging with the wider chess community can be both enriching and motivating.
+4. **Chess News and Events:** Stay updated with the latest chess news and exciting events happening in the chess world. Engaging with the wider chess community can be both enriching and motivating.
 
 **Join Me on This Adventure:**
 
