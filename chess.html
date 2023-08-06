@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chess Game</title>
+    <link rel="stylesheet" href="assets/css/chessboard-1.0.0.min.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="assets/chessboard-1.0.0.min.js"></script>
+  </head>
+  <body>
+    <div id="board" style="width: 400px"></div>
+    <script>
+      var board = ChessBoard('board', {
+        draggable: true,
+        dropOffBoard: 'trash',
+        sparePieces: true
+      });
+    </script>
+  </body>
+</html>
