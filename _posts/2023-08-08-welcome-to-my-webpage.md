@@ -23,6 +23,7 @@ Chess is an ageless game, and no matter where you are in your life journey, ther
 
 5. **Chess News and Events:** Stay updated with the latest chess news and exciting events happening in the chess world. Engaging with the wider chess community can be both enriching and motivating.
 
+## Heading Two (h2)
 **Join Me on This Adventure:**
 
 As we navigate the intricate chessboard of life, let's use chess as a tool for self-improvement, critical thinking, and unwavering determination. The journey may have its challenges, but the joy of witnessing our progress and the friendships we build make it all worthwhile.
@@ -31,6 +32,7 @@ Thank you for being a part of this endeavor. Together, we will unlock the secret
 
 Your fellow chess improver, Egbert
 
+## Heading Two (h2)
 **Footnotes:**
 
 1. For an in-depth exploration of building a remote cluster for the Stockfish Chess Engine, check out my article on LinkedIn: [Building a Remote Cluster for Stockfish Chess Engine](https://www.linkedin.com/pulse/building-remote-cluster-stockfish-chess-engine-egbert-schr%C3%B6er/).
