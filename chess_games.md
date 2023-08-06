@@ -80,6 +80,7 @@ Here are some annotated chess games in PGN format:
 61. d7 Qxd7
 62. Qxd7 Nf6
 63. Qb7# 1-0
+```
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard.js/1.0.0/chessboard.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/1.0.0/chess.min.js"></script>
