@@ -9,22 +9,18 @@ permalink: "/chess_games/"
 Here are some annotated chess games in PGN format:
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard.js/1.0.0/chessboard.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/1.0.0/chess.min.js"></script>
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const pgnElement = document.querySelector("pre>code");
-  const pgnText = pgnElement.textContent;
-  const game = new Chess();
-  const gameMoves = pgnText.split("\n").filter(Boolean);
-
-  for (const move of gameMoves) {
-    game.move(move);
-  }
-
-  const board = Chessboard("board", {
-    position: game.fen(),
-    orientation: "white",
-  });
-});
-</script>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chess</title>
+    <link rel="stylesheet" href="assets/css/chessboard-1.0.0.min.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="assets/chessboard-1.0.0.min.js"></script>
+  </head>
+  <body>
+    <div id="board1" style="width: 400px"></div>
+    <script>
+        var board1 = ChessBoard('board1', 'start');
+    </script>
+  </body>
+</html>
