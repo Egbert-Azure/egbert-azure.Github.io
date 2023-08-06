@@ -3,7 +3,7 @@ title:  "DIY Wooden Chessmen"
 layout: post
 ---
 
-## Building Customized Wooden Chess Pieces with Sensors for Your Chessnut Air Electronic Chessboard**
+## Building Customized Wooden Chess Pieces with Sensors for Your Chessnut Air Electronic Chessboard
 
 *Introduction:*
 Chess is a game of intellect, strategy, and art. As chess enthusiasts, we always seek to enhance our playing experience. The Chessnut Air, with its innovative sensor technology, takes chess to a whole new level, allowing us to enjoy the game like never before. In this article, I'll guide you through building customized wooden chess pieces with sensors for the Chessnut Air, elevating your chess experience to new heights.
