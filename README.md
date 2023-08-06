@@ -1,99 +1,48 @@
 ---
-title: "About"
-permalink: "/about/"
 layout: page
+title: About
+permalink: "/about/"
+date: 2023-08-06
 ---
 
-## Installation
+## Welcome to Chess - Adult Chess Improver!
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Greetings, chess enthusiasts and fellow learners! I'm thrilled to have you join me on this exciting journey of chess improvement. Here, I'll be sharing my personal experiences, insights, and discoveries as I strive to enhance my skills in the captivating world of chess.
 
-## Features
+### Why Adult Chess Improvement Matters
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+Chess is an ageless game, and no matter where you are in your life journey, there is always room for growth and progress. As an adult chess improver, I understand the unique challenges and commitments we face in our daily lives. Despite busy schedules, we can still find moments to indulge in the beauty of this ancient game and improve our understanding of its complexities.
 
-## Based on
+### What to Expect
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+1. **My Learning Journey:** I'll take you through my own experiences and lessons learned as I explore different aspects of chess. From openings and middle-game strategies to endgame techniques, I hope my journey inspires you to embark on your own path of improvement.
 
-## Installation (jekyll-remote-theme method)
+2. **Challenges and Triumphs:** Chess is a game of both victories and defeats. I'll share my triumphs and setbacks, emphasizing the lessons I've gained from each game. Remember, learning from mistakes is an integral part of becoming a stronger player.
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+3. **Interactive Discussions:** I invite you to join the conversation and share your thoughts, questions, and ideas. Together, we can create a supportive community where we inspire and motivate one another to reach new heights in chess.
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+4. **Resource Recommendations:** Along the way, I'll suggest helpful resources, books, online courses, and tools that have contributed to my growth as a chess player. Feel free to explore them and see how they can benefit you too.
 
-plugins:
-  - jekyll-remote-theme
+5. **Chess News and Events:** Stay updated with the latest chess news and exciting events happening in the chess world. Engaging with the wider chess community can be both enriching and motivating.
+
+### Join Me on This Adventure
+
+As we navigate the intricate chessboard of life, let's use chess as a tool for self-improvement, critical thinking, and unwavering determination. The journey may have its challenges, but the joy of witnessing our progress and the friendships we build make it all worthwhile.
+
+Thank you for being a part of this endeavor. Together, we will unlock the secrets of the sixty-four squares, one move at a time. Let's embrace the art of chess, sharpen our minds, and enjoy the wonders of improvement!
+
+Your fellow chess improver, [Your Name]
+
+---
+
+**Footnotes:**
+
+1. For an in-depth exploration of building a remote cluster for the Stockfish Chess Engine, check out my article on LinkedIn: [Building a Remote Cluster for Stockfish Chess Engine](https://www.linkedin.com/pulse/building-remote-cluster-stockfish-chess-engine-egbert-schr%C3%B6er/).
+
+2. Discover the fascinating process of connecting a remote cluster to the Stockfish Chess Engine in my article on LinkedIn: [Connecting a Remote Cluster to Stockfish Chess Engine](https://www.linkedin.com/pulse/connecting-remote-cluster-stockfish-chess-engine-egbert-schr%C3%B6er/).
+
+3. If you're interested in exploring the code and resources related to the Stockfish Chess Engine remote cluster, feel free to visit my GitHub repository: [Stockfish Chess Engine Remote Cluster Repository](https://github.com/Egbert-Azure/stockfish-cluster).
+
+Let these articles and the GitHub repository be your guiding light in your pursuit of understanding and implementing the Stockfish Chess Engine in a remote cluster setup. Happy reading and coding!
 ```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+(c)) 2023 [Egbert Schroeer]. All rights reserved.
