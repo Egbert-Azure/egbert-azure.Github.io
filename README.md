@@ -45,6 +45,5 @@ Your fellow chess improver, [Your Name]
 
 Let these articles and the GitHub repository be your guiding light in your pursuit of understanding and implementing the Stockfish Chess Engine in a remote cluster setup. Happy reading and coding!
 
-```
-(c) 2023 [Egbert Schroeer]. All rights reserved.
-```
+
+&copy; 2023 [Egbert Schroeer] -  All rights reserved
