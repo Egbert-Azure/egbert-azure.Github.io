@@ -18,7 +18,8 @@ To get started, you'll need high-quality wooden chess pieces. I recently ordered
 - Rook: 1.5" (38mm) height, 1.0" (26mm) base
 - Pawn: 1.4" (34mm) height, 0.9" (22mm) base
 
-Upon delivery, I was impressed with their craftsmanship, but some imperfections in the Rook prompted me to seek a replacement.
+Upon delivery, I was first impressed with their craftsmanship. Still, some real imperfections in the Rook and Knight prompted me to seek a replacement which, unfortunately, was worst than the original pieces.
+However, I'm very happy with wooden pieces because they give you a different view, feel, and touch than the cheap and over time decolorizing plastic pieces.
 
 *2. Understanding the Chess Piece Sensor Chips:*
 The chess piece sensor chips set is specifically designed for DIYers who want to create customized chess pieces with sensors. These sensor chips are essential components that bring the Chessnut Air to life, enabling the electronic chessboard to register and recognize the movement of each piece during gameplay. The set includes 34 sensor chips, with two extra queens included for versatility in customizing your chess pieces. Additionally, 34 silicone cases are provided to protect the chips during installation.
