@@ -6,8 +6,8 @@ permalink: "/chess_game/"
 
 ## Chess Game
 
-Here's a chess game played between Bobby Fischer and Boris Spassky in 1972:
-
-here is a board
-
-{% include_relative chess.html %}
+```chess
+fen: r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 1
+arrows: f3->e5 b5->c6
+squares: g5 f7
+```
