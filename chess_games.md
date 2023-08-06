@@ -3,12 +3,6 @@ layout: default
 title: Chess Games
 permalink: "/chess_games/"
 ---
-
-## Chess Games
-
-Here are some annotated chess games in PGN format:
-
-
 <!DOCTYPE html>
 <html>
   <head>
