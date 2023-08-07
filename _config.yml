@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 
 navigation:
   - {file: "index.html"}
- - {file: "chess_games.md"}
+  - {file: "chess_games.md"}
 #  - {file: "chessgames/Skipper-Schroeer-USCF21ENs04.md"}
   - {file: "README.md"}
  
