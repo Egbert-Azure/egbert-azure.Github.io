@@ -28,17 +28,17 @@ Some unboxing pictures:
 <div style="text-align: center;">
   <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/eb7a94e3-e3fe-40bf-9121-b8b9fb7be07c" alt="image" width="300">
   <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/1327331c-b5e0-4739-809a-1292e034ea6c" alt="image" width="300">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/13485982-4743-412c-b108-b9916fccb8af" alt="image" width="300">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/13485982-4743-412c-b108-b9916fccb8af" alt="image" width="150" height="300">
 </div>
 
-The base is slightly bigger:
+- The base is slightly bigger:
 
 <div style="text-align: center;">
   <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/5b20f5b3-4578-4c28-b576-474600637a41" alt="image" width="300">
   <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/b0ccbe79-ae0c-4018-9224-40e19e56c126" alt="image" width="300">
 </div>
 
-Close-up of the Knight with some imperfections on the side:
+- Close-up of the Knight with some imperfections on the side:
 
 <div style="text-align: center;">
   <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/68081eb5-bb96-48fe-b0e3-7d90f4e7b85a" alt="image" width="300">
