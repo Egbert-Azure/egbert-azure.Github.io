@@ -44,10 +44,10 @@ Some unboxing pictures:
   <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/68081eb5-bb96-48fe-b0e3-7d90f4e7b85a" alt="image" width="150" height="300">
 </div>
 
-White lined up:
+- White lined up:
 
 <div style="text-align: center;">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/4ad22af4-9263-436e-af67-61aabbffbee0" alt="image" width="300">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/4ad22af4-9263-436e-af67-61aabbffbee0" alt="image" width="150" height="300">
   <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/8d60cd91-82ef-4499-a599-692b0fa98ece" alt="image" width="300">
 </div>
 
