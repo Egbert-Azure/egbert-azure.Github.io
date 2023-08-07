@@ -102,10 +102,8 @@ The top line shows the original pieces from the vendor and the second line the r
 Building your customized wooden chess pieces with sensors for the Chessnut Air can be rewarding and enjoyable, elevating your chess-playing experience to the next level. Although I faced some challenges with the quality of chessmen and felts from INDIACHESSART, the result was worth the effort. I recommend exploring other options and manufacturers for wooden chess pieces and felts to ensure a seamless and satisfactory chess experience. Based on my experience with this one Etsy store, I contacted others willing to drill the holes for your sensors. Remember, the joy of customizing your chess pieces will add a personal touch to every move you make on the board.
 
 > **_NOTE:_** Update (Note):
-_As of August 2, 2023, I advise against ordering from INDIACHESSART due to the quality issues I encountered with their Rooks, Knights and the need for more satisfactory replacements. For the best results, seek other reputable sellers and stores that can provide high-quality wooden chess pieces, making your journey with the Chessnut Air board remarkable._
-
-> **_NOTE:_**
-*The comments in the Chessnut Facebook group highlight ongoing issues with INDIACHESSART, including unresolved orders and false promises. Despite this, some users report an increase in orders, potentially influenced by moderating activities within the group.It is crucial to support ethical vendors and remain vigilant against those engaging in unfair practices.*
+_As of August 2, 2023, I advise against ordering from INDIACHESSART due to the quality issues I encountered with their Rooks, Knights and the need for more satisfactory replacements. For the best results, seek other reputable sellers and stores that can provide high-quality wooden chess pieces, making your journey with the Chessnut Air board remarkable.
+The comments in the Chessnut Facebook group highlight ongoing issues with INDIACHESSART, including unresolved orders and false promises. Despite this, some users report an increase in orders, potentially influenced by moderating activities within the group. It is crucial to support ethical vendors and remain vigilant against those engaging in unfair practices._
 
 **Footnotes:**
 
