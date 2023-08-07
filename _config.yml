@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
+navigation:
   - {file: "index.html"}
   - {file: "chess_games.md"}
-  - {file: "/chessgames/Skipper-Schroeer-USCF21ENs04.md"}
+  - {file: "chessgames/Skipper-Schroeer-USCF21ENs04.md"}
   - {file: "README.md"}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
