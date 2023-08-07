@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Electronic Knights
+title: Chess Tournaments Overview
 permalink: "/chess_games"
 date: 2023-08-10
-description: "Chess Tournaments Overview"
+description: "Chess Tournaments"
 ---
 
 ## Chess Tournaments
