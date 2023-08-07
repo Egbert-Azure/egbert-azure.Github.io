@@ -52,11 +52,7 @@ Some unboxing pictures:
 </div>
 
 - Black lined up:
-
-<div style="text-align: center;">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/4eb30a6e-d3d3-46a4-b480-4db0b0cbada0" alt="image" width="300" style="transform: rotate(-90deg);">
-</div>
-
+![cn6wfq55](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/0f2713bf-605c-4625-b896-75a572afdd10)
 
 
 *2. Understanding the Chess Piece Sensor Chips:*
