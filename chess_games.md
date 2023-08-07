@@ -1,15 +1,19 @@
 ---
 layout: default
-title: Chess Game
-permalink: "/chess_game/"
+title: Chess Games
+permalink: "/chess_games/"
 ---
 
-## Chess Game Chessbaord
+## Chessboard Example
 
-```chess
-fen: r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 1
-arrows: f3->e5 b5->c6
-squares: g5 f7
-```
+Here's a simple example of a chessboard using Chessboard.js:
 
-{% include_relative chess.html %}
+<!-- Add Chessboard.js script -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard.js/1.0.0/chessboard.min.js"></script>
+
+<div id="board" style="width: 400px;"></div>
+
+<script>
+// Initialize the chessboard
+const board = Chessboard("board", "start");
+</script>
