@@ -63,7 +63,10 @@ Before adding the sensors, ensure the chessmen are free from dirt or debris. Use
 
 *4. Getting the Sensors Ready:*
 Upon receiving the sensor chips, you'll notice they require some trimming to fit precisely into the designated holes of the wooden chess pieces. To ensure a proper fit, test the sensors by turning them upside down and checking if the trimmable area is visible outside the hole. The trimming process can be done easily and carefully, guaranteeing the sensors a snug and secure fit.
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/b7bb9a8c-6fe7-493f-9d82-610f6195c4c5)
+
+<div style="text-align: center;">
+ <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/b7bb9a8c-6fe7-493f-9d82-610f6195c4c5" alt="image" width="300">
+</div>
 
 *6. Ensuring Proper Sensor Placement:*
 Correct placement of the sensor chips within the chess pieces is essential for the Chessnut Air to detect movements during gameplay accurately. After installation, test the depth of the sensor by placing the piece back on the chessboard. If you hear a "metallic click," it indicates that the sensor is not deep enough inside. You can adjust the Blu-Tack accordingly to achieve the desired depth.
