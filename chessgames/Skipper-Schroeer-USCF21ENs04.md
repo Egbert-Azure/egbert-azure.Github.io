@@ -1,7 +1,7 @@
 ---
 layout: page
-title: USCF
-permalink: "/USCF/"
+title: Tournment
+permalink: "/Tournaments/"
 date: 2023-08-06
 ---
 
