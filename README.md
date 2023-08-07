@@ -31,7 +31,7 @@ As we navigate the intricate chessboard of life, let's use chess as a tool for s
 
 Thank you for being a part of this endeavor. Together, we will unlock the secrets of the sixty-four squares, one move at a time. Let's embrace the art of chess, sharpen our minds, and enjoy the wonders of improvement!
 
-Your fellow chess improver, [Your Name]
+Your fellow chess improver
 
 ---
 
