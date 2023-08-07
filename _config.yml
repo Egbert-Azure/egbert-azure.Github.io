@@ -20,8 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "chess_games.md"}
   - {file: "README.md"}
-  - {file: "chessgames/Skipper-Schroeer-USCF21ENs04.html}
-
+ 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chesslife42@myvortexcloud.com"}
   - {title: Github, icon: github, url: "https://github.com/Egbert-Azure"}
