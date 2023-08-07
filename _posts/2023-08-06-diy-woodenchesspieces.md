@@ -51,11 +51,12 @@ Some unboxing pictures:
   <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/8d60cd91-82ef-4499-a599-692b0fa98ece" alt="image" width="300">
 </div>
 
-Black lined up:
+- Black lined up:
 
 <div style="text-align: center;">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/4eb30a6e-d3d3-46a4-b480-4db0b0cbada0" alt="image" width="300">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/4eb30a6e-d3d3-46a4-b480-4db0b0cbada0" alt="image" width="300" style="transform: rotate(-90deg);">
 </div>
+
 
 *2. Understanding the Chess Piece Sensor Chips:*
 The chess piece sensor chips set is specifically designed for DIYers who want to create customized chess pieces with sensors. These sensor chips are essential components that bring the Chessnut Air to life, enabling the electronic chessboard to register and recognize the movement of each piece during gameplay. The set includes 34 sensor chips, with two extra queens included for versatility in customizing your chess pieces. Additionally, 34 silicone cases are provided to protect the chips during installation.
