@@ -4,18 +4,34 @@ title: Chess Games
 permalink: "/chess_games/"
 ---
 
+## Chessboard Example
+
+Here's a simple example of a chessboard using Chessboard.js:
+
+<div id="board" style="width: 400px;"></div>
+
+<script>
+// Add Chessboard.js script
+var board = Chessboard("board", "start");
+</script>
+
 ## Embedded Chess Game
 
-Here's an embedded chess game using an iframe:
+<div style="display: flex; justify-content: center;">
+  <iframe style="border: 0;" width="900px" height="600px" src="https://share.chessbase.com/SharedGames/frame/?p=D5xLg9gaS734iSy+vMBkEtr9n5Mj+sxY+ZACRCBXPNmndNFxyWV6+1u444th7DxV"></iframe>
+</div>
 
-<iframe style="border: 5;" width="900px" height="600px" src="https://share.chessbase.com/SharedGames/frame/?p=D5xLg9gaS734iSy+vMBkEtr9n5Mj+sxY+ZACRCBXPNmndNFxyWV6+1u444th7DxV"></iframe>
+## ChessBase PGN Viewer
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=fYxvOIOqsygYGJwSaoDFuKM8leQOcacxJBuTNSTFh1AQn9jTwHPj+DAYgJ/Ij3QS'></iframe>
+You can use the ChessBase PGN viewer to display chess games as well:
 
-## Embedded Chess Game from Chessbase
+<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
+<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
+<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
+
+<div class="cbreplay" data-url="https://pgn.chessbase.com/your-pgn-file.pgn"></div>
 
 <div class="cbreplay">
-
 [Event "World Championship 28th"]
 [White "Spassky, Boris V"]
 [Black "Fischer, Robert James"]
