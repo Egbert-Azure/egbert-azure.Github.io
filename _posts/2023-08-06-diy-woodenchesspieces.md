@@ -72,14 +72,17 @@ Upon receiving the sensor chips, you'll notice they require some trimming to fit
 
 *6. Ensuring Proper Sensor Placement:*
 Correct placement of the sensor chips within the chess pieces is essential for the Chessnut Air to detect movements during gameplay accurately. After installation, test the depth of the sensor by placing the piece back on the chessboard. If you hear a "metallic click," it indicates that the sensor is not deep enough inside. You can adjust the Blu-Tack accordingly to achieve the desired depth.
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/266c8abe-aa9b-42c9-8ddb-3e24053d0e70)
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/694a9aa4-aa03-489c-bbad-c2d31c660d45)
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/0d9d196e-ac6b-45d3-bf43-7ad15baab842)
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/6326fbbd-8ade-4242-8730-a337aa5fdf6a)
+
+<div style="text-align: center;">
+ <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/266c8abe-aa9b-42c9-8ddb-3e24053d0e70"
+ <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/694a9aa4-aa03-489c-bbad-c2d31c660d45)"
+ <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/0d9d196e-ac6b-45d3-bf43-7ad15baab842)"
+ <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/6326fbbd-8ade-4242-8730-a337aa5fdf6a)"
+</div>
 
 *7. Dealing with Felt Issues:*
 INDIACHESSART promised to deliver self-adhesive felts, but this wasn't the case and a false promise. The felts provided were of subpar quality, necessitating trimming to fit. Instead, I ordered self-adhesive circle felts in various sizes. However, I learned that the 0.5" ones were too small for pawns, so make sure to choose the appropriate size for each piece.
-Here a picture with "preconfigured" adhesive felts. Those are 3/4". Are they ideal? Probably not, but less hassle cutting them on my own without having an arch punch tool. I wish I could find something thinner, but good to go for now. The sensors are protected, slides good, sensor signal is good.
+Here is a picture with "preconfigured" adhesive felts. Those are 3/4". Are they ideal? Probably not, but less hassle cutting them on my own without having an arch punch tool. I wish I could find something thinner, but good to go for now. The sensors are protected, slides good, sensor signal is good.
 
  *8. Dealing with Quality Issues:*
 As said, the pieces from this seller have some things that need fixing, and the shop is unwilling to fix them or deliver a better quality replacement. To give you an idea what you probably are dealing with, here are some pictures.
