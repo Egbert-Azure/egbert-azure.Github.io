@@ -2,6 +2,7 @@
 layout: default
 title: Chess Games
 permalink: "/chess_games/"
+layout: post
 ---
 
 <div style="display: flex; justify-content: center;">
