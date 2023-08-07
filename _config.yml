@@ -33,5 +33,5 @@ comments:
 
 plugins:
   - jekyll-feed
-  - jekyll-relative-links
+
 
