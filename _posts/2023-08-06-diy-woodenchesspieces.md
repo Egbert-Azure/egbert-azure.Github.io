@@ -54,7 +54,7 @@ Some unboxing pictures:
 - Black lined up:
 
 <div style="text-align: center;">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/4eb30a6e-d3d3-46a4-b480-4db0b0cbada0" alt="image" width="300" style="transform: rotate(-90deg);">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/4eb30a6e-d3d3-46a4-b480-4db0b0cbada0" alt="image" width="300" style="transform: rotate(-180deg);">
 </div>
 
 
