@@ -74,10 +74,10 @@ Upon receiving the sensor chips, you'll notice they require some trimming to fit
 Correct placement of the sensor chips within the chess pieces is essential for the Chessnut Air to detect movements during gameplay accurately. After installation, test the depth of the sensor by placing the piece back on the chessboard. If you hear a "metallic click," it indicates that the sensor is not deep enough inside. You can adjust the Blu-Tack accordingly to achieve the desired depth.
 
 <div style="text-align: center;">
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/266c8abe-aa9b-42c9-8ddb-3e24053d0e70"
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/694a9aa4-aa03-489c-bbad-c2d31c660d45)"
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/0d9d196e-ac6b-45d3-bf43-7ad15baab842)"
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/6326fbbd-8ade-4242-8730-a337aa5fdf6a)"
+ <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/266c8abe-aa9b-42c9-8ddb-3e24053d0e70" alt="image" width="300">
+ <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/694a9aa4-aa03-489c-bbad-c2d31c660d45)" alt="image" width="300">
+ <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/0d9d196e-ac6b-45d3-bf43-7ad15baab842)" alt="image" width="300">
+ <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/6326fbbd-8ade-4242-8730-a337aa5fdf6a)" alt="image" width="300">
 </div>
 
 *7. Dealing with Felt Issues:*
