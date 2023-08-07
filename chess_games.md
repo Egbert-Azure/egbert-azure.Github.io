@@ -10,6 +10,7 @@ You can use the ChessBase PGN viewer to display chess games as well:
 
 <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
 <script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
+<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
 
 <div class="cbreplay" data-url="https://raw.githubusercontent.com/Egbert-Azure/egbert-azure.Github.io/master/Skipper-Schroeer-USCF21ENs04.pgn"></div>
 
