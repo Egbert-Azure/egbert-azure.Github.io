@@ -104,6 +104,9 @@ Building your customized wooden chess pieces with sensors for the Chessnut Air c
 > **_NOTE:_** Update (Note):
 _As of August 2, 2023, I advise against ordering from INDIACHESSART due to the quality issues I encountered with their Rooks, Knights and the need for more satisfactory replacements. For the best results, seek other reputable sellers and stores that can provide high-quality wooden chess pieces, making your journey with the Chessnut Air board remarkable._
 
+> **_NOTE:_**
+*The comments in the Chessnut Facebook group highlight ongoing issues with INDIACHESSART, including unresolved orders and false promises. Despite this, some users report an increase in orders, potentially influenced by moderating activities within the group.It is crucial to support ethical vendors and remain vigilant against those engaging in unfair practices.*
+
 **Footnotes:**
 
 - Link to [Chessnut Air DIY Sensor](https://www.chessnutech.com/products/separate-chips)
