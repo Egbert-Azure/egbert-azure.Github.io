@@ -6,8 +6,7 @@ permalink: "/chess_games/"
 
 ## Electronic Knights Semi-Finals
 
-https://share.chessbase.com/SharedGames/game/?p=8mGl5e34vTykdqXNkoNVoOEpy%2FxNfaOcIP2NC4MINRY4vEoMwMmiRYdAzjJIx49o&fbclid=IwAR2C_xOOUHbCASuBACZdagMQlpnlRD0wKGI6LdHguwcKdyGFatzrVruet_8
-
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=D5xLg9gaS734iSy+vMBkEtr9n5Mj+sxY+ZACRCBXPNmndNFxyWV6+1u444th7DxV'></iframe>
 
 ## Chessboard Example (WIP)
 
