@@ -86,9 +86,9 @@ Here is a picture with "preconfigured" adhesive felts. Those are 3/4". Are they 
 
  *8. Dealing with Quality Issues:*
 As said, the pieces from this seller have some things that need fixing, and the shop is unwilling to fix them or deliver a better quality replacement. To give you an idea what you probably are dealing with, here are some pictures.
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/c1aad92b-70fd-4c11-a52c-8b9042c016bd)
+<img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/c1aad92b-70fd-4c11-a52c-8b9042c016bd" alt="image" width="300">
 Here the top line the original pieces and second line the replacement.
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/f9c3df53-f298-4d37-b5d7-13cc6566aa59)
+<img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/f9c3df53-f298-4d37-b5d7-13cc6566aa59" alt="image" width="300">
 
 *Conclusion:*
 Building your customized wooden chess pieces with sensors for the Chessnut Air can be rewarding and enjoyable, elevating your chess-playing experience to the next level. Although I faced some challenges with the quality of chessmen and felts from INDIACHESSART, the result was worth the effort. I recommend exploring other options and manufacturers for wooden chess pieces and felts to ensure a seamless and satisfactory chess experience. Based on my experience with this one Etsy store, I contacted others willing to drill the holes for your sensors. Remember, the joy of customizing your chess pieces will add a personal touch to every move you make on the board.
