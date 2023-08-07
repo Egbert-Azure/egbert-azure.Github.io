@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Section 21ENs03
-permalink: /_chess_tournaments/2023-08-06-game_21ENs03
+permalink: /_chess_tournaments
 date: 2023-08-06
 ---
 
