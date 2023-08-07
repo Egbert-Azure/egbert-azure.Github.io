@@ -1,6 +1,7 @@
 ---
 title:  "DIY Wooden Chessmen"
 layout: post
+categories: media
 ---
 
 ## Building Customized Wooden Chess Pieces with Sensors for Your Chessnut Air Electronic Chessboard
@@ -59,6 +60,9 @@ Some unboxing pictures:
 
 ### 2. Understanding the Chess Piece Sensor Chips:
 The chess piece sensor chips set is specifically designed for DIYers who want to create customized chess pieces with sensors. These sensor chips are essential components that bring the Chessnut Air to life, enabling the electronic chessboard to register and recognize the movement of each piece during gameplay. The set includes 34 sensor chips, with two extra queens included for versatility in customizing your chess pieces. Additionally, 34 silicone cases are provided to protect the chips during installation.
+<div style="text-align: center;">
+ <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/3514d055-1862-4c70-8fc6-ddfdf84855f6" alt="image" width="300">
+</div>
 
 ### 3. Preparing the Chessmen and Sensor Chips:
 Before adding the sensors, ensure the chessmen are free from dirt or debris. Use a soft cloth to clean them gently. The delivered chessmen come with drill holes to accommodate the sensor chips, providing ample space for their placement.
