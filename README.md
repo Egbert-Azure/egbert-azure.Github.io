@@ -45,4 +45,4 @@ Let these articles and the GitHub repository be your guiding light in your pursu
 
 ---
 
-&copy; 2023 [Egbert Schroeer] -  All rights reserved
+&copy; 2023 E. Schroeer - All rights reserved
