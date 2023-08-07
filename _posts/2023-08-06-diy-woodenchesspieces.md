@@ -53,6 +53,7 @@ Some unboxing pictures:
 
 - Black lined up:
 
+</style>
 <style>
   .rotate-image {
     transform: rotate(-90deg);
