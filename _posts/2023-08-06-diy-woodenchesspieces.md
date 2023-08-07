@@ -40,7 +40,7 @@ Some unboxing pictures:
 
 - Close-up of the Knight with some imperfections on the side:
 
-<div style="text-align: left;">
+<div style="text-align: center;">
   <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/68081eb5-bb96-48fe-b0e3-7d90f4e7b85a" alt="image" width="150" height="300">
 </div>
 
