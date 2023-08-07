@@ -10,7 +10,7 @@ Here's a simple example of a chessboard using Chessboard.js
 Updated
 
 <!-- Add Chessboard.js script -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard.js/1.0.0/chessboard.min.js"></script>
+<script src="assets/chessboard-1.0.0.min.js"></script>
 
 <div id="board" style="width: 400px;"></div>
 
