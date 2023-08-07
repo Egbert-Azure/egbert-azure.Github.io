@@ -47,13 +47,12 @@ Some unboxing pictures:
 - White lined up:
 
 <div style="text-align: center;">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/2fa5edb3-f871-4d85-a622-c9a66de62731"> 
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/4ad22af4-9263-436e-af67-61aabbffbee0" alt="image" width="150" height="300">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/8d60cd91-82ef-4499-a599-692b0fa98ece" alt="image" width="300">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/2fa5edb3-f871-4d85-a622-c9a66de62731" alt="image" width="300"> 
+ <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/8d60cd91-82ef-4499-a599-692b0fa98ece" alt="image" width="300">
 </div>
 
 - Black lined up:
-![cn6wfq55](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/0f2713bf-605c-4625-b896-75a572afdd10)
+ <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/0f2713bf-605c-4625-b896-75a572afdd10" alt="image" width="300">
 
 
 *2. Understanding the Chess Piece Sensor Chips:*
