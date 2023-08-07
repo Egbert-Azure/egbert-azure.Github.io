@@ -22,20 +22,40 @@ Upon delivery, I was first impressed with their craftsmanship. Still, some real 
 However, I'm very happy with wooden pieces because they give you a different view, feel, and touch than the cheap and over time decolorizing plastic pieces.
 
 Some unboxing pictures
-- Compared to original pieces (where the plastic started to decolorize)
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/eb7a94e3-e3fe-40bf-9121-b8b9fb7be07c)
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/1327331c-b5e0-4739-809a-1292e034ea6c)
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/13485982-4743-412c-b108-b9916fccb8af)
-- The base is slightly bigger
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/5b20f5b3-4578-4c28-b576-474600637a41)
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/b0ccbe79-ae0c-4018-9224-40e19e56c126)
-- close-up of the Knight with some imperfections on the side
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/68081eb5-bb96-48fe-b0e3-7d90f4e7b85a)
-- White lined up
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/4ad22af4-9263-436e-af67-61aabbffbee0)
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/8d60cd91-82ef-4499-a599-692b0fa98ece)
-- Black lined up
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/4eb30a6e-d3d3-46a4-b480-4db0b0cbada0)
+- Compared to the original pieces (where the plastic started to decolorize)
+Some unboxing pictures:
+
+<div style="text-align: center;">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/eb7a94e3-e3fe-40bf-9121-b8b9fb7be07c" alt="image" width="300">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/1327331c-b5e0-4739-809a-1292e034ea6c" alt="image" width="300">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/13485982-4743-412c-b108-b9916fccb8af" alt="image" width="300">
+</div>
+
+The base is slightly bigger:
+
+<div style="text-align: center;">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/5b20f5b3-4578-4c28-b576-474600637a41" alt="image" width="300">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/b0ccbe79-ae0c-4018-9224-40e19e56c126" alt="image" width="300">
+</div>
+
+Close-up of the Knight with some imperfections on the side:
+
+<div style="text-align: center;">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/68081eb5-bb96-48fe-b0e3-7d90f4e7b85a" alt="image" width="300">
+</div>
+
+White lined up:
+
+<div style="text-align: center;">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/4ad22af4-9263-436e-af67-61aabbffbee0" alt="image" width="300">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/8d60cd91-82ef-4499-a599-692b0fa98ece" alt="image" width="300">
+</div>
+
+Black lined up:
+
+<div style="text-align: center;">
+  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/4eb30a6e-d3d3-46a4-b480-4db0b0cbada0" alt="image" width="300">
+</div>
 
 *2. Understanding the Chess Piece Sensor Chips:*
 The chess piece sensor chips set is specifically designed for DIYers who want to create customized chess pieces with sensors. These sensor chips are essential components that bring the Chessnut Air to life, enabling the electronic chessboard to register and recognize the movement of each piece during gameplay. The set includes 34 sensor chips, with two extra queens included for versatility in customizing your chess pieces. Additionally, 34 silicone cases are provided to protect the chips during installation.
