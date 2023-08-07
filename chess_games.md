@@ -4,7 +4,7 @@ title: Chess Games
 permalink: "/chess_games/"
 ---
 
-## Chessboard Example
+## Chessboard Example (WIP)
 
 Here's a simple example of a chessboard using Chessboard.js
 Updated
