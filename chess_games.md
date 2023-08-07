@@ -4,17 +4,6 @@ title: Chess Games
 permalink: "/chess_games/"
 ---
 
-## Chessboard Example
-
-Here's a simple example of a chessboard using Chessboard.js:
-
-<div id="board" style="width: 400px;"></div>
-
-<script>
-// Add Chessboard.js script
-var board = Chessboard("board", "start");
-</script>
-
 ## Embedded Chess Game
 
 Here's an embedded chess game using an iframe:
