@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chess Tournaments Overview
-permalink: "/chess_games"
+permalink: "/chess_tournaments"
 date: 2023-08-10
 description: "Chess Tournaments"
 ---
