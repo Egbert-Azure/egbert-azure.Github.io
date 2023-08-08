@@ -11,7 +11,7 @@ Greetings, chess enthusiasts and fellow learners! I'm thrilled to have you join 
 
 ### Why Senior Chess Improvement Matters
 
-Chess is an ageless game; no matter where you are in your life journey, there is always room for growth and progress. As an adult chess improver, I understand our unique daily challenges and commitments. Despite busy schedules, we can still find moments to indulge in the beauty of this ancient game and improve our understanding of its complexities.
+Chess is an ageless game; no matter where you are in your life journey, there is always room for growth and progress. As a senior chess improver, I understand our unique daily challenges and commitments. Despite busy schedules, we can still find moments to indulge in the beauty of this ancient game and improve our understanding of its complexities.
 Chess as a senior is not only engaging and enjoyable but also helps improve cognitive function, strategic thinking, and social interactions, contributing to mental agility and overall well-being.
 
 ### About Me
