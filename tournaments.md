@@ -17,7 +17,7 @@ In this tournament, you play one game with each opponent for six games, 3 with W
 |-----------------------|--------------|----------|-------------|--------------------------------|--------|------------|
 | KRICKEL, EDWARD       | 6            | 1        | 12430643    | edkrickel@gmail.com            | 2035   |            |
 | OWENS, JOHNNY         | 5.5          | 2        | 10248795    | chess4ever@protonmail.com       | 2201   |            |
-| SCHROEER, EGBERT      | 5.5          | 3        | 30088451    | chesslife42@outlook.com         | 1947   |            |
+| SCHROEER, EGBERT      | 5.5          | 3        | 30088451    | chesslife42@myvortexcloud.com         | 1947   |            |
 | BUSS, MICHAEL         | 5            | 4        | 12437668    | bussmichael01@gmail.com         | 2423   |            |
 | ANDERSON, CLARENCE    | 5            | 5        | 11179495    | cdanderson_11@comcast.net       | 1767   |            |
 | NOHR, MATTHEW         | 4.5          | 6        | 30126477    | nohrmr@gmail.com                | 2037   |            | 
