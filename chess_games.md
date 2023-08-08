@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Chess Tournaments
 permalink: /chess_tournaments/
 date: 2023-08-06
