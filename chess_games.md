@@ -23,7 +23,7 @@ wip
 
 or this
 
-## 2021 Electronic Knights Championship Semi-Final Section: 21ENs01
+## 2021 Electronic Knights Championship Semi-Final Section: 21ENs03
 
 - Start Date: 3/1/23
 - End Date: 9/1/25
