@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Game 1 Section: 21ENs03
+title: Game 1 Section 21ENs03
 date: 2023-08-10
 description: "Game 1 Section: 21ENs03"
 ---
