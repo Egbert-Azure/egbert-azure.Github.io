@@ -8,6 +8,8 @@ Welcome to my world of competitive chess! In this section, you will find updates
 
 In this tournament, you play one game with each opponent for six games, 3 with White and 3 with Black.
 
+List of games
+
 {% for tournament in site.tournaments %}
 - [**{{ tournament.title }}**]({{ tournament.url | relative_url }})
 {% endfor %}
