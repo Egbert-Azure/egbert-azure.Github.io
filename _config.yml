@@ -20,7 +20,7 @@ minimal: false             # use a dark header
 navigation:
   - {file: "index.html"}
   - {file: "tournaments.md"}
-  - {file: "README.md"}
+  - {file: "about.md"}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chesslife42@myvortexcloud.com"}
