@@ -6,6 +6,7 @@ date: 2023-08-06
 ---
 Welcome to my world of competitive chess! In this section, you will find updates and results from various chess tournaments I have participated in. Currently, you can explore my journey in the **Electronic Knights Semi-Finals** tournament, where I compete against skilled opponents in two exciting sections, **21ENs03** and **21ENs04**.
 
+<<<<<<< HEAD
 In this tournament, you play one game with each opponent for six games, 3 with White and 3 with Black. Send your first 
 move as White to your opponents as indicated:
 
@@ -47,4 +48,8 @@ move as White to your opponents as indicated:
 | SCHROEER, EGBERT   | 4.5          | 6        | 30088451    | chesslife42@myvortexcloud.com       | 1947   |
 | MAHONY, MICHAEL    | 4.5          | 7        | 12154680    | chess@getyourvirtualcto.com   | 1735   |
 
+=======
+Click on the links below to follow my progress and explore or replay the games played in each section:
+[here](/_posts/2023-02-08-welcome-to-my-webpage.md)
+>>>>>>> adb46611312a21cbc651020376438aaf7f706fb7
 
