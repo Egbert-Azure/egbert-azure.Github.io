@@ -6,16 +6,7 @@ date: 2023-08-06
 ---
 Welcome to my world of competitive chess! In this section, you will find updates and results from various chess tournaments I have participated in. Currently, you can explore my journey in the **Electronic Knights Semi-Finals** tournament, where I compete against skilled opponents in two exciting sections, **21ENs03** and **21ENs04**.
 
-In this tournament, you play one game with each opponent for six games, 3 with White and 3 with Black. Send your first 
-move as White to your opponents as indicated:
-
-- Player #1 sends the first move to players 2, 4, 6
-- Player #2 sends the first move to players 3, 5, 7
-- Player #3 sends the first move to players 1, 4, 6
-- Player #4 sends the first move to players 2, 5, 7
-- Player #5 sends the first move to players 1, 3, 6
-- Player #6 sends the first move to players 2, 4, 7
-- Player #7 sends the first move to players 1, 3, 5
+In this tournament, you play one game with each opponent for six games, 3 with White and 3 with Black.
 
 ## 2021 Electronic Knights Championship Semi-Final Section: 21ENs03
 
