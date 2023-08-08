@@ -12,4 +12,4 @@ Tim Corkum won the Electronic Knights in 2018, 2016 and 2011
   <iframe style='border: 0;' width='760px' height='480px' src='https://share.chessbase.com/SharedGames/frame/?p=n0EWyBbXH+TTThRmlQLPFiUsvofXin0Urx7Nn8oIs1nlKWWjEvUJCIz6WV0XLPpo'></iframe>
 </div>
 
-I had the feeling I was leading, but Tim could turn the tide and managed a draw brilliantly. An honor to play with him
+I had the feeling I was leading, but Tim was able to turn the tide and managed a draw brilliantly. An honor to play with him
