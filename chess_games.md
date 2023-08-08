@@ -11,3 +11,12 @@ wip
 {% for tournament in site.tournaments %}
 - [**{{ tournament.title }}**]({{ tournament.url | relative_url }})
 {% endfor %}
+
+## Tournament List
+
+{% for tournament in site.tournaments %}
+### {{ tournament.title }}
+{% for game in tournament.games %}
+- [**{{ game.name }}**]({{ game.url | relative_url }})
+{% endfor %}
+{% endfor %}
