@@ -20,6 +20,7 @@ minimal: false             # use a dark header
 navigation:
   - {file: "index.html"}
   - {file: "tournaments.md"}
+  - {file: "chess_games.md"}
   - {file: "about.md"}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
