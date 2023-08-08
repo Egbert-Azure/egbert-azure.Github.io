@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chess Games Replay
-permalink: "/tournaments/"
+permalink: "/Games_Replay/"
 date: 2023-08-06
 ---
 ## here list of games
