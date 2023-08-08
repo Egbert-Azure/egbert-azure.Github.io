@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Chess Tournaments
 permalink: /_chess_tournaments
 date: 2023-08-06
