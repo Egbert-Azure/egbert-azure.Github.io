@@ -1,3 +1,5 @@
+Site Structure to implement different tournaments & games with Jekyll
+
 ```
 _tournaments/
 ├── 2023-08-06-game_21ENs03/
