@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chess games replay
+title: Chess Games Replay
 permalink: "/Chess Games/"
 date: 2023-08-06
 ---
