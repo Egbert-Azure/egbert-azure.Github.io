@@ -20,7 +20,7 @@ wip
 | Game | Link |
 |------|------|
 {% for game_number in (1..2) %}
-| Game {{ game_number }} | [Link to Game {{ game_number }}]({{ '/tournaments/' | relative_url }}/game_{{ game_number }}.md) |
+| Game {{ game_number }} | [Link to Game {{ game_number }}]({{ '/tournaments/' | relative_url }}game_{{ game_number }}.md) |
 {% endfor %}
 
 
