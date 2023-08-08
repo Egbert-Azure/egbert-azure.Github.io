@@ -13,15 +13,9 @@ Greetings, chess enthusiasts and fellow learners! I'm thrilled to have you join 
 
 Chess is an ageless game, and no matter where you are in your life journey, there is always room for growth and progress. As an adult chess improver, I understand the unique challenges and commitments we face in our daily lives. Despite busy schedules, we can still find moments to indulge in the beauty of this ancient game and improve our understanding of its complexities.
 
-### What to Expect
+### About me
 
-1. **My Learning Journey:** I'll take you through my own experiences and lessons learned as I explore different aspects of chess. From openings and middle-game strategies to endgame techniques, I hope my journey inspires you to embark on your own path of improvement.
-
-2. **Challenges and Triumphs:** Chess is a game of both victories and defeats. I'll share my triumphs and setbacks, emphasizing the lessons I've gained from each game. Remember, learning from mistakes is an integral part of becoming a stronger player.
-
-3. **Resource Recommendations:** Along the way, I'll suggest helpful resources, books, online courses, and tools that have contributed to my growth as a chess player. Feel free to explore them and see how they can benefit you too.
-
-4. **Chess News and Events:** Stay updated with my personal latest chess news on tournaments
+wip
 
 ### Join Me on This Adventure
 
