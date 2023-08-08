@@ -23,16 +23,19 @@ wip
 
 or this
 
-## 2021 Electronic Knights Championship Semi-Final Section: 21ENs03
+## List of Games
 
-- Start Date: 3/1/23
-- End Date: 9/1/25
+{% for tournament in site.tournaments %}
+### {{ tournament.title }}
+
+- Start Date: {{ tournament.start_date }}
+- End Date: {{ tournament.end_date }}
 
 | Game | Link |
 |------|------|
 {% for game_number in (1..2) %}
-| Game {{ game_number }} | [Link to Game {{ game_number }}](_tournaments/game_{{ game_number }}.md) |
+| Game {{ game_number }} | [Link to Game {{ game_number }}]({{ tournament.url | relative_url }}game_{{ game_number }}.md) |
 {% endfor %}
-
+{% endfor %}
 
 
