@@ -14,11 +14,10 @@ wip
 
 # new header
 
-## {{ page.title }}
+{% for tournament in site.tournaments %}
+- [**{{ tournament.title }}**]({{ tournament.url | relative_url }}) - {{ tournament.section }} - {{ tournament.game }}
+{% endfor %}
 
-- Player: {{ page.name }}
-- Section: {{ page.section }}
-- Game: {{ page.game }}
 
 [Link to Game {{ page.game }}](/{{ page.section }}/game_{{ page.game }}.md)
 
