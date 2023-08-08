@@ -20,3 +20,17 @@ wip
 - [**{{ game.name }}**]({{ game.url | relative_url }})
 {% endfor %}
 {% endfor %}
+
+or this
+
+## 2021 Electronic Knights Championship Semi-Final Section: 21ENs01
+
+- Start Date: 3/1/23
+- End Date: 9/1/25
+
+| Game | Link |
+|------|------|
+{% for game_number in (1..2) %}
+| Game {{ game_number }} | [Link to Game {{ game_number }}](/games/game_{{ game_number }}) |
+{% endfor %}
+
