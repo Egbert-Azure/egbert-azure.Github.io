@@ -31,6 +31,7 @@ or this
 | Game | Link |
 |------|------|
 {% for game_number in (1..2) %}
-| Game {{ game_number }} | [Link to Game {{ game_number }}](/tournaments/game_{{ game_number }}) |
+| Game {{ game_number }} | [Link to Game {{ game_number }}](_tournaments/game_{{ game_number }}) |
 {% endfor %}
+
 
