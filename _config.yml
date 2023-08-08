@@ -34,4 +34,9 @@ comments:
 plugins:
   - jekyll-feed
 
+collections:
+  tournaments:
+    output: true
+    permalink: /tournaments/:title/
+
 
