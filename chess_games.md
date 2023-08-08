@@ -12,6 +12,16 @@ wip
 - [**{{ tournament.title }}**]({{ tournament.url | relative_url }})
 {% endfor %}
 
+# new header
+
+## {{ page.title }}
+
+- Player: {{ page.name }}
+- Section: {{ page.section }}
+- Game: {{ page.game }}
+
+[Link to Game {{ page.game }}](/{{ page.section }}/game_{{ page.game }}.md)
+
 ## 2021 Electronic Knights Championship Semi-Final Section: 21ENs04
 
 - Start Date: 3/1/23
