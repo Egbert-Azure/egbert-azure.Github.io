@@ -15,7 +15,7 @@ wip
 # new header
 
 {% for tournament in site.tournaments %}
-- [**{{ tournament.title }}**]({{ tournament.url | relative_url }}) - {{ tournament.section }} - {{ tournament.game }}
+- **{{ tournament.title }}** - {{ tournament.name }} - Section: {{ tournament.section }} - Game: {{ tournament.game }} - [Link]({{ tournament.url | relative_url }})
 {% endfor %}
 
 
