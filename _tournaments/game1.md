@@ -1,7 +1,10 @@
 ---
-title: "Game 1 in Tournament 21ENs03"
+title: "Electronic Knights Semi-Final"
 layout: post
-categories: media
+name: Skipper, Robert Boyd
+section: 21ENs04
+game: 1
+categories: chess
 ---
 
 <div style="display: flex; justify-content: center;">
