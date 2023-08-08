@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Structure
+date: 2023-08-06
+---
 _tournaments/
 ├── 2023-08-06-game_21ENs03/
 │   ├── index.md
