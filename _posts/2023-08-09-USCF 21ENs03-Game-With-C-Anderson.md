@@ -8,7 +8,7 @@ tags: [chess, USCF, tournament, Electronic Knights, competitive chess, Chesspunk
 
 ## A Puzzling Resignation: Unraveling the Kings Indian Defense
 
-In the intricate world of chess, the opening moves can set the stage for captivating battles. My recent encounter with [Clarence Anderson](https://players.chessbase.com/en/player/anderson_clarence/7851) was no exception, as the game took an unexpected turn right from the start. Clarence is a very experienced correspondence chess player per ChessBase Players Database.
+In the intricate world of chess, the opening moves can set the stage for captivating battles. My recent encounter with [Clarence Anderson](https://players.chessbase.com/en/player/anderson_clarence/7851) was no exception, as the game took an unexpected turn right from the start. Clarence is a very experienced correspondence chess player, per ChessBase Players Database.
 
 Faced with his d4 opening move, I opted for the Kings Indian Defense, a dynamic choice that can lead to complex and rich positions. The game swiftly evolved, and both sides began navigating the tactical challenges the Kings Indian is known for.
 
