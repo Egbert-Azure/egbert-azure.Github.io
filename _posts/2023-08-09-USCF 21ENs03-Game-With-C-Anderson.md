@@ -22,8 +22,6 @@ As always, I invite you to explore the game below and draw your conclusions.
 
 **The game will soon be published in my blog page's "Chess Games Replay" section. Enjoy**
 
-![Alt text](image.jpg)
-
 <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
 <script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
 <script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
