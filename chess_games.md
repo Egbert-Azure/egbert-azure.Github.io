@@ -4,15 +4,9 @@ title: Chess Games Replay
 permalink: "/Games_Replay/"
 date: 2023-08-06
 ---
-## here list of games
-
-wip
-
-## Tournament List
+## Annotated games for replay
 
 {% for tournament in site.tournaments %}
-### {{ tournament.title }}
-{% for game in tournament.games %}
-- [**{{ game.name }}**]({{ game.url | relative_url }})
+- **{{ tournament.title }}** - {{ tournament.name }} - Section: {{ tournament.section }} - Game: {{ tournament.game }} - [Link]({{ tournament.url | relative_url }})
 {% endfor %}
-{% endfor %}
+
