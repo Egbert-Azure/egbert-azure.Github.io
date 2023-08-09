@@ -1,7 +1,7 @@
 ---
 layout: post
 title: USCF 21ENs03 - 2021 Electronic Knights
-date: 2023-08-11 00:00:00 -0800
+date: 2023-08-09 09:00:00 -0800
 categories: [chess, chesspunks, tournament, uscf]
 tags: [chess, USCF, tournament, Electronic Knights, competitive chess, Chesspunks, strategy, analysis, results]
 ---
