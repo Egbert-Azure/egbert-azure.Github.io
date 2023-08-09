@@ -16,9 +16,11 @@ However, what caught me off guard was Clarence's decision to resign. At first gl
 
 Tactical analysis shed light on the complexities of the position and revealed a sequence of moves that put me in a favorable place. While resignations can be surprising, they are also a testament to the strategic insight and foresight that players bring to the board.
 
+![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/82a9970d-b565-4a38-b015-6eea9a6ea4b3)
+
 Chess games are more than moves on a board; they're narratives of strategy, calculation, and, sometimes, unexpected twists. Join me in revisiting this intriguing encounter as we unravel the layers of the Kings Indian Defense and the tactical maneuvers that shaped the outcome.
 
-As always, I invite you to explore the game below and draw your conclusions.
+As always, I'd like to invite you to explore the game below and draw your conclusions.
 
 **The game will soon be published in my blog page's "Chess Games Replay" section. Enjoy**
 
