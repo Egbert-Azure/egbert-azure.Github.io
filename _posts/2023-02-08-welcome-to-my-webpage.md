@@ -1,7 +1,7 @@
 ---
 title: "Welcome to my Adult Chess Improver Website"
 layout: post
-categories: media
+categories: chess, media
 ---
 
 **Welcome to Chess - Adult Chess Improver!**

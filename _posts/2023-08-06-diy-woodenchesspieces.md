@@ -1,7 +1,7 @@
 ---
 title:  "DIY Wooden Chessmen"
 layout: post
-categories: media
+categories: chess, media, echessboard
 ---
 
 ## Building Customized Wooden Chess Pieces with Sensors for Your Chessnut Air Electronic Chessboard
