@@ -36,6 +36,10 @@ comments:
 #schedule posts
 future: true
 
+#exclude from build
+exclude:
+  - readme.md
+
 plugins:
   - jekyll-feed
 
