@@ -1,10 +1,12 @@
 ---
 layout: post
-title: USCF 21ENs03 - 2021 Electronic Knights
+title: USCF 21ENs03 - Game with C. Anderson
 date: 2023-08-08 09:00:00 -0800
 categories: [chess, chesspunks, tournament, uscf]
 tags: [chess, USCF, tournament, Electronic Knights, competitive chess, Chesspunks, strategy, analysis, results]
 ---
+
+Text here
 
 <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
 <script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
