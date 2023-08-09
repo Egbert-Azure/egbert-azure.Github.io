@@ -6,6 +6,18 @@ categories: [chess, chesspunks, tournament, uscf]
 tags: [chess, USCF, tournament, Electronic Knights, competitive chess, Chesspunks, strategy, analysis, results]
 ---
 
+## Chess and Virtual Friendship: An Unforeseen Encounter"
+
+In the realm of chess, unexpected connections can lead to remarkable stories. My recent game with my virtual chess friend, Matt Nohr, exemplifies how chess can bridge friendship, innovation, and competition.
+
+Matt and I had previously collaborated on integrating a cluster chess engine into ChessBase, an endeavor that fused our love for chess and technology. Little did I know that our paths would cross again in the Electronic Knights Semi-Finals tournament.
+
+Facing Matt across the virtual board was both thrilling and sentimental. Our game reflected our shared experiences and the power of correspondence chess to connect players beyond the game itself. As the pieces moved, so did our shared history.
+
+This encounter showcased the essence of chess—its ability to unite people and create lasting connections. From collaboration to competition, chess surprises and inspires us, reminding us that friendships can be forged across the chessboard.
+
+**The game below will also be published in the "Chess Games Replay" section of my blog page. Enjoy**
+
 <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
 <script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
 <script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
