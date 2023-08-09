@@ -6,7 +6,7 @@ section: 21ENs04
 game: 1
 categories: chess
 ---
-<h1>{{ page.title }} - {{ page.section }}</h1>
+<h2>{{ page.section }}</h2>
 
 You might enjoy this weird and challenging game, where I tried to leave the typical known path in the opening, creating an early imbalance.
 Besides this, during the game, I enjoyed the conversation with my opponent Robert Skipper, Professor of Philosophy very much.
