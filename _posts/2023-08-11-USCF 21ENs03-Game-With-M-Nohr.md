@@ -16,6 +16,8 @@ Facing Matt across the virtual board was both thrilling and sentimental. Our gam
 
 This encounter showcased the essence of chess—its ability to unite people and create lasting connections. From collaboration to competition, chess surprises and inspires us, reminding us that friendships can be forged across the chessboard.
 
+I'm also excited to share that Matt Nohr has his own chess blog site, where he discusses various chess-related topics. You can check it out at [MattPlaysChess.com](https://mattplayschess.com/).
+
 **The game below will also be published in the "Chess Games Replay" section of my blog page. Enjoy**
 
 <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
