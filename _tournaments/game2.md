@@ -6,6 +6,8 @@ section: 21ENs04
 game: 2
 categories: chess
 ---
+<h1>{{ page.title }} - {{ page.section }}</h1>
+
 Tim Corkum won the Electronic Knights in 2018, 2016 and 2011
 
 <div style="display: flex; justify-content: center;">
