@@ -8,6 +8,7 @@ Welcome to my world of competitive chess! In this section, you will find updates
 
 In this tournament, you play one game with each opponent for six games, 3 with White and 3 with Black.
 
+# US Correspondence Chess:
 ## 2021 Electronic Knights Championship Semi-Final Section: 21ENs03
 
 - Start Date: 3/1/23
@@ -37,3 +38,29 @@ In this tournament, you play one game with each opponent for six games, 3 with W
 | SKIPPER, ROBERT    | 5            | 5        | 12453298    | 1952   |            |
 | SCHROEER, EGBERT   | 4.5          | 6        | 30088451    | 1947   |            |
 | MAHONY, MICHAEL    | 4.5          | 7        | 12154680    | 1735   |
+
+
+## 2021 Electronic Knights Championship - Preliminary Round: 21EN15 
+
+| Name | US Chess ID# | Rating | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lawrence Reifurth | 12341360 | 2099 | | | | | | | | |
+| Hugh Whelan | 30075464 | 2004 | | | | | | | | |
+| Egbert Schroeer | 30088451 | 1933 | | | | | | | | |
+| Michael Bashur | 12529353 | 1797 | | | | | | | | |
+| Timothy Tingen | 12528883 | 1625 | | | | | | | | |
+| Herbert Wolfe | 20000272 | 1510 | | | | | | | | |
+| Hank Cox | 12602675 | 1093 | | | | | | | | |
+
+## 2021 Electronic Knights Championship - Preliminary Round: 21EN09 
+
+| Name | US Chess ID# | Rating | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Edward Krickel | 12430643 | 1766 | | | | | | | | |
+| Slawo Lomnicki | 30109356 | 1718 | | | | | | | | |
+| Christopher Ward | 30102093 | 1549 | | | | | | | | |
+| Bradley Dengler | 12537699 | Unr. | | | | | | | | |
+| Iain McLaren | 30176077 | Unr. | | | | | | | | |
+| Egbert Schroeer | 30088451 | Unr. | | | | | | | | |
+| Austin Houck | 30168557 | Unr. | | | | | | | | |
+
