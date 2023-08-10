@@ -3,7 +3,7 @@ Title: My Journey into Correspondence Chess and Unexpected Recognition
 Date: 2023-03-03
 Categories: [chess, tournament, correspondence chess, chesspunks]
 Tags: [chess, USCF, tournament, Electronic Knights, correspondence chess, improvement, learning, recognition, senior chess players]
-Excerpt: Embark on my captivating journey into correspondence chess, where I joined the USCF and participated in the 2021 Electronic Knights Championship. Discover the valuable lessons I learned from facing off against seasoned players and how an unexpected recognition in the chess community marked a significant milestone in my chess adventure.
+excerpt: Discover the valuable lessons I learned from facing off against seasoned players and how an unexpected recognition in the chess community marked a significant milestone in my chess adventure.
 ---
 
 ## A New Chapter in My Chess Journey: Correspondence Chess Debut
