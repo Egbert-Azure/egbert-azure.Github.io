@@ -23,6 +23,8 @@ In my journey, I've found joy in exploring my roots through genealogy and challe
 Best regards,
 Egbert Schroeer
 
+> **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+
 **Footnotes:**
 
 1. For an in-depth exploration of building a remote cluster for the Stockfish Chess Engine, check out my article on LinkedIn: [Building a Remote Cluster for Stockfish Chess Engine](https://www.linkedin.com/pulse/building-remote-cluster-stockfish-chess-engine-egbert-schr%C3%B6er/).

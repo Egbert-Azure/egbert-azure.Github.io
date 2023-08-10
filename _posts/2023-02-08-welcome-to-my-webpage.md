@@ -43,3 +43,5 @@ Your fellow chess improver, Egbert
 3. If you're interested in exploring the code and resources related to the Stockfish Chess Engine remote cluster, feel free to visit my GitHub repository: [Stockfish Chess Engine Remote Cluster Repository](https://github.com/Egbert-Azure/stockfish-cluster).
 
 Let these articles and the GitHub repository be your guiding light in your pursuit of understanding and implementing the Stockfish Chess Engine in a remote cluster setup. Happy reading and coding!
+
+> **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
