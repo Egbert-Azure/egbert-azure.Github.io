@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my Adult Chess Improver Website"
+title: "Welcome to my Senior Chess Improver Website"
 layout: post
 categories: [chess, improvement, tournaments]
 tags: [chess, competitive play, strategy, analysis, chess community, chesspunks]
@@ -33,6 +33,8 @@ Thank you for being a part of this endeavor. Together, we will unlock the secret
 Your fellow chess improver, Egbert
 
 **Footnotes:**
+
+[Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
 
 1. For an in-depth exploration of building a remote cluster for the Stockfish Chess Engine, check out my article on LinkedIn: [Building a Remote Cluster for Stockfish Chess Engine](https://www.linkedin.com/pulse/building-remote-cluster-stockfish-chess-engine-egbert-schr%C3%B6er/).
 
