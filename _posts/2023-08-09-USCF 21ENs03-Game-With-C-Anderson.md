@@ -4,7 +4,7 @@ title: USCF 21ENs03 - Game with C. Anderson
 date: 2023-08-08 09:00:00 -0800
 categories: [chess, chesspunks, tournament, uscf]
 tags: [chess, USCF, tournament, Electronic Knights, competitive chess, Chesspunks, strategy, analysis, results]
-excerpt: In the intricate world of chess, the opening moves can set the stage for captivating battles. My recent encounter with [Clarence Anderson](https://players.chessbase.com/en/player/anderson_clarence/7851) was no exception, as the game took an unexpected turn right from the start.
+excerpt: In the intricate world of chess, the opening moves can set the stage for captivating battles. My recent encounter with Clarence Anderson was no exception, as the game took an unexpected turn right from the start.
 ---
 
 ## A Puzzling Resignation: Unraveling the Kings Indian Defense
