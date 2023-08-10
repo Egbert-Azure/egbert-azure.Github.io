@@ -26,7 +26,7 @@ As always, I'd like to invite you to explore the game below and draw your conclu
 <script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
 <script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
 
-<div class="cbreplay"style="width: 300px;">
+<div class="cbreplay">
 
 [Event "USCF  21ENs03 - 2021 Electronic Knights"]
 [Site "?"]
