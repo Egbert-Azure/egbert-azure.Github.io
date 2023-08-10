@@ -4,6 +4,7 @@ title: USCF 21ENs03 - Game with M. Nohr
 date: 2023-08-09 09:00:00 -0800
 categories: [chess, chesspunks, tournament, uscf]
 tags: [chess, USCF, tournament, Electronic Knights, competitive chess, Chesspunks, strategy, analysis, results]
+excerpt: A fascinating recent chess match that unexpectedly brought me face-to-face with my virtual chess friend, Matt Nohr. From our collaborative efforts on a cluster chess engine to an intriguing tournament showdown, discover the moves, strategies, and camaraderie that make this game a memorable episode in my chess story.
 ---
 
 ## Chess and Virtual Friendship: An Unforeseen Encounter"
