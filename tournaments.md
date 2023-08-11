@@ -68,24 +68,13 @@ In this tournament, you play one game with each opponent for six games, 3 with W
 
 ## 2021 Victor Palciauskas ICCF Tournament
 
+[Crosstable](https://www.iccf.com/event?id=93278)
 
-| # | USCF/WS/21VP04 | Player            | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Score | Wins |
-|---|---------------|-------------------|---|---|---|---|---|---|---|-------|------|
-| 1 | USA 518240    | Schroeer, Egbert  | 1 | 1 | 1 | 1 | 1 | 1E | 6 | 6     | 15   |
-| 2 | USA 518219    | LaDuke, Matt      | 0 |   | 1 | 1 | 1D| 1E | 5 | 5     | 10   |
-| 3 | USA 518232    | Moskowitz, Bruce  | 0 | 0 |   | 1 | 1 | 1E | 4 | 4     | 6    |
-| 4 | USA 518268    | Heidrick, Mark    | 0 | 0 | 0 |   | 1D| 1D | 3 | 3     | 3    |
-| 5 | USA 518245    | Churchill, Kyle   | 0 | 0D| 0 | 0D|   | 1D | 2 | 2     | 1    |
-| 6 | USA 518266    | Kotadia, Kiaan    | 0 | 0 | 0 | 0D| 0D|    | 1 | 1     | 0    |
-| 7 | USA 518265    | Mckinney, Robert  | 0E| 0E| 0E| 0E| 0E| 0E | 0 | 0     | 0    |
-
-XD = result by default; XE = exceeded time limit
-
-
-
-
-<div style="text-align:center">
-    <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/8a11d0ae-7a82-4b14-a28b-43ceb70df4be" alt="image" width="300">
+<div align="center">
+    <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/8a11d0ae-7a82-4b14-a28b-43ceb70df4be" alt="Result Image" width="400">
+    <div align="center">
+        <p><em>Certificate signed by Victor Palciauskas</em></p>
+    </div>
 </div>
 
 
