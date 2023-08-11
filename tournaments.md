@@ -80,3 +80,6 @@ In this tournament, you play one game with each opponent for six games, 3 with W
 XD = result by default
 XE = exceeded time limit
 Result: First place with score 6-0
+![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/8a11d0ae-7a82-4b14-a28b-43ceb70df4be)
+
+
