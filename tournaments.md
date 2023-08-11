@@ -67,19 +67,25 @@ In this tournament, you play one game with each opponent for six games, 3 with W
 | Austin Houck | 30168557 | Unr. | | | | | | | | |
 
 ## 2021 Victor Palciauskas ICCF Tournament
-| # | USCF/WS/21VP04 | Player               | 1   | 2   | 3   | 4   | 5   | 6   | 7   | Score | Wins | SB  | RG | Place |
-|---|---------------|----------------------|-----|-----|-----|-----|-----|-----|-----|-------|------|-----|----|-------|
-| 1 | USA 518240    | Schroeer, Egbert     | 1   | 1   | 1   | 1   | 1   | 1E  | 6   | 6     | 15   | 0   | 1  |
-| 2 | USA 518219    | LaDuke, Matt         | 0   |     | 1   | 1   | 1D  | 1E  | 5   | 5     | 10   | 0   | 2  |
-| 3 | USA 518232    | Moskowitz, Bruce     | 0   | 0   |     | 1   | 1   | 1E  | 4   | 4     | 6    | 0   | 3  |
-| 4 | USA 518268    | Heidrick, Mark       | 0   | 0   | 0   |     | 1D  | 1D  | 3   | 3     | 3    | 0   | 4  |
-| 5 | USA 518245    | Churchill, Kyle      | 0   | 0D  | 0   | 0D  |     | 1D  | 2   | 2     | 1    | 0   | 5  |
-| 6 | USA 518266    | Kotadia, Kiaan       | 0   | 0   | 0   | 0D  | 0D  |     | 1   | 1     | 0    | 0   | 6  |
-| 7 | USA 518265    | Mckinney, Robert     | 0E  | 0E  | 0E  | 0E  | 0E  | 0E  | 0   | 0     | 0    | 0   | 7  |
 
-XD = result by default
-XE = exceeded time limit
-Result: First place with score 6-0
-![image](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/8a11d0ae-7a82-4b14-a28b-43ceb70df4be)
+
+| # | USCF/WS/21VP04 | Player            | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Score | Wins |
+|---|---------------|-------------------|---|---|---|---|---|---|---|-------|------|
+| 1 | USA 518240    | Schroeer, Egbert  | 1 | 1 | 1 | 1 | 1 | 1E | 6 | 6     | 15   |
+| 2 | USA 518219    | LaDuke, Matt      | 0 |   | 1 | 1 | 1D| 1E | 5 | 5     | 10   |
+| 3 | USA 518232    | Moskowitz, Bruce  | 0 | 0 |   | 1 | 1 | 1E | 4 | 4     | 6    |
+| 4 | USA 518268    | Heidrick, Mark    | 0 | 0 | 0 |   | 1D| 1D | 3 | 3     | 3    |
+| 5 | USA 518245    | Churchill, Kyle   | 0 | 0D| 0 | 0D|   | 1D | 2 | 2     | 1    |
+| 6 | USA 518266    | Kotadia, Kiaan    | 0 | 0 | 0 | 0D| 0D|    | 1 | 1     | 0    |
+| 7 | USA 518265    | Mckinney, Robert  | 0E| 0E| 0E| 0E| 0E| 0E | 0 | 0     | 0    |
+
+XD = result by default; XE = exceeded time limit
+
+
+
+
+<div style="text-align:center">
+    <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/8a11d0ae-7a82-4b14-a28b-43ceb70df4be" alt="image" width="300">
+</div>
 
 
