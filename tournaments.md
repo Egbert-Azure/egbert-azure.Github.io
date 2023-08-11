@@ -3,6 +3,8 @@ layout: page
 title: Chess Tournaments
 permalink: "/tournaments/"
 date: 2023-08-06
+categories: [chess, chesspunks, tournament, uscf, iccf]
+tags: [chess, USCF, ICCF, tournament, Electronic Knights, competitive chess, Chesspunks, strategy, analysis, results]
 ---
 Welcome to my world of competitive chess! In this section, you will find updates and results from various chess tournaments I have participated in. Currently, you can explore my journey in the **Electronic Knights Semi-Finals** tournament, where I compete against skilled opponents in two exciting sections, **21ENs03** and **21ENs04**.
 
