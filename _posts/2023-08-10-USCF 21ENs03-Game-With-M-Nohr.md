@@ -7,7 +7,7 @@ tags: [chess, USCF, tournament, Electronic Knights, competitive chess, Chesspunk
 excerpt: A fascinating recent chess match that unexpectedly brought me face-to-face with my virtual chess friend, Matt Nohr. From our collaborative efforts on a cluster chess engine to an intriguing tournament showdown, discover the moves, strategies, and camaraderie that make this game a memorable episode in my chess story.
 ---
 
-## Chess and Virtual Friendship: An Unforeseen Encounter"
+## Chess and Virtual Friendship: An Unforeseen Encounter
 
 In the realm of chess, unexpected connections can lead to remarkable stories. My recent game with my virtual chess friend, Matt Nohr, exemplifies how chess can bridge friendship, innovation, and competition.
 
