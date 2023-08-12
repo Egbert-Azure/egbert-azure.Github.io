@@ -12,8 +12,8 @@ In USCF tournaments, you play one game with each opponent for six games, 3 with 
 
 # US Correspondence Chess:
 
-
 ## USCF 23EN11 - 2023 Electronic Knights 2023
+
 
 |   | Name              | Rating | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Total |
 |---|-------------------|--------|---|---|---|---|---|---|---|-------|
@@ -24,7 +24,10 @@ In USCF tournaments, you play one game with each opponent for six games, 3 with 
 | 5 | Castle, Tom       | 1399   |   |   |   |   | * |   |   | 0.0/0 |
 | 6 | Moscow, Eric      | xxxx   |   |   |   |   |   | * |   | 0.0/0 |
 | 7 | Miller, Joshua    | xxxx   |   |   |   |   |   |   | * | 0.0/0 |
+
+
 xxx = unrated
+
 
 ## 2021 Electronic Knights Championship Semi-Final Section: 21ENs03
 
