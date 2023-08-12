@@ -62,13 +62,12 @@ And - eh voila - with hitting the **Crosstable** icon and
 
 ![Crosstable](<../jpg/Screenshot 2023-08-11 203010.jpg>)
 
-here we have our database and this nice crosstable in ChessBase:
+Here we have our database and this nice crosstable in ChessBase:
 
 <p align="center">
 <img src="../jpg/Screenshot 2023-08-11 202542.jpg" alt="Crosstable" width="400">
 </p>
 
-Here we have our database and this nice crosstable in ChessBase:
 Now one of the great features is that if you have the player database installed, all players in **Metadatabase** get automatically assigned. Those in ChessBase own **Correspondence** database, unfortunately not.
 
 And another excellent function with one click, you get the table to the clipboard in ASCII format. Like this, with one click.
