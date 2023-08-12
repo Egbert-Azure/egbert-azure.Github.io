@@ -6,7 +6,7 @@ excerpt: Learn how to efficiently create and manage a ChessBase tournament datab
 tags: [ChessBase, correspondence chess, game tracking, crosstable, USCF, tutorial]
 date: 2023-08-12 00:00:00 -0700
 ---
-Upcoming Friday will be no blog, so Saturday and Chess Week.
+Upcoming Friday will be no blog, so it is today, Saturday and happy Chess Week to you all.
 
 So, whats up today? I recently boldly decided to participate in the 2023 Electronic Knights Championship. With pairings happening swiftly, I realized it was the ideal moment to share my practical approach to effortlessly creating a crosstable using a ChessBase tournament database. I guide you through effectively managing your correspondence chess games and generating a comprehensive crosstable.
 
