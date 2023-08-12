@@ -3,10 +3,8 @@ title: "Welcome to my Senior Chess Improver Website"
 layout: post
 categories: [chess, improvement, tournaments]
 tags: [chess, competitive play, strategy, analysis, chess community, chesspunks]
-excerpt: Discover a hub of chess insights, strategies, and tales of competition in chess. Join me on a journey of improvement, and a "I'm retired but not dead" approach. I share my journey here, which might help elevate your chess skills.
+excerpt: Discover a hub of chess insights, strategies, and tales of competition in chess. Join me on a journey of improvement, and a "I'm retired but not dead" approach.
 ---
-
-**Welcome to Chess - Adult Chess Improver!**
 
 Greetings, chess enthusiasts and fellow learners! I'm delighted to have you join me on this exciting journey of chess improvement. Here, I'll be sharing my personal experiences, insights, and discoveries as I strive to enhance my skills in the captivating world of chess.
 
