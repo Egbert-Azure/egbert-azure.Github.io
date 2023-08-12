@@ -55,8 +55,6 @@ To get started, follow these quick steps:
 
 <li>Don't forget to check the box at *Corr. Chess*</li>
 </ol>
-<li>Don't forget to check the box at *Corr. Chess*</li>
-</ol>
 
 And - eh voila - with hitting the **Crosstable** icon and
 
