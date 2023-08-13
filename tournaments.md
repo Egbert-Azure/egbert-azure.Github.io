@@ -40,7 +40,7 @@ xxx = unrated
 | OWENS, JOHNNY         | 5.5          | 2        | 10248795    | 2201   |            |
 | SCHROEER, EGBERT      | 5.5          | 3        | 30088451    | 1947   |            |
 | BUSS, MICHAEL         | 5            | 4        | 12437668    | 2423   |            |
-| ANDERSON, CLARENCE    | 5            | 5        | 11179495    |    1767   |       |
+| ANDERSON, CLARENCE    | 5            | 5        | 11179495    |    1767   |[Game Replay](https://egbert-azure.github.io/tournaments/game4/)     |
 | NOHR, MATTHEW         | 4.5          | 6        | 30126477    | 2037   |            | 
 | WOLFE, HERBERT        | 4.5          | 7        | 20000272    | 1606   |            | 
 
@@ -95,4 +95,9 @@ xxx = unrated
     </div>
 </div>
 
+## USCF friendly matches
+
+[Peru - USA friendly match](https://www.iccf.com/event?id=93232)
+
+[Cuba - USA friendly match](https://www.iccf.com/event?id=95989)
 
