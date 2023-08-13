@@ -54,7 +54,7 @@ xxx = unrated
 | STEWART, DOUGLAS   | 6            | 1        | 20109893    | 1955   |            |
 | KRICKEL, EDWARD    | 5.5          | 2        | 12430643    | 2035   |            |
 | BUSS, MICHAEL      | 5            | 3        | 12437668    | 2423   |            |
-| CORKUM, TIM        | 5            | 4        | 12179010    | 2386   |            |
+| CORKUM, TIM        | 5            | 4        | 12179010    | 2386   |[Game replay](https://egbert-azure.github.io/tournaments/game2/)           |
 | SKIPPER, ROBERT    | 5            | 5        | 12453298    | 1952   |[Game replay](https://egbert-azure.github.io/tournaments/game1/)            |
 | SCHROEER, EGBERT   | 4.5          | 6        | 30088451    | 1947   |            |
 | MAHONY, MICHAEL    | 4.5          | 7        | 12154680    | 1735   |
