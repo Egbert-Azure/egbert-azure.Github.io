@@ -97,7 +97,14 @@ xxx = unrated
 
 ## USCF friendly matches
 
-[Peru - USA friendly match](https://www.iccf.com/event?id=93232)
+[PER - USA 2021 Board 38](https://www.iccf.com/event?id=93232) - finished
 
-[Cuba - USA friendly match](https://www.iccf.com/event?id=95989)
+[CUB - USA 2 2021 Board 74](https://www.iccf.com/event?id=95989) - finished
 
+[GER - USA 2022 Board 83](https://www.iccf.com/event?id=99816) - running
+
+[FIN - USA 2022 Board 18](https://www.iccf.com/event?id=98691) - finished
+
+[HUN - USA 2022 Board 18](https://www.iccf.com/event?id=100532) - finished
+
+[SUI - USA 2023 Board 20](https://www.iccf.com/event?id=101708) - running
