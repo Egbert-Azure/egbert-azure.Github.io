@@ -41,7 +41,7 @@ xxx = unrated
 | SCHROEER, EGBERT      | 5.5          | 3        | 30088451    | 1947   |            |
 | BUSS, MICHAEL         | 5            | 4        | 12437668    | 2423   |            |
 | ANDERSON, CLARENCE    | 5            | 5        | 11179495    |    1767   |[Game Replay](https://egbert-azure.github.io/tournaments/game4/)     |
-| NOHR, MATTHEW         | 4.5          | 6        | 30126477    | 2037   |            | 
+| NOHR, MATTHEW         | 4.5          | 6        | 30126477    | 2037   |[Game Replay](https://egbert-azure.github.io/tournaments/game3/)            | 
 | WOLFE, HERBERT        | 4.5          | 7        | 20000272    | 1606   |            | 
 
 ## 2021 Electronic Knights Championship Semi-Final Section: 21ENs04
