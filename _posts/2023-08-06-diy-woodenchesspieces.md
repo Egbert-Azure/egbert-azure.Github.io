@@ -1,6 +1,7 @@
 ---
 title:  "Crafting DIY Wooden Chessmen with Embedded Sensors"
 layout: post
+comments: true
 categories: [chess, chesspunks, chessmen]
 tags: [chess, ChessNut, Chesspunks]
 excerpt: Elevate your chess experience with a step-by-step guide on how to create your own custom wooden chess pieces, complete with embedded sensors. Enhance your ChessNut Air, Pro, or Plus chessboard with these personalized and interactive chessmen, making your games truly extraordinary.

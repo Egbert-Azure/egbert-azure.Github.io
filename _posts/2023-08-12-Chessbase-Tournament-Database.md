@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Creating a ChessBase Tournament Database for Correspondence Chess
 categories: [chess, correspondence chess, ChessBase, game management]
 excerpt: Learn how to efficiently create and manage a ChessBase tournament database for correspondence chess, track your games, and generate a comprehensive crosstable.

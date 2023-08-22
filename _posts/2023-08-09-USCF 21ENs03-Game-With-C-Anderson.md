@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: USCF 21ENs03 - Game with C. Anderson
 date: 2023-08-08 09:00:00 -0800
 categories: [chess, chesspunks, tournament, uscf]

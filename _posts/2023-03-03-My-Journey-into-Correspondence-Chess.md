@@ -1,4 +1,6 @@
 ---
+layout:
+comments: true
 Title: My Journey into Correspondence Chess and Unexpected Recognition
 Date: 2023-03-03
 Categories: [chess, tournament, correspondence chess, chesspunks]

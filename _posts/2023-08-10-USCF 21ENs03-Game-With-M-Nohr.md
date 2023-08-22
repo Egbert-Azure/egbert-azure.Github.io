@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: USCF 21ENs03 - Game with M. Nohr
 date: 2023-08-09 09:00:00 -0800
 categories: [chess, chesspunks, tournament, uscf]
