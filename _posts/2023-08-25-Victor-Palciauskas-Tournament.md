@@ -12,7 +12,7 @@ In today's blog, I share an achievement that marks my first taste of success aft
 1. Nf3 d5
 2. c4
 
-with then different transpositions such as Slav Defense, Catalan among others. As pointed out in my blog [The Road to ELO 2000 - Unlearning and Rediscovering Openings](https://egbert-azure.github.io/the-road-to-elo-2000/) I later moved to another variation.
+with then different transpositions such as Slav Defense, Catalan among others. As pointed out in my blog [The Road to ELO 2000 - Unlearning and Rediscovering Openings](https://egbert-azure.github.io/the-road-to-elo-2000/) I later moved to another Reti variation.
 
 Now the spotlight shines on the Victor Palciauskas Tournament July 2021, a USCF correspondence chess event with a special place in my journey.
 
