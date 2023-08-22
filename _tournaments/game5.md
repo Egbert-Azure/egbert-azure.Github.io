@@ -15,17 +15,17 @@ I resigned from the game to maintain my fair play and sportsmanship principles.
 ## My mail to my opponent:
 
 *Dear Douglas,*
-Thank you for getting back to me. I understand that we have differing views on how to handle this situation.
-As a player, open communication, respect for the rules, and sportsmanship are crucial aspects of correspondence chess. When I notice an error in my opponent's recording, I immediately communicate with my opponent and rectify the mistake promptly. This situation happened three times in this "Electronic Knights" tournament section. My opponents highly appreciated this. 
-Given the impact of the recorded error on move 18, I would like to propose two potential paths to address this matter fairly:
-Option A: Consider the game a draw. Since the recording error on move 18 had significant consequences, this decision would uphold the integrity of the game.
-Option B: Replay the game from Move 18. We can ensure a fair contest without any unintended advantages or disadvantages by starting over.
-I understand you have declined the draw offer previously, but I really hope you reconsider, as it would be a fair solution. Alternatively, we could consult the arbiter and wait for the decision on how best to proceed.
-However, if you decide not to consider either option, I will have to express my regrets, but I cannot continue the game under the current circumstances. I will resign from the game to maintain my fair play and sportsmanship principles.
+*Thank you for getting back to me. I understand that we have differing views on how to handle this situation.*
+*As a player, open communication, respect for the rules, and sportsmanship are crucial aspects of correspondence chess. When I notice an error in my opponent's recording, I immediately communicate with my opponent and rectify the mistake promptly. This situation happened three times in this "Electronic Knights" tournament section. My opponents highly appreciated this.*
+*Given the impact of the recorded error on move 18, I would like to propose two potential paths to address this matter fairly:
+Option A: Consider the game a draw. Since the recording error on move 18 had significant consequences, this decision would uphold the integrity of the game.*
+*Option B: Replay the game from Move 18. We can ensure a fair contest without any unintended advantages or disadvantages by starting over.
+I understand you have declined the draw offer previously, but I really hope you reconsider, as it would be a fair solution. Alternatively, we could consult the arbiter and wait for the decision on how best to proceed.*
+*However, if you decide not to consider either option, I will have to express my regrets, but I cannot continue the game under the current circumstances. I will resign from the game to maintain my fair play and sportsmanship principles.*
 
-Regardless of the outcome, we might meet again in a future tournament. After all, we are all swimming in the same fishbowl of the chess community, and this shared passion connects us all.
+*Regardless of the outcome, we might meet again in a future tournament. After all, we are all swimming in the same fishbowl of the chess community, and this shared passion connects us all.*
 
-I hope we find a solution that upholds the spirit of correspondence chess and fosters mutual respect among players.
+*I hope we find a solution that upholds the spirit of correspondence chess and fosters mutual respect among players.*
 
 *Amici Sumus,*
 
