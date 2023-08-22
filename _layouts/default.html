@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-<title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
-<meta charset="{{ site.encoding }}">
+<html lang="en">
+<head>
+<head>
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="author" content="{{ page.author | default: site.author | escape }}">
 <meta name="generator" content="Jekyll v{{ jekyll.version }}">
 <meta name="follow.it-verification-code" content="y2CG8GTS4Gy7NSYGG3mr"/>
@@ -19,13 +21,12 @@
 <script defer src="{{ "/assets/katex/contrib/auto-render.min.js" | relative_url }}" onload="renderMathInElement(document.body)"></script>
 {% endif %}
 {% if site.comments.disqus_shortname and page.layout == "post" %}
-  <script src="//{{ site.comments.disqus_shortname }}.disqus.com/embed.js" async></script>
-{% endif %}
-{% if site.comments.isso_domain and page.layout == "post" %}
-  <script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>
+  <script src="https://https-egbert-azure-github-io.disqus.com/embed.js" async></script>
 {% endif %}
 {% if site.show_sidebar or site.sidebar %}{% include sidebar.html %}{% endif %}
-
+<title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+</head>
+<body>
 {% if site.navigation %}
   {% assign pages = site.navigation %}
 {% else %}
@@ -46,6 +47,5 @@
 </footer>
 {% endif %}
 
+</body>
 </html>
-
-

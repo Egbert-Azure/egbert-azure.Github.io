@@ -1,11 +1,11 @@
 ---
 layout: post
+comments: true
 title: 'First Success - Victor Palciauskas Tournament'
 categories: '[ chess, correspondence chess, tournament ]'
 excerpt: Delve into my success in the Victor Palciauskas Tournament 2021, a USCF correspondence chess event where I secured an undefeated victory. Explore my favorite game from the tournament and the strategic maneuvers that led to success.
 tags: [correspondence chess, USCF, success]
 date: 2023-08-22T07:00:00+00:00
-comments: true
 ---
 
 In today's blog, I share an achievement that marks my first taste of success after returning to chess and changing my opening strategy to Reti as White. The Réti Opening is a hypermodern chess opening whose "traditional" or "classic method" begins with the moves:
