@@ -44,6 +44,8 @@ xxx = unrated
 | NOHR, MATTHEW         | 4.5          | 6        | 30126477    | 2037   |[Game Replay](https://egbert-azure.github.io/tournaments/game3/)            | 
 | WOLFE, HERBERT        | 4.5          | 7        | 20000272    | 1606   |            | 
 
+Section result so far: 4 wins
+
 ## 2021 Electronic Knights Championship Semi-Final Section: 21ENs04
 
 - Start Date: 3/1/23
@@ -51,7 +53,7 @@ xxx = unrated
 
 | Name               | Prelim Score | Player # | US Chess ID | Rating | Game Links |
 |--------------------|--------------|----------|-------------|--------|------------|
-| STEWART, DOUGLAS   | 6            | 1        | 20109893    | 1955   |            |
+| STEWART, DOUGLAS   | 6            | 1        | 20109893    | 1955   |[Game Replay](https://egbert-azure.github.io/tournaments/game5/)            |
 | KRICKEL, EDWARD    | 5.5          | 2        | 12430643    | 2035   |            |
 | BUSS, MICHAEL      | 5            | 3        | 12437668    | 2423   |            |
 | CORKUM, TIM        | 5            | 4        | 12179010    | 2386   |[Game replay](https://egbert-azure.github.io/tournaments/game2/)           |
@@ -59,6 +61,7 @@ xxx = unrated
 | SCHROEER, EGBERT   | 4.5          | 6        | 30088451    | 1947   |            |
 | MAHONY, MICHAEL    | 4.5          | 7        | 12154680    | 1735   |
 
+Section result so far: 1 win, 2 draws, 1 loss.
 
 ## 2021 Electronic Knights Championship - Preliminary Round: 21EN15 
 
