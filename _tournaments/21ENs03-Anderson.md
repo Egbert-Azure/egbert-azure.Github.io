@@ -3,7 +3,6 @@ title: "Electronic Knights Semi-Final"
 layout: post
 name: Anderson, Clarence
 section: 21ENs03
-game: 2
 categories: chess
 ---
 

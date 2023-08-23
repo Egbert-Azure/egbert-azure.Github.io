@@ -9,10 +9,11 @@ tags: [chess, tournament, Electronic Knights, competitive chess, Chesspunks, str
 
 ## Annotated games for replay
 
-{% assign sorted_tournaments = site.tournaments | sort: 'title' %}
+{% assign sorted_tournaments = site.tournaments | sort: 'title' | sort: 'section' %}
 
 {% for tournament in sorted_tournaments %}
-- **{{ tournament.title }}** - {{ tournament.name }} - Section: {{ tournament.section }} - Game: {{ tournament.game }} - [Link]({{ tournament.url | relative_url }})
+- **{{ tournament.title }}** - Section: {{ tournament.section }} - Opponent: {{ tournament.name }} - [Link]({{ tournament.url | relative_url }})
 {% endfor %}
+
 
 > **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)

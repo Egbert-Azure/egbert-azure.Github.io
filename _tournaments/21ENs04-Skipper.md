@@ -3,7 +3,6 @@ title: "Electronic Knights Semi-Final"
 layout: post
 name: Skipper, Robert Boyd
 section: 21ENs04
-game: 1
 categories: chess
 ---
 <h2>{{ page.section }}</h2>

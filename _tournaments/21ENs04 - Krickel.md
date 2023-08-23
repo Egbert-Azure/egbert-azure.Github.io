@@ -3,7 +3,6 @@ title: "Electronic Knights Semi-Final"
 layout: post
 name: Krickel, Edward
 section: 21ENs04
-game: 3
 categories: chess
 ---
 

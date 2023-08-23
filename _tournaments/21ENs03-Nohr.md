@@ -3,7 +3,6 @@ title: "Electronic Knights Semi-Final"
 layout: post
 name: Nohr, Mathew
 section: 21ENs03
-game: 1
 categories: chess
 ---
 
