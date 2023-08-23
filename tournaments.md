@@ -113,11 +113,11 @@ Section result so far: 1 win, 2 draws, 1 loss.
 | Finland - USA Friendly Match 2022 Board 18         | 7/26/2022  | Finished | [Link](https://www.iccf.com/event?id=98691) |
 | Peace Open "Amici sumus" Group 28                  | 5/1/2022   | Running  | [Link](https://www.iccf.com/event?id=97909) |
 | Peace Open "Amici sumus" Group 29                  | 5/1/2022   | Running  | [Link](https://www.iccf.com/event?id=97910) |
-| WZ Individual Championship Preliminaries Group 36  | 1/5/2022   | Finished | [Link](link_here) |
-| WZ Individual Championship Preliminaries Group 34  | 11/30/2021 | Finished | [Link](link_here) |
-| WZ Individual Championship Preliminaries Group 35  | 11/30/2021 | Finished | [Link](link_here) |
+| WZ Individual Championship Preliminaries Group 36  | 1/5/2022   | Finished | [Link](https://www.iccf.com/event?id=96436) |
+| WZ Individual Championship Preliminaries Group 34  | 11/30/2021 | Finished | [Link](https://www.iccf.com/event?id=96017) |
+| WZ Individual Championship Preliminaries Group 35  | 11/30/2021 | Finished | [Link](https://www.iccf.com/event?id=96146) |
 | CUB - USA 2 Board 74                              | 11/29/2021 | Finished | [Link](https://www.iccf.com/event?id=95989) |
-| Champions League 2021 C9 Board 2                  | 11/1/2021  | Finished | [Link](link_here) |
-| WZ Individual Championship Preliminaries Group 32  | 9/30/2021  | Finished | [Link](link_here) |
-| ICCF Veterans World Cup 13 pr 58                  | 9/1/2021   | Finished | [Link](link_here) |
+| Champions League 2021 C9 Board 2                  | 11/1/2021  | Finished | [Link](https://www.iccf.com/event?id=95550) |
+| WZ Individual Championship Preliminaries Group 32  | 9/30/2021  | Finished | [Link](https://www.iccf.com/event?id=95086) |
+| ICCF Veterans World Cup 13 pr 58                  | 9/1/2021   | Finished | [Link](https://www.iccf.com/event?id=94823) |
 | Peru - USA friendly match 2021 Board 38            | 6/4/2021   | Finished | [Link](https://www.iccf.com/event?id=93232) |
