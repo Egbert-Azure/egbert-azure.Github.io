@@ -13,13 +13,13 @@ In today's blog, I share an achievement that marks my first taste of success aft
 1. Nf3 d5
 2. c4
 
-with then different transpositions such as Slav Defense, Catalan among others. As pointed out in my blog [The Road to ELO 2000 - Unlearning and Rediscovering Openings](https://egbert-azure.github.io/the-road-to-elo-2000/) I later moved to another Reti variation.
+with then different transpositions such as Slav Defense, and Catalan among others. As pointed out in my blog [The Road to ELO 2000 - Unlearning and Rediscovering Openings](https://egbert-azure.github.io/the-road-to-elo-2000/) I later moved to another Reti variation.
 
-Now the spotlight shines on the Victor Palciauskas Tournament July 2021, a USCF correspondence chess event with a special place in my journey.
+Now, the spotlight shines on the Victor Palciauskas Tournament in July 2021, a USCF correspondence chess event with a special place in my journey.
 
 > **Note** Victor Palciauskas, also known as Vytautas Palčiauskas, was born on October 3, 1941, in Kaunas, Lithuania. He is a chess player who is now a citizen of the United States and holds the prestigious title of International Correspondence Chess Grandmaster. Palciauskas was the tenth World Correspondence Chess Champion from 1978 to 1984. He has been interested in correspondence play from a young age and has focused on it throughout his career. He is recognized in the [World Chess Hall of Fame](https://worldchesshof.org/hof-inductee/victor-palciauskas).
 
-Participating in the Victor Palciauskas Tournament, section 21VP04, was a litmus test. A good tournament to get used to correspondence chess and away from this online noise and cheat of Blitz and Rapid games.
+Participating in the Victor Palciauskas Tournament, section 21VP04, was a litmus test. It is a good tournament to get used to correspondence chess and away from this online noise and cheat of Blitz and Rapid games.
 
 The culmination of effort and determination resulted in an undefeated 6-0 score, a testament to the hours spent analyzing positions, predicting opponent moves, and crafting calculated responses. The tournament's significance extended beyond victory; it marked a milestone with a triumph that invigorated my passion for chess.
 
@@ -29,8 +29,8 @@ The game unfolded with White orchestrating a clever expansion in the center with
 
 In response, Black devised a counterplan, offering an exchange to counteract White's aggressive intentions. A series of imbalances ensued, culminating in the capture of a Rook and three pawns in exchange for a Bishop and Knight. The advantage was seized, and the endgame witnessed the emergence of two connected passed pawns skillfully maneuvered to secure victory.
 
-I had the pleasure to play Matt again in the **Individual Championship Preliminaries Group 34** and we ended [with a draw](https://www.iccf.com/game?id=1295018). He became CCE (Correspondence Chess Expert)
-2022 in 2022 ![CCE (Correspondence Chess Expert)
+I had the pleasure to play Matt again in the **Individual Championship Preliminaries Group 34** and we ended [with a draw](https://www.iccf.com/game?id=1295018). He became a CCE (Correspondence Chess Expert)
+2022 in 2022![CCE (Correspondence Chess Expert)
 2022 ](image-3.png)
 
 <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
