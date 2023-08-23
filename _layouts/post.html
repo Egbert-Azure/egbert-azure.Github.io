@@ -5,7 +5,9 @@ layout: default
 <article>
   {% include meta.html post=page %}
   {{ content }}
-  {% if site.disqus.shortname %}
+  {% if page.comments != false and site.disqus.shortname %}
     {% include disqus_comments.html %}
+  {% else %}
+    <p>No comments</p>
   {% endif %}
 </article>
