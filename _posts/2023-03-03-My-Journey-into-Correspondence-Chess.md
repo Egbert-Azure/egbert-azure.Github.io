@@ -1,5 +1,5 @@
 ---
-layout:
+layout: post
 comments: true
 Title: My Journey into Correspondence Chess and Unexpected Recognition
 Date: 2023-03-03

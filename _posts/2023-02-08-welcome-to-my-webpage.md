@@ -1,7 +1,7 @@
 ---
 title: "Welcome to my Senior Chess Improver Website"
 layout: post
-comments: true
+comments: false
 categories: [chess, improvement, tournaments]
 tags: [chess, competitive play, strategy, analysis, chess community, chesspunks]
 excerpt: Discover a hub of chess insights, strategies, and tales of competition in chess. Join me on a journey of improvement, and a "I'm retired but not dead" approach.
