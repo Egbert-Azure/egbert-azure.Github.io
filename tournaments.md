@@ -98,16 +98,26 @@ Section result so far: 1 win, 2 draws, 1 loss.
     </div>
 </div>
 
-## USCF friendly matches
 
-[PER - USA 2021 Board 38](https://www.iccf.com/event?id=93232) - finished
+## ICCF tournaments & USCF friendly matches
 
-[CUB - USA 2 2021 Board 74](https://www.iccf.com/event?id=95989) - finished
-
-[GER - USA 2022 Board 83](https://www.iccf.com/event?id=99816) - running
-
-[FIN - USA 2022 Board 18](https://www.iccf.com/event?id=98691) - finished
-
-[HUN - USA 2022 Board 18](https://www.iccf.com/event?id=100532) - finished
-
-[SUI - USA 2023 Board 20](https://www.iccf.com/event?id=101708) - running
+| Name                                               | Start Date | Status   | Link |
+|----------------------------------------------------|------------|----------|------|
+| VWC14, ICCF Veterans World Cup 14 pr. 25           | 9/1/2023   | Running  | [Link](https://www.iccf.com/event?id=102886) |
+| VWC14, ICCF Veterans World Cup 14 pr. 56           | 9/1/2023   | Running  | [Link](https://www.iccf.com/event?id=102917) |
+| ICCF Veterans World Cup 13 Semi-Final 9            | 6/15/2023  | Running  | [Link](https://www.iccf.com/event?id=102157) |
+| Switzerland - USA 2023 Board 20                    | 4/14/2023  | Running  | [Link](https://www.iccf.com/event?id=100532) |
+| Hungary - USA Friendly Match 2022 Board 18         | 12/26/2022 | Finished | [Link](https://www.iccf.com/event?id=101708) |
+| Germany - USA Friendly Match 2022 Board 83         | 10/12/2022 | Running  | [Link](https://www.iccf.com/event?id=99816) |
+| WS/CCE/A/30                                       | 9/29/2022  | Running  | [Link](https://www.iccf.com/event?id=99566) |
+| Finland - USA Friendly Match 2022 Board 18         | 7/26/2022  | Finished | [Link](https://www.iccf.com/event?id=98691) |
+| Peace Open "Amici sumus" Group 28                  | 5/1/2022   | Running  | [Link](https://www.iccf.com/event?id=97909) |
+| Peace Open "Amici sumus" Group 29                  | 5/1/2022   | Running  | [Link](https://www.iccf.com/event?id=97910) |
+| WZ Individual Championship Preliminaries Group 36  | 1/5/2022   | Finished | [Link](link_here) |
+| WZ Individual Championship Preliminaries Group 34  | 11/30/2021 | Finished | [Link](link_here) |
+| WZ Individual Championship Preliminaries Group 35  | 11/30/2021 | Finished | [Link](link_here) |
+| CUB - USA 2 Board 74                              | 11/29/2021 | Finished | [Link](https://www.iccf.com/event?id=95989) |
+| Champions League 2021 C9 Board 2                  | 11/1/2021  | Finished | [Link](link_here) |
+| WZ Individual Championship Preliminaries Group 32  | 9/30/2021  | Finished | [Link](link_here) |
+| ICCF Veterans World Cup 13 pr 58                  | 9/1/2021   | Finished | [Link](link_here) |
+| Peru - USA friendly match 2021 Board 38            | 6/4/2021   | Finished | [Link](https://www.iccf.com/event?id=93232) |
