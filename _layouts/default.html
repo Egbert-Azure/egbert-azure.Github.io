@@ -20,9 +20,7 @@
 <script defer src="{{ "/assets/katex/katex.min.js" | relative_url }}"></script>
 <script defer src="{{ "/assets/katex/contrib/auto-render.min.js" | relative_url }}" onload="renderMathInElement(document.body)"></script>
 {% endif %}
-{% if site.comments.disqus_shortname and page.layout == "post" %}
-  <script src="https://https-egbert-azure-github-io.disqus.com/embed.js" async></script>
-{% endif %}
+
 {% if site.show_sidebar or site.sidebar %}{% include sidebar.html %}{% endif %}
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
 </head>

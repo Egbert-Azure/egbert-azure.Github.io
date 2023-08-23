@@ -29,9 +29,15 @@ external:                  # shows a footer with social links - for available ic
  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
   - {title: Subscribe, icon: rss, url: "https://follow.it/senior-chess-improver?leanpub"} 
 
-comments:
-disqus_shortname: "https-egbert-azure-github-io"    # see https://disqus.com/
+# comments:
+# disqus_shortname: "https-egbert-azure-github-io"    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
+
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: https-egbert-azure-github-io
 
 #schedule posts
 future: true
