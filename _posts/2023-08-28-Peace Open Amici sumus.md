@@ -21,7 +21,7 @@ So, when I got an email notification from **Jörg Kracht**, organizer of the Pea
 
 ### Aiming for Unity on May Day
 
-As the chess pieces were virtually set on the board for the "Peace Open 'Amici Sumus' Correspopndence Chess Tournament," the timing held a more profound significance. May 1st, celebrated as May Day, is a global holiday that signifies unity, togetherness, and rebirth. It was a perfect backdrop for a tournament that aimed to unite players worldwide by their love for the game and their shared condemnation of the Russian war of aggression against Ukraine.
+As the chess pieces were virtually set on the board for the "Peace Open 'Amici Sumus' Correspopndence Chess Tournament," the timing held a more profound significance. May 1st, celebrated as May Day by workers across the globe as International Labor Day, signifies unity and togetherness. It was a perfect backdrop for a tournament that aimed to unite players worldwide by their love for the game and their shared condemnation of the Russian war of aggression against Ukraine.
 
 The essence of the tournament went beyond the moves and strategies of chess. It embodied a message of friendship and respect for all players of the International Correspondence Chess Federation (ICCF) who wanted to stand in solidarity with Ukraine during these difficult times. The tournament provided a platform for chess players worldwide to set an example of unity and support, communicating compassion to the Ukrainian people.
 
