@@ -108,6 +108,15 @@ Egbert
 
 2022.08.11, 02:11
 
+
+## Full Crosstable Overview
+
+| Tournament                                       | Date       | Status   | Link                                         |
+|--------------------------------------------------|------------|----------|----------------------------------------------|
+| Peace Open "Amici sumus" Group 28                | 5/1/2022   | Running  | [Link](https://www.iccf.com/event?id=97909) |
+| Peace Open "Amici sumus" Group 29                | 5/1/2022   | Running  | [Link](https://www.iccf.com/event?id=97910) |
+
+
 ## Conclusion: Amici Sumus - We Are Friends
 
 I will start with a quote from the game of one of my opponents:
