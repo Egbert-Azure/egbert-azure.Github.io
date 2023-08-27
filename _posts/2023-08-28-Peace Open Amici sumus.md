@@ -19,7 +19,7 @@ The international chess community is trying to do its part in providing support 
 
 <div style="text-align:center">
     <a href="https://en.chessbase.com/post/tykhon-is-safe">
-        <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/c23e6379-e390-406d-b70a-bc8b90fa3aeb" alt="ChessBase article thumbnail" width="50%" height="auto">
+        <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/c23e6379-e390-406d-b70a-bc8b90fa3aeb" alt="ChessBase article thumbnail" width="40%" height="auto">
     </a>
 </div>
 
