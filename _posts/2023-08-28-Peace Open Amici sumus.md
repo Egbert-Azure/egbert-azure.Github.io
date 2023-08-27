@@ -17,7 +17,7 @@ This week's blog is different, while it is still about chess. But in the realm o
 The international chess community is trying to do its part in providing support for Ukraine. The US Chess Federation published a fundraiser and said that the Kasparov Chess Foundation had donated $10,000; overall, **USCF** got $33,248 of donations from the US chess community. 
 **ChessBase** - the German company - helped Tykhon Cherniaiev, a then 12-year-old Ukrainian Candidate Master and a double world U10 chess champion in Rapid and Blitz. ChessBase gave him shelter and support when he and his family fled Ukraine. [Full video interview](https://www.youtube.com/watch?v=n_DQgk06RKg&t=3s) after his escape from the horror of war.
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/assets/55332675/dfd952d1-3a7d-45dc-9186-ca2ae79f8006.jpeg" alt="Picture courtesy ChessBase" width="300"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/_posts/101832.jpeg" alt="Picture courtesy ChessBase" width="300"/></div>
 
 So, when I got an email notification from **Jörg Kracht**, organizer of the Peace Open 'Amici Sumus tournament to set a sign of solidarity and support, I didnt hesitate to sign up for it. On Wed 4/20/2022 9:08 AM I got confirmation to play 2 sections. Overall 76 other USA players joined and as a former German proud to say 117 players from Germany.
 
