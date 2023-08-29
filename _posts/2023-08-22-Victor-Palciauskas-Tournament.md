@@ -32,6 +32,7 @@ In response, Black devised a counterplan, offering an exchange to counteract Whi
 I had the pleasure to play Matt again in the **Individual Championship Preliminaries Group 34** and we ended [with a draw](https://www.iccf.com/game?id=1295018). Matt LaDuke became a CCE (Correspondence Chess Expert)
 in 2022 ![image-3](https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/0fe3da37-ff82-48d4-9d48-002afac116d8)
 
+
 <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
 <script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
 <script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>

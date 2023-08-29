@@ -30,6 +30,12 @@ Conversely, it's crucial to recognize instances where sportsmanship takes a back
 
 [Include the PGN notation or a link to the game for readers to replay.]
 
+## Cheater in Correspondence Chess
+
+The most obvious example is a player who would be normally be playing at 1200 (beginner) Elo, suddenly plays at 2000 (Expert) level. Players do not normally jump 800 Elo points in a short time. This raises a red flag.
+
+The more complex a position, or the longer sequence of moves necessary to reach a goal, the more likely a player is to error, even if it such error is minor. The same goes for many types of endgames. Being suddenly proficient in these areas again raises red flags.
+
 ## Conclusion
 
 Sportsmanship is the heart and soul of chess, transcending the boundaries of physical and virtual play. In correspondence chess, where players communicate moves across time and space, the principles of respect, fairness, and graciousness gain new dimensions. As we continue to sharpen our skills and immerse ourselves in the intricacies of the game, let us never forget that being a true chess champion involves not only mastering the moves but also embodying the spirit of sportsmanship.
