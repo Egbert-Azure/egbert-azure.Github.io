@@ -4,6 +4,7 @@ layout: post
 name: Krickel, Edward
 section: 21ENs03
 categories: chess
+comments: false
 ---
 
 <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>

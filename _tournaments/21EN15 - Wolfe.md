@@ -4,6 +4,7 @@ layout: post
 name: Wolfe, Herb
 section: 21EN15
 categories: chess
+comments: false
 ---
 
 <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>

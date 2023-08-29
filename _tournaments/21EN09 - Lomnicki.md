@@ -4,6 +4,7 @@ layout: post
 name: Lomnicki, Slawo
 section: 21EN09
 categories: chess
+comments: false
 ---
 Slawo Lomnicki is a Assistant Professor of Environmental Sciences, Louisiana State University I had the pleasure to play in the preliminary round of 2021 Electronic Knights.
 

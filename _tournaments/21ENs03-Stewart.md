@@ -4,6 +4,7 @@ layout: post
 name: Stewart, Douglas
 section: 21ENs03
 categories: chess
+comments: false
 ---
 
 I wrongfully noted move 18 on April 28th. Douglas informed me on July 28th about the situation.

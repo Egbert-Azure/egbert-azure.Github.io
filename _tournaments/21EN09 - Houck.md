@@ -4,6 +4,7 @@ layout: post
 name: Houck, Austin
 section: 21EN09
 categories: chess
+comments: false
 ---
 
 <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>

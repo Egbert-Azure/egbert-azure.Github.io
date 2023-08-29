@@ -4,6 +4,7 @@ layout: post
 name: Skipper, Robert Boyd
 section: 21ENs04
 categories: chess
+comments: false
 ---
 <h2>{{ page.section }}</h2>
 

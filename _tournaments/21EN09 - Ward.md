@@ -4,6 +4,7 @@ layout: post
 name: Ward, Christopher
 section: 21EN09
 categories: chess
+comments: false
 ---
 
 I reflected on this game in my blog [My Journey into Correspondence Chess](https://egbert-azure.github.io/My-Journey-into-Correspondence-Chess/)
