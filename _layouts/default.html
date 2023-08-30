@@ -31,6 +31,7 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
+
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
@@ -42,6 +43,7 @@
 <footer>
   <div>{{ site.description | default: site.title }}</div>
   {% include menu.html menu=site.external %}
+  <a rel="me" href="https://mastodon.online/@EgbertS">Mastodon</a>
 </footer>
 {% endif %}
 

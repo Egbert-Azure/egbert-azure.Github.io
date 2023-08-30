@@ -144,3 +144,5 @@ Leave your comments, thoughts and stay tuned for more insights, stories, and les
 >**Note:** while donation is always a personal thing, I share what we are doing: our donations are going to [*Revived Soldiers of Ukraine*](https://www.rsukraine.org/), a non-profit organization dedicated to providing aid to the people of Ukraine in support of their fundamental human rights and the medical rehabilitation of Ukrainian soldiers.
 
 > **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+
+> **Note:** [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)
