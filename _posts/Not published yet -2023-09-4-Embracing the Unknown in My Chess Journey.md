@@ -107,3 +107,4 @@ Amici Sumus
 
 > **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
 
+> **Note:** [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8) and #chesspunks
