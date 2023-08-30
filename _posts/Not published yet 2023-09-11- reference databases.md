@@ -30,3 +30,7 @@ UltraCorr23 is a specialized reference database designed exclusively for corresp
 
 **Conclusion:**
 The realm of correspondence chess is one of intricate moves, strategic depth, and the thrill of unfolding battles across time. Reference databases have emerged as indispensable companions for players, aiding them in honing their skills and understanding the complexities of the game. While Chessbase's Mega Database provides a plethora of games, UltraCorr23 stands as a dedicated resource that caters to the unique needs of correspondence chess enthusiasts. As players continue to embrace these tools, the lines between man and machine blur, creating a symbiotic relationship that enriches the world of correspondence chess. With every move made and analyzed, these reference databases cement their place as cornerstones of chess excellence in the digital age.
+
+> **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+
+> **Note:** [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)
