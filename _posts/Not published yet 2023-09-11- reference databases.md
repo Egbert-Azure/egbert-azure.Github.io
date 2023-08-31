@@ -12,7 +12,7 @@ Correspondence chess is a form of chess where players exchange moves through the
 
 You ask about engine usage? The strongest players will still navigate their usage far better than a normal player would, and none are foolish enough to simply let the engine sit on a position for a day and play the move. It is a very good way to lose I can tell you! But that's a different story to tell in another blog.
 
-**Harnessing Reference Databases in Correspondence Chess:**
+**Reference Databases in Correspondence Chess:**
 Reference databases are invaluable resources that provide players with a comprehensive collection of chess games, openings, variations, and analyses. These databases serve as indispensable aids for players' preparation, opening repertoire development, and overall strategic improvement.
 
 **1. Chessbase: An Expansive Repository of Chess Knowledge**

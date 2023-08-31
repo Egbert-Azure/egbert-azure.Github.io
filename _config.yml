@@ -26,7 +26,8 @@ navigation:
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chesslife42@myvortexcloud.com"}
   - {title: Github, icon: github, url: "https://github.com/Egbert-Azure"}
- # - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mastodon, icon: mastodon, url: "https://mastodon.online/@EgbertS"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/egbert-schr%C3%B6er-bbbb5413/"}
   - {title: Subscribe, icon: rss, url: "https://follow.it/senior-chess-improver?leanpub"} 
 
 # comments:
@@ -44,14 +45,29 @@ future: true
 
 #exclude from build
 exclude:
-  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - UNLICENSE.txt
+  - README.md
 
 plugins:
   - jekyll-feed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 collections:
   tournaments:
     output: true
     permalink: /tournaments/:title/
 
+# Archives
+# collections:
+#  archives:
+#    output: true
+#    permalink: /archives/:path/
 
+font-awesome:
+  assets: true

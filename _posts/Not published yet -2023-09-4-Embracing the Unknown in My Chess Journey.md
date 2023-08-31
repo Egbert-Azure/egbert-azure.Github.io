@@ -10,6 +10,9 @@ date: 2023-09-04
 
 In my previous post, ["The Road to ELO 2000 - Unlearning and Rediscovering Openings"](https://egbert-azure.github.io/the-road-to-elo-2000/), I started the journey of unlearning and rediscovering openings in order to elevate my chess game. And not a big surprise, it's all about building a new repertoire that fits to your personal style.
 
+## Personal Statement
+Already in the process of developing a repertoire, one should create one's signature. The psychological factors also play a not insignificant role. Behind all variants hides a rational core. I believe memorizing any openings to the fullest is unnecessary, as is the case with Chesssable where people learn and memorize moves, for example. Ask yourself: which picture would I like to have to start the middle-game? Which position suits my style best? Even in-game practice, only some things always run in theoretical directions, even between high-class chess players.
+
 ## Embracing the Unknown
 
 Now, let's take a closer look at the potential new black repertoire in response to the most common openings for white: e4 or d4. The thought process and insights from my lost games led me to find openings that align with my style of play while offering flexibility and transposotion to get a postion familiar with. For e4, I settled on the Pirc Defense—a choice that might not be frequently seen at the GM level but was even favored by the legendary Bobby Fischer in the "Match of the Century." The Pirc is the King’s Indian Defense without White’s pawn on c4. Plans and ideas are very similar, and it is easier for you to learn one defense if you already know the other one.
