@@ -75,4 +75,23 @@ end
 {% endif %}
 ``````
 
-[Automated Jekyll Archives How to](https://aneejian.com/automated-jekyll-archives-github-pages/)
+To get archive to work, I needed to modify index.html:
+
+``````
+---
+layout: post
+title: "Latest Blog"
+image: /assets/imges/bK.png
+comments: false
+---
+<img src="assets/images/chesspieces/wikipedia/bK.png" style="width: 5%;">
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+  <p><a href="/archive/" style="text-align: center;">View Full List</a></p>
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
+``````
+
+and added Blog Archives to _config.yml

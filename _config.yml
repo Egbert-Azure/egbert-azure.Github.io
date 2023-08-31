@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:
-  - {file: "index.html"}
+  - {file: "archive.html"}
   - {file: "tournaments.md"}
   - {file: "chess_games.md"}
   - {file: "about.md"}
@@ -50,15 +50,12 @@ exclude:
   - UNLICENSE.txt
   - README.md
 
-plugins:
-  - jekyll-feed
-
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - gem "jekyll-archives" # Create archive pages for your Jekyll tags and categories
-  
+  - jekyll-archives # Create archive pages for your Jekyll tags and categories
+
 collections:
   tournaments:
     output: true
