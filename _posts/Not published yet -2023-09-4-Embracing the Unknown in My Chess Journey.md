@@ -8,6 +8,8 @@ excerpt: Building upon the lessons learned from my previous pursuit, I continue 
 date: 2023-09-04
 ---
 
+![Alt text]({{ site.baseurl }}/assets/images/chesspieces/wikipedia/wP.png){:width="5%"}
+
 In my previous post, ["The Road to ELO 2000 - Unlearning and Rediscovering Openings"](https://egbert-azure.github.io/the-road-to-elo-2000/), I started the journey of unlearning and rediscovering openings in order to elevate my chess game. And not a big surprise, it's all about building a new repertoire that fits to your personal style.
 
 ## Personal Statement

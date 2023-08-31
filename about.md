@@ -7,6 +7,8 @@ date: 2023-08-06
 
 ## Welcome to Senior Chess Improver!
 
+![Alt text]({{ site.baseurl }}/assets/images/chesspieces/wikipedia/wQ.png){:width="5%"}
+
 Greetings, chess enthusiasts and fellow learners! I'm thrilled to have you join me on this exciting journey of chess improvement. Here, I'll be sharing my personal experiences, insights, and discoveries as I strive to enhance my skills in the captivating world of chess.
 
 ### Why Senior Chess Improvement Matters
