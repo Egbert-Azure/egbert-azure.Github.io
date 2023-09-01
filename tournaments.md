@@ -64,28 +64,28 @@ Section result so far: 4 wins
 Section result so far: 1 win, 2 draws, 1 loss.
 
 ## 2021 Electronic Knights Championship - Preliminary Round: 21EN15 
+- Egbert Schroeer rating: 1933
 
-| Name | US Chess ID# | Rating | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Lawrence Reifurth | 12341360 | 2099 | | | | | | | | |
-| Hugh Whelan | 30075464 | 2004 | | | | | | | | |
-| Egbert Schroeer | 30088451 | 1933 | | | | | | | | |
-| Michael Bashur | 12529353 | 1797 | | | | | | | | |
-| Timothy Tingen | 12528883 | 1625 | | | | | | | | |
-| Herbert Wolfe | 20000272 | 1510 | | | | | | | | |
-| Hank Cox | 12602675 | 1093 | | | | | | | | |
+| Name | US Chess ID# | Rating | Result | 
+| --- | --- | --- | --- |
+| Lawrence Reifurth | 12341360 | 2099 |[Game replay](https://egbert-azure.github.io/tournaments/21EN15-Reifurth/)
+| Hugh Whelan | 30075464 | 2004 |[Game replay](https://egbert-azure.github.io/tournaments/21EN15-Whelan/) |
+| Michael Bashur | 12529353 | 1797 |[Game replay](https://egbert-azure.github.io/tournaments/21EN15-Bashur/) |
+| Timothy Tingen | 12528883 | 1625 |[Game replay](https://egbert-azure.github.io/tournaments/21EN15-Tingen/) |
+| Herbert Wolfe | 20000272 | 1510 |[Game replay](https://egbert-azure.github.io/tournaments/21EN15-Wolfe/) |
+| Hank Cox | 12602675 | 1093 |[Game replay](https://egbert-azure.github.io/tournaments/21EN15-Cox/) |
 
 ## 2021 Electronic Knights Championship - Preliminary Round: 21EN09 
+- Egbert Schroeer rating: unrated
 
-| Name | US Chess ID# | Rating | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Edward Krickel | 12430643 | 1766 | | | | | | | | |
-| Slawo Lomnicki | 30109356 | 1718 | | | | | | | | |
-| Christopher Ward | 30102093 | 1549 | | | | | | | | |
-| Bradley Dengler | 12537699 | Unr. | | | | | | | | |
-| Iain McLaren | 30176077 | Unr. | | | | | | | | |
-| Egbert Schroeer | 30088451 | Unr. | | | | | | | | |
-| Austin Houck | 30168557 | Unr. | | | | | | | | |
+| Name | US Chess ID# | Rating | Result |
+| --- | --- | --- | --- |
+| Edward Krickel | 12430643 | 1766 | 
+| Slawo Lomnicki | 30109356 | 1718 |[Game replay](https://egbert-azure.github.io/tournaments/21EN09-Lomnicki/) |
+| Christopher Ward | 30102093 | 1549 |[Game replay](https://egbert-azure.github.io/tournaments/21EN09-Ward/) |
+| Bradley Dengler | 12537699 | Unr. |[Game replay](https://egbert-azure.github.io/tournaments/21EN09-Dangler/) | 
+| Iain McLaren | 30176077 | Unr. | 
+| Austin Houck | 30168557 | Unr. |[Game replay](https://egbert-azure.github.io/tournaments/21EN09-Houck/) |
 
 ## 2021 Victor Palciauskas ICCF Tournament
 
