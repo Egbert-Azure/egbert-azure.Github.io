@@ -89,6 +89,14 @@ While working on my repertoire, I had a good laugh when I came across the follow
 
 Dear chess.com, do your homework! This opening was already utilized in the 18th century. Back then, such a style of play was considered unconventional. It wasn't until the late 1930s that it started gaining more attention. In the former USSR, it was Ufimtsev who explored it, and in the then Yugoslavia, it was Grandmaster Pirc. The opening gained popularity during the 1960s.
 
+Earliest games Pirc Defense - Austrian Attack:
+| No. | Result | Players | Year |
+| --- | ------ | ------- | ---- |
+| 1 | 1-0(23) | Marshall 2570 - Pillsbury 2630 | 1904 |
+| 2 | 0-1(28) | Richter 2525 - Lokvenc 2490 | 1938 |
+| 3 | 0-1(60) | Honfi 2560 - Koberl 2560 | 1950 |
+| 4 | 0-1(39) | Teschner - Tartakower | 1951 |
+| 5 | 1-0(32) | Matanovic - Tartakower | Birmingham 1951 |
 
 You can then take it from there and do your repoertoire training showcased in this youtube video:
 [![Repertoire Training in ChessBase](https://img.youtube.com/vi/ZZ6idKvSNlA/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZZ6idKvSNlA&t=32s)
