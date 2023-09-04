@@ -58,6 +58,7 @@ Due to this fact, my Q was gone. You can speculate saying nothing was intentiona
 Other than sending move reminders, I have yet to hear back from him, including reporting the game result, where you -in good sportsmanship faith- always CC your opponent.
 
 I resigned from the game to maintain my fair play and sportsmanship principles.
+
 My rule of thumb is simple:
 - As a player, open communication, respect for the rules, and sportsmanship are crucial aspects of correspondence chess. When I notice an error in my opponent's recording, I immediately communicate with my opponent and rectify the mistake promptly
 - Propose potential paths to address this matter fairly:
@@ -69,7 +70,7 @@ The same happend recently when the mistake was immidiatly recognized by my oppon
 Your move 42. Rb8+ is a legal and binding move. Missing or mistaken announcement of check, capture, or "e.p." does not invalidate a move.
 
 And made the next move, turning a dead draw game into a win. Of course you can do this and have the right to do so. Once your opponent has replied to your move, you cannot change it.
-I called it a day and resigned from the game, losing my lead in the Electronic Knights Semi-Finals, but maintain my fair play and sportsmanship principles.
+I called it a day and resigned from the game, losing my lead in the Electronic Knights Semi-Finals, but maintain my fair play and sportsmanship principles. Needless to say, I have yet to hear back from him.
 
 - [Correspondence Chess Rules (Effective 10-1-2021)](https://new.uschess.org/correspondence-chess/rules)
 - [Correspondence Chess Basics and FAQ - US Chess.org](https://new.uschess.org/correspondence-chess/basics-and-faq)
@@ -82,7 +83,9 @@ Sportsmanship is the heart and soul of chess, transcending the boundaries of phy
 
 Remember, how we play the game reflects who we are as players and individuals. Let's make every move count, not just on the board but also in our conduct as sportspeople.
 
-So, whether engaging in a correspondence match or sitting across from an opponent, virtual or physical, remember the lessons learned from admirable and regrettable moments. Let sportsmanship be your guiding light, shaping you into a better chess player and person.
+In the world of chess, as in life, we may encounter instances where sportsmanship takes a back seat. But, as we navigate these challenges, let's keep in mind one important truth: "Don't let the bad examples hide the 99% of great players you meet." 🙌
+
+So, whether engaging in a correspondence match or sitting across from an opponent, virtual or physical, remember the lessons learned from admirable and regrettable moments. Let sportsmanship be your guiding light, shaping you into a better chess player with great sportsmanship skills.
 
 Amici Sumus
 
