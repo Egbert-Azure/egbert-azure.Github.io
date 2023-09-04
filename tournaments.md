@@ -39,12 +39,12 @@ xxx = unrated
 |-----------------------|--------------|----------|-------------|--------|------------|
 | KRICKEL, EDWARD       | 6            | 1        | 12430643    | 2035   |[Game Replay](https://egbert-azure.github.io/tournaments/21ENs03-Krickel/)            |
 | OWENS, JOHNNY         | 5.5          | 2        | 10248795    | 2201   |Win  - time forfeit  |
-| BUSS, MICHAEL         | 5            | 4        | 12437668    | 2423   |            |
+| BUSS, MICHAEL         | 5            | 4        | 12437668    | 2423   | resigned after record keeping error|
 | ANDERSON, CLARENCE    | 5            | 5        | 11179495    |    1767   |[Game Replay](https://egbert-azure.github.io/tournaments/game4/)     |
 | NOHR, MATTHEW         | 4.5          | 6        | 30126477    | 2037   |[Game Replay](https://egbert-azure.github.io/tournaments/game3/)            | 
 | WOLFE, HERBERT        | 4.5          | 7        | 20000272    | 1606   |            | 
 
-Section result so far: 4 wins
+Section result so far: 4 wins, 1 loss
 
 ## 2021 Electronic Knights Championship Semi-Final Section: 21ENs04
 
