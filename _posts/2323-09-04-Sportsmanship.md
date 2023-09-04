@@ -10,7 +10,7 @@ excerpt: "Explore the world of competitive chess and the pivotal role of sportsm
 
 In the world of competitive chess, sportsmanship stands as a pillar of integrity and respect. While the game's competitive nature often pushes players to their limits, maintaining good sportsmanship is a hallmark of a true chess champion. Proper chess etiquette ensures fair play, mutual respect, and an enjoyable experience for both players.
 Because last week's settlement in the infamous Niemann-Carlsen was announced. It was good timing to talk about sportsmanship, and I pushed this blog post, planned for two weeks from now, to this week. To close out on Niemann vs Carlsen case, one statement I like to make:
->Kudos to Hans Niemann for his perseverance and determination in seeking a resolution through the legal process. Players must be given the opportunity to clear their names and move forward in their chess careers without the shadow of false accusations hanging over them. Great sportsmanship from Hans because this is far from the apology he deserved
+>Kudos to Hans Niemann for his perseverance and determination in seeking a resolution through the legal process. Players must be given the opportunity to clear their names and move forward in their chess careers without the shadow of false accusations hanging over them. Great sportsmanship from Hans because this is far from the apology he deserved.
 
 The recent resolution of the Niemann - Carlsen case underscores the significance of sportsmanship in chess, especially in correspondence play, where you meet at a virtual chess board.
 
