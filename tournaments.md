@@ -54,7 +54,7 @@ Section result so far: 4 wins, 1 loss
 
 | Name               | Prelim Score | Player # | US Chess ID | Rating | Game Links |
 |--------------------|--------------|----------|-------------|--------|------------|
-| STEWART, DOUGLAS   | 6            | 1        | 20109893    | 1955   |[Game Replay](https://egbert-azure.github.io/tournaments/game5/) resigned after record keeping error|
+| STEWART, DOUGLAS   | 6            | 1        | 20109893    | 1955   |[Game Replay](https://egbert-azure.github.io/tournaments/game5/); resigned after record keeping error|
 | KRICKEL, EDWARD    | 5.5          | 2        | 12430643    | 2035   |[Game Replay](https://egbert-azure.github.io/tournaments/21ENs04-Krickel/)            |
 | BUSS, MICHAEL      | 5            | 3        | 12437668    | 2423   |            |
 | CORKUM, TIM        | 5            | 4        | 12179010    | 2386   |[Game replay](https://egbert-azure.github.io/tournaments/game2/)           |
