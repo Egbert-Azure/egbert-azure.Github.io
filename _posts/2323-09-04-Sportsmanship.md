@@ -51,7 +51,7 @@ Don't get me wrong; this is not generosity as an example - even not playing seri
 
 ## When Sportsmanship Takes a Back Seat
 
-Conversely, it's crucial to recognize instances where sportsmanship takes a back seat. I wrongfully noted move 18 on April 28th, 2023. My opponent informed me about the situation on July 28th, 2023, with his then move 28. And claimed the then-made move as legal: 
+Conversely, it's crucial to recognize instances where sportsmanship takes a back seat. I wrongfully noted move 18 on April 28th, 2023 in the Electornic Knights Semi-Finals. My opponent informed me about the situation on July 28th, 2023, with his then move 28. And claimed the then-made move as legal: 
 > Looks like you had a record keeping error on your end. Record keeping is the responsibility of each player; It's your move.
 
 Due to this fact, my Q was gone. You can speculate saying nothing was intentional, but that's not the most significant back seat for me, but the lack of communication and respect.
