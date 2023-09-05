@@ -46,7 +46,33 @@ Let's begin with an example that showcases exceptional sportsmanship. In this ga
 The game was highlighted in [Check is in the Mail, August 2021](https://new.uschess.org/news/check-mail-august-2021):
 >Although the result was a draw, in reality, it was anything but! Check out Egbert's outstanding feint and combination to close out the game! For the full effect, though, **please change 37. Be3 to 37. Be5**. There was a miscommunication with this move. Egbert had recorded Be3, enabling the tremendous combo, but Ed had recorded Be5, rendering the combination disastrous. As Egbert noted when submitting this game, Ed graciously agreed to a draw as a result.
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=31hdMYDDLTsRLwJmMdSIEv8rNi84L80lUtF8uEYJ/Ndo6po3Qz73wrS7YKtdzmu2'></iframe>
+<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
+<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
+<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
+
+<div class="cbreplay">
+[Event "USCF 21EN09 - 2021 Electronic Knights"]
+[Site "?"]
+[Date "2021.05.17"]
+[Round "?"]
+[White "Krickel, Ed"]
+[Black "Schroeer, Egbert "]
+[Result "1/2-1/2"]
+[ECO "B04"]
+[WhiteElo "1766"]
+[Annotator "Tactical Analysis 4.1 (15s)"]
+[PlyCount "76"]
+[EventDate "2021.05.17"]
+[EventType "corr"]
+[EventCountry "USA"]
+[SourceVersionDate "2021.05.17"]
+[WhiteTeam "Krickel, Ed"]
+[BlackTeam "Schroeer, Egbert"]
+[BlackTeamCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. a4 {B04: Alekhine's Defence: 4 Nf3.} Bg7 8. a5 N6d7 9. Be2 {The position is equal.} O-O 10. O-O d5 {[#]} 11. Nc3 $146 ({Predecessor:} 11. cxd5 Nf6 12. Nc3 Nxd5 13. Qb3 Nxc3 14. bxc3 Nc6 15. Qa3 e5 16. Bg5 Qd7 17. Rfd1 exd4 18. cxd4 {1-0 (36) Firman,N (2212)-Gladyszev,O (2388) Alushta 1999}) 11... dxc4 12. d5 {0.03/19} (12. Bxc4 $14 {0.46/18} Nf6 13. d5) 12... a6 13. Bxc4 b5 14. axb6 Nxb6 15. Ba2 Bg4 16. Re1 N8d7 17. h3 Bxf3 18. Qxf3 Nc8 19. Bg5 {[#] aiming for d6!} Nf6 20. Bc4 a5 21. b3 Nd6 22. Ra2 Qd7 23. Bf4 Rfe8 24. Qd3 Qb7 25. Rae2 Qb4 26. Bd2 Nxc4 27. bxc4 {[#] And now Nb5 would win.} Rec8 28. Rxe7 {Black must now prevent d6.} Rxc4 29. Ne4 Qxe7 30. Qxc4 {Strongly threatening Qc6.} Qd7 31. d6 {With the idea Bc3.} Nxe4 32. Qxe4 Rb8 33. Qd5 {Re7 is the strong threat.} Bf8 34. Bf4 a4 35. Qa5 Rc8 36. Rd1 Rc4 37. Be5 Rc6 $2 {3.93/22} (37... Rc8 $11 {0.17/19}) 38. Qxa4 $18 Rc1 $2 {16.76/20 Weighted Error Value: White=0.03/Black=0.23. An unexpected result.} (38... h6 {3.91/21} 39. Qxc6 {Promotion} Qxc6) 1/2-1/2
+</div>
+
 
 I met Ed later multiple times at the board, and my highest respect for the way he interacted with me the first time and gave me - as a newbie - guidance to this format continued. And, of course, I was giving back in a different section of this tournament, when he mixed up the two games we played in parallel and submitted a wrong move, which could have counted because it was not an illegal move.
 Don't get me wrong; this is not generosity as an example - even not playing seriously there - on Lichess, I never accept a takeback.
