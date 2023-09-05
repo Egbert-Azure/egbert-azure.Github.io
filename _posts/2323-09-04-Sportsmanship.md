@@ -48,7 +48,7 @@ The game was highlighted in [Check is in the Mail, August 2021](https://new.usch
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=d3qyA5sjGnWGB/DL35dZzDSEJIvZA5sStWc26TZe6nBVezoSqJLmRNRvDiOCl95S'></iframe>
 
-I met Ed later multiple times at the board, and my highest respect for the way he interacted with me the first time and give me - as a newbie - guidance to this format continued. And, of course, I was giving back in a different section of this tournament, when he mixed up the two games we played in parallel and submitted a wrong move, which could have counted because it was not an illegal move.
+I met Ed later multiple times at the board, and my highest respect for the way he interacted with me the first time and gave me - as a newbie - guidance to this format continued. And, of course, I was giving back in a different section of this tournament, when he mixed up the two games we played in parallel and submitted a wrong move, which could have counted because it was not an illegal move.
 Don't get me wrong; this is not generosity as an example - even not playing seriously there - on Lichess, I never accept a takeback.
 
 ## When Sportsmanship Takes a Back Seat
