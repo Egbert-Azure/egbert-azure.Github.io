@@ -80,9 +80,7 @@ Take care and onwards!
 Cheers,
 Egbert
 
-
-<iframe style='border: 0;' width='760px' height='480px' src='https://share.chessbase.com/SharedGames/frame/?p=cmNCRENUMdj+1pANZ4KnRhKMjOez3JmUgcjI2bFYXWuu6XkWZdPCoS8juBuQek7O'></iframe>
-
+<iframe style='border: 0;' width='760px' height='480px' src='https://share.chessbase.com/SharedGames/frame/?p=QRvc0zHhgx6S9DRJi0fE4sV5dpFJRIfuaazwrMcgTWZcBZb0a9A9ThrqDPP22Nzz'></iframe>
 
 ### 2. Game with Roberto Pinos
 
