@@ -46,7 +46,7 @@ Let's begin with an example that showcases exceptional sportsmanship. In this ga
 The game was highlighted in [Check is in the Mail, August 2021](https://new.uschess.org/news/check-mail-august-2021):
 >Although the result was a draw, in reality, it was anything but! Check out Egbert's outstanding feint and combination to close out the game! For the full effect, though, **please change 37. Be3 to 37. Be5**. There was a miscommunication with this move. Egbert had recorded Be3, enabling the tremendous combo, but Ed had recorded Be5, rendering the combination disastrous. As Egbert noted when submitting this game, Ed graciously agreed to a draw as a result.
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=d3qyA5sjGnWGB/DL35dZzDSEJIvZA5sStWc26TZe6nBVezoSqJLmRNRvDiOCl95S'></iframe>
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=31hdMYDDLTsRLwJmMdSIEv8rNi84L80lUtF8uEYJ/Ndo6po3Qz73wrS7YKtdzmu2'></iframe>
 
 I met Ed later multiple times at the board, and my highest respect for the way he interacted with me the first time and gave me - as a newbie - guidance to this format continued. And, of course, I was giving back in a different section of this tournament, when he mixed up the two games we played in parallel and submitted a wrong move, which could have counted because it was not an illegal move.
 Don't get me wrong; this is not generosity as an example - even not playing seriously there - on Lichess, I never accept a takeback.
