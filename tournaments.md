@@ -61,7 +61,7 @@ Section result so far: 4 wins, 1 loss
 | SKIPPER, ROBERT    | 5            | 5        | 12453298    | 1952   |[Game replay](https://egbert-azure.github.io/tournaments/game1/)            |
 | MAHONY, MICHAEL    | 4.5          | 7        | 12154680    | 1735   |
 
-Section result so far: 1 win, 2 draws, 1 loss.
+Section result so far: 1 win, 3 draws, 1 loss.
 
 ## 2021 Electronic Knights Championship - Preliminary Round: 21EN15 
 - Egbert Schroeer rating: 1933

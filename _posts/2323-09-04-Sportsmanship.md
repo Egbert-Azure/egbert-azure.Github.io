@@ -29,7 +29,9 @@ Proper chess etiquette ensures fair play, mutual respect, and an enjoyable exper
 
 ## Recording Moves Accurately: A Matter of Integrity
 
-One of the most common mistakes players can make in correspondence chess is recording moves wrongly. Whether you're playing via postcards in the old-school style or via email in the digital age, accurate move recording is essential. According to the US Chess Correspondence Chess Rules, players are responsible for knowing the rules and making legal moves. If an illegal move is made, the opponent has the right to claim a win by forfeit. However, if the opponent does not notice the illegal move and replies with a legal move, the game continues as if the illegal move had been legal.
+One of the most common mistakes players can make in correspondence chess is recording moves wrongly. It happened to me three times over the last three years. One reason is you play many games in parallel with similar openings or reach similar positions due to opening transposition, which occurs when a sequence of moves leads to a position that is more commonly reached by a different move order. 
+
+Whether you're playing via postcards in the old-school style or via email in the digital age, accurate move recording is essential. According to the US Chess Correspondence Chess Rules, players are responsible for knowing the rules and making legal moves. If an illegal move is made, the opponent can claim a win by forfeit. However, if the opponent does not notice the illegal move and replies with a legal move, the game continues as if the illegal move had been legal.
 
 <div style="text-align:center">
     <img src="{{ site.baseurl }}/assets/images/chesspieces/wikipedia/Back_of_correspondence_chess_card_(trimmed).png" alt="Alt text" width="40%">
