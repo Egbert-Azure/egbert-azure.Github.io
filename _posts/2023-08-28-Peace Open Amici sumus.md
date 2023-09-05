@@ -86,7 +86,27 @@ Egbert
 
 I played Roberto the first time and I was impressed! A FIDE rated player and a [CCE (Correspondence Chess Expert) 2022](https://www.iccf.com/player?id=160868). 
 
-<iframe style='border: 0;' width='760px' height='480px' src='https://share.chessbase.com/SharedGames/frame/?p=cmNCRENUMdj+1pANZ4KnRkHpsyG1hudNtwI9VxfyQVX+1lY0AxdI8KC7AeCWfZ2K'></iframe>
+<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
+<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
+<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
+
+<div class="cbreplay" style="width: 800px; height: 520px">
+[Event "Peace Open Gr. 28"]
+[Site "ICCF"]
+[Date "2022.05.01"]
+[Round "?"]
+[White "Pinos Rubio, Roberto"]
+[Black "Schroeer, Egbert"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2109"]
+[BlackElo "2112"]
+[Annotator "Schroeer,Egbert"]
+[PlyCount "89"]
+[EventDate "2022.??.??"]
+
+1. e4 {Hello Egbert. Greetings from Novelda (Spain). I hope we have a good game, and I also wish you a good tournament! Best regards. Roberto} d6 {Holla Roberto, looking forward to our game, creating some impact during these horrible & uncertain times. I immediatlly signed up for this, no way not to join for known reasons. Wish you best of luck! I'm turning 64 years soon, married. We live in Pacific Northwest, Washington State, but originally from Germany. I worked half of my life in the Chemical industry (studied Chemistry) and the other half in Software industry. Retired last year! It's a pleasure to meet you virtually. Warm Regards and sending good vibes Egbert} 2. d4 Nf6 {Oh yes Egbert, we are living really uncertain times. I don't understand any war... I'm 48 years old, not married but with my girlfriend and two cats. I'm a physicist and I work as a teacher. I've never been in USA but I spent some good weeks in Germany. It's also a pleasure to meet with you. Good vibes for you too! Roberto} 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6 6. Bh6 O-O 7. h4 b5 {B07: Pirc Defence: Miscellaneous Systems. I think 7. .. b5 was stupid, just take 7... Bxh6} 8. Bxg7 Kxg7 {[#]} 9. h5 $1 {Hoping for hxg6.} b4 {White is clearly better.} 10. Nce2 {Strongly threatening hxg6.} Nxe4 $2 {10... Nxe4 was inaccurate} 11. Qe3 (11. Qxb4 Nd7 $11) 11... Nf6 12. hxg6 fxg6 13. Qh6+ Kg8 14. Nf3 Rf7 15. Ng5 {[#]} Qf8 $146 ({Predecessor:} 15... Qe8 16. Qh4 Rg7 17. O-O-O Nbd7 18. Ne6 Qf7 19. Nxg7 Qxg7 20. Ng3 a5 21. Ne4 Nd5 {1-0 Cvak,R (2317)-Sepers,G (1984) W-Cup21 WS02 email ICCF email 2015}) 16. Nxf7 Qxf7 17. Nf4 Nbd7 18. Bd3 {And now Bxg6! would win.} e5 {[#]} 19. Bxg6 $1 Qg7 {[#]} 20. Bxh7+ {Deflection} Qxh7 21. Qg5+ Qg7 22. Ng6 {Chess con chili. White is more active.} Ne4 23. Ne7+ (23. Qd8+ Kf7 24. Nh8+ Ke6 $11) 23... Kf7 24. Qxg7+ Kxg7 25. f3 ({Don't play} 25. Nxc6 $6 a5 $14) 25... Nef6 26. Nf5+ ({Don't take} 26. Nxc6 $6 e4 $14) 26... Kf7 27. Nxd6+ Ke6 $2 {27. .. Ke6 was just a mistake} 28. dxe5 Kxe5 29. O-O-O Nd5 30. Rh6 N7f6 31. Nc4+ Kf4 32. Rd4+ Kg5 33. Rh8 {Black must now prevent Nd6.} c5 34. Rdh4 Bb7 35. R8h6 Rd8 {Inhibits Nd6.} 36. Ne5 Rf8 {Repels Nf7+} 37. Nd3 {Prevents Nf4} c4 38. Nc5 {Ne6+ is the strong threat.} Rf7 39. Ne6+ Kf5 {[#]} 40. Nd8 Re7 41. Nxb7 ({Less strong is} 41. Rxc4 Ba6 $16) 41... Rxb7 42. Rxc4 Ne3 43. Rc5+ Nfd5 44. c4 {Pin} Rc7 {well played! Congratulations!} 45. Rxc7 {Superbly played by Pinos Rubio!   Weighted Error Value: White=0.08 (flawless) /Black=0.23 (precise) .  Inaccurate:     	---       	Black=5      OK:         	White=19    	Black=15     Best:        	White=7     	Black=2      Brilliant:      	White=2     	---} 1-0
+</div>
 
 
 **Roberto Pinos Rubio:**
