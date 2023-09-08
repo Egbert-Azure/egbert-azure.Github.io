@@ -6,7 +6,7 @@ categories: [Chess, Sportsmanship]
 tags: [chess, sportsmanship, correspondence chess]
 excerpt: "Explore the world of competitive chess and the pivotal role of sportsmanship. Delve into the essence of good sportsmanship in correspondence chess, learn from both exemplary and disappointing examples, and discover the importance of fair play and integrity in this noble game."
 ---
-
+![Alt text]({{ site.baseurl }}/assets/images/chesspieces/wikipedia/bP.png){:width="5%"}
 
 In the world of competitive chess, sportsmanship stands as a pillar of integrity and respect. While the game's competitive nature often pushes players to their limits, maintaining good sportsmanship is a hallmark of a true chess champion. Proper chess etiquette ensures fair play, mutual respect, and an enjoyable experience for both players.
 Because last week's settlement in the infamous Niemann-Carlsen was announced. It was good timing to talk about sportsmanship, and I pushed this blog post, planned for two weeks from now, to this week. To close out on Niemann vs Carlsen case, one statement I like to make:
