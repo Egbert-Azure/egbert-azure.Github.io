@@ -90,7 +90,7 @@ UltraCorr23 is a specialized reference database exclusively tailored for corresp
 - **Player Identification**: Despite best efforts, player identification remains complex, especially with variations in player registrations. Ongoing work aims to rectify discrepancies, particularly for players with common surnames.
 
 <div style="border: 1px solid black; padding: 10px; text-align: center;">
-    <blockquote><em>"There is a lot of things you can learn from correspondence chess. I learned a lot by looking at the games – basically Correspondence Chess involves using computers nowadays to help you process along, but also to guide the computer with human intellect, so a combination which should lead to the strongest factors out there. The level of chess we see in the Correspondence World Championships is the highest out there"</em> <footer>—GM Simon Williams, <cite>Ginger GM</cite>, commentator and attacking player from England</footer>
+    <blockquote><em>"There are a lot of things you can learn from correspondence chess. I learned a lot by looking at the games – basically Correspondence Chess involves using computers nowadays to help you process along, but also to guide the computer with human intellect, so a combination which should lead to the strongest factors out there. The level of chess we see in the Correspondence World Championships is the highest out there"</em> <footer>—GM Simon Williams, <cite>Ginger GM</cite>, commentator and attacking player from England</footer>
         </blockquote>
 </div>
 
