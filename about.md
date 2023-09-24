@@ -4,6 +4,7 @@ title: About
 permalink: "/about/"
 date: 2023-08-06
 ---
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## Welcome to Senior Chess Improver!
 
@@ -26,6 +27,12 @@ Best regards,
 Egbert Schroeer
 
 > **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+
+My LinkedIn Profile
+
+<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="egbert-schroeer" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/egbert-schroeer?trk=profile-badge">Egbert Schroeer</a>
+</div>
 
 **Footnotes:**
 
