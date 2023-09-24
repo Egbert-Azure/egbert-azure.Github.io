@@ -13,7 +13,9 @@ date: 2023-09-25
 
 In today's fast-paced world, the game of chess has undergone a transformation. With the rise of online platforms, chess enthusiasts are increasingly drawn to the thrill of blitz and rapid games. The chess landscape seems to have evolved into a realm where speed and tricks take center stage, leaving some to wonder: have we lost sight of the true purpose of chess?
 
-I recently watched a YouTube video of Ben Finegold where he explained one of my favorite openings where he then comment on Blitz, Rapid vs slow plays. His remarkable insights inspired me to delve into this week's blog topic, ***The Virtues of Slow Play.***
+I recently watched a YouTube video of Ben Finegold where he explained one of my favorite openings where he then comment on Blitz, Rapid vs slow plays. 
+
+His remarkable insights inspired me to delve into this week's blog topic, ***The Virtues of Slow Play.***
 
 Then I had a chat with my very dear friend Andy and I spontaneously decided to publish this blog earlier than originally planned. Andy, this one's a special dedication to you.
 
