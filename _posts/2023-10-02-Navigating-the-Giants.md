@@ -141,7 +141,7 @@ My boosted ICCF rating so far, after mandatory amount of games played and provis
 
 And I jumped over the 2000 ELO bar in ICCF rating.
 
-In the Champions League 2021 tournament I achieved my first norm for the Correstpondence Chess Expert (CCE) title on 7/17/202. I hope to achieve the second necessary norm soon, getting my first title ever at age 65.
+In the Champions League 2021 tournament I achieved my first norm for the Correstpondence Chess Expert (CCE) title on 7/17/2022. I hope to achieve the second necessary norm soon, getting my first title ever at age 65.
 
 # Conclusion: Proving Adult Chess Improvement is Real
 
