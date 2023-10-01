@@ -61,7 +61,7 @@ One of the remarkable aspects of the VWC is its inclusivity. The tournament is o
 
 As an untitled player, my journey in the 13th VWC was particularly intriguing. I found myself facing opponents with Elo ratings significantly higher than mine, often exceeding the 200-point mark. The prospect of competing against International Masters (IMs) and titled players was both daunting and exhilarating. It was a true test of my skills, and I relished the opportunity to learn and grow as a chess player.
 
-**Facing IM IM Colombo Berra: A Glimpse into the Battle**
+**Facing IM Colombo Berra: A Glimpse into the Battle**
 
 In the preliminary stage, I had the honor of facing International Master (IM) Dr. Fernando Colombo Berra - a cardiologist from Argentina,  who boasted an impressive Elo rating of now 2319. This was a true test of my abilities as an untitled player.
 
