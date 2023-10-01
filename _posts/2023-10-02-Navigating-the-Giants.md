@@ -6,7 +6,9 @@ tags: [chess, correspondence chess]
 categories: [chess, correspondence chess, tournament]
 date: 2023-10-02
 ---
-![Alt text]({{ site.baseurl }}/assets/images/art/Fantasy Chess Art Wallpapers   First HD Wallpapers.jpg){:width="50%"}
+<p align="center">
+    <img src="{{ site.baseurl }}/assets/images/art/OIGt.jpeg" style="display: block; margin: auto;" width="60%">
+</p>
 
 # Introduction
 
@@ -139,11 +141,23 @@ My boosted ICCF rating so far, after mandatory amount of games played and provis
 
 And I jumped over the 2000 ELO bar in ICCF rating.
 
-In the Champions League 2021 tournament I achieved my first norm for the Correstpondence Chess Expert (CCE) title. I hope to achieve the second necessary norm soon, getting my first title ever at age 65.
+In the Champions League 2021 tournament I achieved my first norm for the Correstpondence Chess Expert (CCE) title on 7/17/202. I hope to achieve the second necessary norm soon, getting my first title ever at age 65.
 
-7/17/2022	CCE	Champions League 2021 C9	2
+# Conclusion: Proving Adult Chess Improvement is Real
 
-Stay tuned for the next part of my journey, as I continued to navigate the giants of the 13th ICCF Veterans’ World Cup and started the prelimanary round of the 14th Veterans’ World Cup in section 25 and 56. 
+My journey through the 13th ICCF Veterans’ World Cup has been nothing short of remarkable. As a senior chess enthusiast, I ventured into this prestigious event as an untitled player, facing opponents with significantly higher ratings, including International Masters and titled players. What I've learned and experienced on this journey has solidified my belief that adult chess improvement is not only possible but also achievable.
+
+Chess is a game of endless possibilities and opportunities for growth. It's a sport where age is not a barrier, but rather a testament to the enduring passion and dedication of senior chess enthusiasts. My participation in this tournament, alongside formidable opponents, serves as evidence that age is no hindrance to progress and success in the world of chess.
+
+The inclusivity of the ICCF Veterans’ World Cup, welcoming players aged 60 and above, fosters a sense of community and camaraderie among chess veterans. It's a testament to the belief that chess is a lifelong pursuit, offering challenges and rewards at every stage of life.
+
+As I faced titled opponents, analyzed complex positions, and learned from both victories and defeats, it became clear that adult chess improvement is a journey worth embarking on. The countless hours of study, the thrill of competition, and the joy of learning from each move are a testament to the enduring appeal of chess for players of all ages.
+
+My boosted ICCF rating and my achieving my first norm to earn the Correspondence Chess Expert (CCE) title demonstrate that even in later stages of life, we can achieve remarkable milestones in the world of chess. It's not about where you start but how far you are willing to go on this chess journey.
+
+So, to all senior chess enthusiasts out there, I say this: Keep playing, keep learning, and keep improving. Your journey in the world of chess is far from over. Together, we prove that senior chess improvers are real, and the board is our canvas for lifelong creativity and growth.
+
+Stay tuned for the next part of my journey as I continue to navigate the giants of the 13th ICCF Veterans’ World Cup and embark on new adventures in the 14th Veterans’ World Cup. Remember, in chess, we are united—Amici Sumus.
 
 **Amici Sumus**
 
