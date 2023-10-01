@@ -7,7 +7,7 @@ categories: [chess, correspondence chess, tournament]
 date: 2023-10-02
 ---
 <p align="center">
-    <img src="{{ site.baseurl }}/assets/images/art/OIGt.jpeg" style="display: block; margin: auto;" width="60%">
+    <img src="{{ site.baseurl }}/assets/images/art/OIGt.jpeg" style="display: block; margin: auto;" width="50%">
 </p>
 
 # Introduction
