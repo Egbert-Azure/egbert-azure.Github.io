@@ -15,7 +15,7 @@ date: 2023-10-27
 
 Welcome back, fellow chess enthusiasts! It's been an eventful year in chess, and I'm excited to share my latest chess adventures with you. In this blog post, we'll dive into my recent performance in the 2021 Electronic Knights Championship Semi-Final Section (21ENs03), where I secured 5 wins and 1 loss. But that's not all; I also have some exciting news about my current ranking in the US Correspondence Chess scene. So, grab your favorite chess set, and let's explore this week annotated game together!
 
-**A Game with a familiar Adversary: Herb Wolfe**
+**A Game with a familiar adversary: Herb Wolfe**
 
 My last game in the 21ENs03 section pitted me against a familiar opponent, Herb Wolfe. The game was finished today. Herb and I have crossed swords multiple times on the virtual battlefield, and this game was no exception. It was a challenging match that kept me in my seat. I'll share the game with you shortly, but first, let's talk about what led up to this showdown.
 
