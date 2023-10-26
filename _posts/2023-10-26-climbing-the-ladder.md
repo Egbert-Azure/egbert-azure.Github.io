@@ -19,7 +19,7 @@ And another exciting message from USCF tournament director:
 
 
 <div style="text-align:center; border: 1px solid black; padding: 10px;">
-    <strong>With 5 points you qualified for the Electronic Knights Finals</strong>
+    <strong>With 5 points you qualified for the Electronic Knights Finals in 2024</strong>
 </div>
 
 What a message, with age 66 next year, I will play the top US correspondence chess players in the finals in 2024!
