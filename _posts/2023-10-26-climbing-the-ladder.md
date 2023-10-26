@@ -13,14 +13,16 @@ date: 2023-10-27
 
 # Friday Chess Blog Time Again
 
-Welcome back, fellow chess enthusiasts! It's been an eventful year in chess, and I'm excited to share my latest chess adventures with you. In this blog post, we'll dive into my recent performance in the 2021 Electronic Knights Championship Semi-Final Section (21ENs03), where I secured 5 wins and 1 loss. But that's not all; I also have some exciting news about my current ranking in the US Correspondence Chess scene. 
-The ost exciting message from USCF tournament director: 
+Welcome back, fellow chess enthusiasts! It's been an eventful year in chess, and I'm excited to share my latest chess adventures with you. In this blog post, we'll dive into my recent performance in the 2021 Electronic Knights Championship Semi-Final Section (21ENs03), where I secured 5 wins and 1 loss. But that's not all; I also have some exciting news about my current ranking in the US Correspondence Chess scene.
+
+And another exciting message from USCF tournament director: 
 
 
 <div style="text-align:center; border: 1px solid black; padding: 10px;">
-    <strong>With 5 points you qualified for the Electronic Knights Final</strong>
+    <strong>With 5 points you qualified for the Electronic Knights Finals</strong>
 </div>
 
+What a message, with age 66 next year, I will play the top US correspondence chess players in the finals in 2024!
 
 So, grab your favorite chess set, and let's explore this week annotated game together!
 
