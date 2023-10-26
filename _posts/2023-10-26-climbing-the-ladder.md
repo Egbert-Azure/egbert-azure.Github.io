@@ -13,7 +13,16 @@ date: 2023-10-27
 
 # Friday Chess Blog Time Again
 
-Welcome back, fellow chess enthusiasts! It's been an eventful year in chess, and I'm excited to share my latest chess adventures with you. In this blog post, we'll dive into my recent performance in the 2021 Electronic Knights Championship Semi-Final Section (21ENs03), where I secured 5 wins and 1 loss. But that's not all; I also have some exciting news about my current ranking in the US Correspondence Chess scene. So, grab your favorite chess set, and let's explore this week annotated game together!
+Welcome back, fellow chess enthusiasts! It's been an eventful year in chess, and I'm excited to share my latest chess adventures with you. In this blog post, we'll dive into my recent performance in the 2021 Electronic Knights Championship Semi-Final Section (21ENs03), where I secured 5 wins and 1 loss. But that's not all; I also have some exciting news about my current ranking in the US Correspondence Chess scene. 
+The ost exciting message from USCF tournament director: 
+
+
+<div style="text-align:center; border: 1px solid black; padding: 10px;">
+    <strong>With 5 points you qualified for the Electronic Knights Final</strong>
+</div>
+
+
+So, grab your favorite chess set, and let's explore this week annotated game together!
 
 **A Game with a familiar adversary: Herb Wolfe**
 
