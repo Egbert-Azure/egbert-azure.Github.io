@@ -56,3 +56,5 @@ Chess is not just a game; it's a journey of self-improvement, strategic thinking
 As always, I invite you to dive into this week game against Herb Wolfe, analyze the moves, share your thoughts, and perhaps suggest improvements. Chess is a community, and learning from each other is integral to this beautiful endeavor. I look forward to sharing more of my chess journey with you in the future, so stay tuned for further updates and exciting games.
 
 Until next time, keep those knights and rooks in motion, and may your endgames always be victorious!
+
+Amici Sumus
