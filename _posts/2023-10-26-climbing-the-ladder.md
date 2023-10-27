@@ -37,7 +37,7 @@ The path to the Electronic Knights Championship semi-final section was filled wi
 In the Electronic Knights Semi-Final, section 21ENs03 I was again paired with Herb Wolfe, whom I had the plessure to play multiple times.
 
 With Black I decided to go with the Pirc after he opened with e4. It ends up in a B08 Pirc Classical System and after move 10 I was behind my development, but managed to come back, having a perfect middle game.
-His Bh6 and Q protecting made me nervous. I typicall don't trade that early Q, but with move 16 they have been off the board. Pushing Harry the h pawn gave me good structure on the King side. And gaining space pushing the Anton the a pawn on Q side.
+His Bh6 and Q protecting made me nervous. I typicall don't trade that early Q, but with move 16 they have been off the board. Pushing Harry the h pawn gave me good structure on the King side. And gaining space pushing the Aaron the a pawn on Q side.
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=grcaNRz5tlUQDy6a3g97BH7fCvtT8QH06DB5ubgDHtgneH76iFXfE+mIoKwaY2Vi'></iframe>
 
