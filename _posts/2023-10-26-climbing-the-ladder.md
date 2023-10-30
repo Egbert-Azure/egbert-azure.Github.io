@@ -6,6 +6,7 @@ excerpt: Update on my chess journey in correspondence chess, including my perfor
 categories: [chess, correspondence chess, tournament]
 date: 2023-10-27
 ---
+
 <div style="text-align:center">
     <img src="../assets/images/art/chess logo 2.jpeg" alt="Going Strong" width="50%">
 </div>
@@ -74,3 +75,9 @@ As always, I invite you to dive into this week game against Herb Wolfe, analyze 
 Until next time, keep those knights and rooks in motion, and may your endgames always be victorious!
 
 Amici Sumus
+
+Please send feedback and comments any time!
+
+> **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+
+> **Note:** [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)

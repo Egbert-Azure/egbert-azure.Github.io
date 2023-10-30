@@ -20,11 +20,12 @@ Within the family, my godfather was able to play chess. He thought he was good, 
 
 My brother in law, Sleh Badoui was a fantastic chess player and we played very often. Sleh studied art and graphics at Sorbonne in Paris, lived in the Netherlands, but born in Tunis.
 
-
 I embarked on an chess comeback in 2020 after a 25-year + hiatus from the game. Despite the long break, my passion for chess was rekindled, and I quickly immersed myself in the world of chess, determined to make my mark once again.
 
 
-![Alt text](<Screenshot 2023-10-15 191935.png>)
+<div style="text-align:center">
+    <img src="Screenshot 2023-10-15 191935.png" alt="Alt text" width="60%">
+</div>
 
 Since my return, I've achieved significant milestones in correspondence chess. My imminent second norm in correspondence chess with the ICCF underscores my ability to strategize and execute plans meticulously over extended periods.
 
