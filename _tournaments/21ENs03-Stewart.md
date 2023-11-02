@@ -32,10 +32,6 @@ I understand you have declined the draw offer previously, but I really hope you 
 *Egbert*
 
 
-<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
-<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
-<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
-
 <div class="cbreplay">
 [Event "USCF  21ENs04 - 2021 Electronic Knights"]
 [Site "?"]
