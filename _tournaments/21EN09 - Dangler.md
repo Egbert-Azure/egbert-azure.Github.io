@@ -9,7 +9,6 @@ comments: false
 
 
 <div class="cbreplay">
-
 [Event "USCF 21EN09 - 2021 Electronic Knights"]
 [Site "?"]
 [Date "2021.05.17"]
