@@ -46,9 +46,6 @@ Let's begin with an example that showcases exceptional sportsmanship. In this ga
 The game was highlighted in [Check is in the Mail, August 2021](https://new.uschess.org/news/check-mail-august-2021):
 >Although the result was a draw, in reality, it was anything but! Check out Egbert's outstanding feint and combination to close out the game! For the full effect, though, **please change 37. Be3 to 37. Be5**. There was a miscommunication with this move. Egbert had recorded Be3, enabling the tremendous combo, but Ed had recorded Be5, rendering the combination disastrous. As Egbert noted when submitting this game, Ed graciously agreed to a draw as a result.
 
-<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
-<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
-<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
 
 <div class="cbreplay" style="width: 800px; height: 520px">
 

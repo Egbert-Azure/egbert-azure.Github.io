@@ -86,9 +86,6 @@ Egbert
 
 I played Roberto the first time and I was impressed! A FIDE rated player and a [CCE (Correspondence Chess Expert) 2022](https://www.iccf.com/player?id=160868). 
 
-<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
-<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
-<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
 
 <div class="cbreplay" style="width: 800px; height: 520px">
 [Event "Peace Open Gr. 28"]

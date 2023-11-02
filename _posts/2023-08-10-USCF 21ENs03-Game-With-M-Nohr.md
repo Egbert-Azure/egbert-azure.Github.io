@@ -22,10 +22,6 @@ I'm also excited to share that Matt Nohr has his own chess blog site, where he d
 
 **The game below will also be published in the "Chess Games Replay" section of my blog page. Enjoy**
 
-<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
-<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
-<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
-
 <div class="cbreplay">
 [Event "USCF  21ENs03 - 2021 Electronic Knights"]
 [Site "?"]

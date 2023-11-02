@@ -9,9 +9,6 @@ comments: false
 
 I reflected on this game in my blog [My Journey into Correspondence Chess](https://egbert-azure.github.io/My-Journey-into-Correspondence-Chess/)
 
-<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
-<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
-<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
 
 <div class="cbreplay">
 [Event "USCF 21EN09 - 2021 Electronic Knights"]

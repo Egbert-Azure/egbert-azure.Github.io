@@ -53,10 +53,6 @@ I highly recommend to check out more episodes of "Svitlana's Smart Moves" with S
 
 Here is an example to showcase. White's response is called the "Austrian Attack - I. A. 6. e5 Nfd7
 
-<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
-<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
-<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
-
 <div class="cbreplay">
 [Event "?"]
 [Site "?"]
