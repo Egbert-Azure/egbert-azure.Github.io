@@ -7,6 +7,10 @@ date: 2023-11-24
 
 ---
 
+<div style="text-align: center;">
+<img src="../assets/images/art/correspondence-chess.jpeg" alt="image" width="50%">
+</div>
+
 # Introduction
 
 On our journey to enhance our chess skills, it's crucial to adapt to the changing landscape of the game. In a world that's rapidly going online, it's time to reconsider our approach. While some of us may have grown up in a world without the internet, surrounded by black-and-white TVs and acoustic couplers, we believe that progress in chess happens faster and more effectively when we engage with a physical chessboard.
