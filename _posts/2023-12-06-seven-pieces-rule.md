@@ -39,6 +39,31 @@ The well-known "50-Move Rule," as the ICCF outlines, allows a player to claim a 
 
 Understanding these rules is essential for correspondence chess players seeking to master the game. The Seven Pieces Rule encourages tenacity as players navigate the endgame armed with insights from endgame tablebases. Meanwhile, the 50-move rule adds additional complexity, urging players to carefully manage move counts and strategically reset the counter when necessary.
 
+
+You might wonder WHY you can even use a tablebase.
+
+If no tablebase rule was implemented, it could lead to endless games in certain situations. This is particularly true in complex endgame scenarios where perfect play is required to secure a win or a draw. Without the use of tablebases, players might struggle to find the optimal moves, leading to prolonged games.
+
+While the absence of a tablebase rule might not necessarily lead to endless games due to the fifty-move rule, it could lead to inaccuracies in the adjudication of complex endgames and potentially unfair outcomes. The implementation of the tablebase rule helps to mitigate these issues, ensuring that games are decided by skill and strategic understanding rather than computational power alone.
+
+In correspondence chess, the use of additional tools varies based on the platform and tournament rules. Here's a straightforward breakdown:
+
+**ICCF Tournaments:**
+
+The International Correspondence Chess Federation (ICCF) allows chess engines in their tournaments. This practice is sometimes referred to as "Centaur Chess.". It's crucial to note that while engines can offer valuable analysis, they cannot complement human strategy and understanding. Successful players often use engines to explore ideas, guide the analysis, and make final decisions. Utilizing an engine to analyze positions and calculate variations is beneficial, but understanding the positions, strategies, and tactics is equally important.
+
+ICCF also permits the use of opening books and databases in their tournaments. These tools are valuable for studying positions, understanding plans, and considering alternative moves for both sides.
+
+**USCF Tournaments on ICCF Platform:**
+
+For US Chess Correspondence Chess (CC) tournaments on the ICCF platform, using computer programs or algorithms to generate moves is **NOT** allowed. Players are required to analyze the game and decide on their moves independently.
+
+The USCF does permit the use of opening books in their correspondence chess. It's essential to remember that while opening books provides valuable insights, they are not a substitute for human strategy and understanding.
+
+These are general guidelines, and specific tournaments may have additional rules. Always check the specific regulations for each tournament you participate in.
+
+However, the true essence of correspondence chess lies in profound analysis. Simply following engine moves may not lead to success. The luxury of time in correspondence chess allows for deep exploration of positions, often resulting in the discovery of brilliant, non-intuitive moves. The ultimate goal is to reach a complicated, imbalanced position.
+
 ## Learning from Veterans World Cup 13
 
 I had the pleasure of playing against Correspondence Chess Master Christophe David-Bordier (ELO 2374), a very experienced player from France. 
