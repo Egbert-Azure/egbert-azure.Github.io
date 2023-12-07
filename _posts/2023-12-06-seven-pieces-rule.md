@@ -48,7 +48,7 @@ I had the pleasure of playing against Correspondence Chess Master Christophe Dav
 
 Christophe David-Bordier is a recognized player in the world of correspondence chess. He holds the title of Correspondence Chess Master (CCM) and was awarded the Correspondence Chess Expert (CCE) in 2017. He has completed 1220 games, winning 287 of them, and has played in 129 tournaments. His play is characterized by strategic planning and a deep understanding of the game. He has also participated in the 12th Chess 960 World Cup. His current rating is 2379.
 
-Christophe played an opening as White to my repertoire, and I was pretty confident. As you can see, it's going a bit back and forth until his brilliant move 42. h5!
+Christophe played an opening as White which is close to my repertoire, and I was pretty confident. As you can see, it's going a bit back and forth until his brilliant move 42. h5!
 However, the root cause for my troubled position was earlier. My move 27... c6 should have been 27... b6. However, his position was very strong already.
 
 <iframe style='border: 0;' width='800px' height='500px' src='https://share.chessbase.com/SharedGames/frame/?p=hgL+si8jvcUWl/NmY0gI5fkdd9sXPLmLOkmuT9f0SiTnfsUO2f/KWWdxfKvlBo/9'></iframe>
