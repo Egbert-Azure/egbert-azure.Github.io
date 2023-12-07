@@ -53,6 +53,8 @@ However, the root cause for my troubled position was earlier. My move 27... c6 s
 
 <iframe style='border: 0;' width='800px' height='500px' src='https://share.chessbase.com/SharedGames/frame/?p=hgL+si8jvcUWl/NmY0gI5fkdd9sXPLmLOkmuT9f0SiTnfsUO2f/KWWdxfKvlBo/9'></iframe>
 
+The game is a win for White because white could claim a win due to 7 piece tablebases. With move 71. no draw is possible, therefore, Black resigned. The 50 moves rule is excluded, because less than seven pieces on the board.
+
 ## Conclusion
 
 In conclusion, these rules are specific to correspondence chess under ICCF guidelines, distinguishing this form of play from others. Welcome to the nuanced world of correspondence chess and its particular tactics. Those experienced players virtuously play with rules and tactics such as the Seven Pieces and 50-Move Rule.
