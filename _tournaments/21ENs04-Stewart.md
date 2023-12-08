@@ -2,7 +2,7 @@
 title: "Electronic Knights Semi-Final"
 layout: post
 name: Stewart, Douglas
-section: 21ENs03
+section: 21ENs04
 categories: chess
 comments: false
 ---
