@@ -61,6 +61,14 @@ collections:
     output: true
     permalink: /tournaments/:title/
 
+  puzzles:
+    output: true
+    permalink: /puzzles/:title/
+
+  games:
+    output: true
+    permalink: /games/:title/
+
 # Archives
 # collections:
 #  archives:

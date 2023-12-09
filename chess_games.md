@@ -1,18 +1,31 @@
 ---
 layout: page
-title: Chess Games Replay
-permalink: "/Games_Replay/"
-date: 2023-08-06
-categories: [chess, tournament, uscf, chesspunks]
-tags: [chess, tournament, Electronic Knights, competitive chess, Chesspunks, strategy, analysis, results]
+title: Weekly Puzzles and Game of the Week
+permalink: "/Puzzle/"
+tags: [weekly-puzzles, chess, game-of-the-week]
+categories: [puzzles, chess]
 ---
 
-## Annotated games for replay
 
-{% assign sorted_tournaments = site.tournaments | sort: 'title' | sort: 'section' %}
 
-{% for tournament in sorted_tournaments %}
-- **{{ tournament.title }}** - Section: {{ tournament.section }} - Opponent: {{ tournament.name }} - [Link]({{ tournament.url | relative_url }})
+{% assign puzzle_years = "" | split: "" %}
+
+{% for puzzle in site.puzzles %}
+  {% assign year = puzzle.date | date: "%Y" %}
+  {% unless puzzle_years contains year %}
+    {% assign puzzle_years = puzzle_years | push: year %}
+  {% endunless %}
+{% endfor %}
+
+{% for year in puzzle_years %}
+   **{{ year }}**
+  
+  {% assign puzzles_for_year = site.puzzles | where: 'date', year %}
+  {% assign sorted_puzzles_for_year = puzzles_for_year | sort: 'title' %}
+  
+  {% for puzzle in sorted_puzzles_for_year %}
+  - **{{ puzzle.title }}** -  {{ puzzle.description }} - [Link]({{ puzzle.url | relative_url }})
+  {% endfor %}
 {% endfor %}
 
 

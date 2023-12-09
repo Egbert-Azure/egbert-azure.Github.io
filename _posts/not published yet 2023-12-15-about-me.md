@@ -5,7 +5,7 @@ title: The Road to ELO 2000 - who I am in chess
 categories: [chess, improvement, learning]
 tags: [chess improvement, opening repertoire, growth, progress, chess strategies]
 excerpt: How I became a chess player and what influences me. A lifetime story.
-date: 2023-12-02
+date: 2023-12-15
 ---
 
 <div style="text-align: center;">
@@ -34,7 +34,9 @@ Mr. Beheim-Schwarzbach unique very entertaining writing style really caught me.
 
 The same style has Dr. Helmut Pfleger and since today, he is writing a weekly chess column, which I highly recommend. Here an example (translated into english):
 
-![image](https://img.zeit.de/zeit-magazin/2023/49/schach-bild-1/original__660x660__desktop)
+<div style="text-align: center;">
+<img src="../assets/images/Puzzle/NR. 512023.png" alt="image" width="50%">
+</div>
 
 > Does anyone else have any doubts that playing chess keeps you young? At the German Senior Team Championship OVER 65 in Böblingen, the North Rhine-Westphalia II team won the bronze medal with the veteran warriors Erich Krüger (91) and Willy Rosen (90). While Krüger had recently become German Nestor Champion (from 75), this time his friend and club colleague in Essen-Katernberg, Willy Rosen, was supposed to play a special role. For the first time he played together with his son Bernd, who had just turned 65, in the senior team - with "Papa" Willy being almost as good with 5 points from 7 games as Filius Bernd with 5 from 6 at the top board. What both found to be a “pretty unique thing,” as Hartmut Metz writes in Schach-Magazin 64. Why “quite”? Are the two of them already thinking about the next championships up to the hundredth?! There seems to be little to stand in the way of this, especially since dad now always wears a helmet after a bicycle fall in 2020. The final all-clear was given when he scored 2.5 points from three games against Erich Krüger at their weekly meeting: “Everything had to be okay!” Finally, the decisive battle of the last round against the former bridge world champion Georg Nippgen from Baden (who still became champions). What cunning triangular maneuver did Willy Rosen use to gain a decisive advantage as Black's turn?
 
@@ -58,7 +60,7 @@ Even as a chess veteran who returned to the game after a quarter-century break, 
 I also signed up for the ICCF Veterans World Cup 14 and just finished a game against the Ukrainian Internation Master Valeriy Khanas (2384)
 
 Valery is a well-known and very experienced player. Given the situation in Ukraine, how he plays and who plays during these uncertain times is even more impressive.
-So, I thought, for this blog, I will share the game.
+So, I thought, for this blog, I will share the game with you.
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=gK+iCe5Bu9Z5ZHluUzCVcI+xSSUn6CsfPE9+lT/Ao8w+ykUA47gcTcTM/0fKlKMB'></iframe>
 
