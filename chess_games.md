@@ -4,9 +4,13 @@ title: Weekly Puzzles and Game of the Week
 permalink: "/Puzzle/"
 tags: [weekly-puzzles, chess, game-of-the-week]
 categories: [puzzles, chess]
+comments: false
 ---
 
 
+<div style="text-align: left;">
+<img src="../assets/images/art/weekly.jpeg" alt="image" width="25%">
+</div>
 
 {% assign puzzle_years = "" | split: "" %}
 
@@ -29,4 +33,3 @@ categories: [puzzles, chess]
 {% endfor %}
 
 
-> **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
