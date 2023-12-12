@@ -32,4 +32,5 @@ comments: false
   {% endfor %}
 {% endfor %}
 
+{% assign sorted_tournaments = site.tournaments | sort: 'title' | sort: 'section' %}
 
