@@ -119,6 +119,9 @@ To activate the e-board function in Fritz for Playchess as default, get to file 
 
 ![Alt text](<../assets/images/playchess with dgt.png>)
 
+In your playchess client or via Fritz or Chessbase your status show a DGT-Board and when you play, it's showing **playing with dgt**.
+
+![Alt text](../assets/images/playechess=dgt-board.png)
 
 ## Playchess.com Web Client vs. Desktop Client
 
