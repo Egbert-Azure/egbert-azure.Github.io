@@ -42,7 +42,7 @@ ChessBase Web Tools are a suite of free tools designed to enhance the experience
 
 1. **Tactics Trainer**: Allows every chess site to offer a tactics trainer for free, no login required.
 2. **Live Blitz**: Offers visitors a way to play a quick game.
-3. **Own Chess Server**: Allows you to create your own chess server with a few clicks¹.
+3. **Own Chess Server**: Allows you to create your own chess server with a few clicks.
 4. **Fritz Chess Engine**: Provides visitors a quick and easy way to play against or analyze with a strong chess engine right in their browser.
 
 These tools are designed to be easy to embed on your website and tap into the worldwide community of ChessBase's services. They are part of a broader range of ChessBase apps that run exclusively in the browser. These apps cover the full range of ChessBase tools, including the Cloud database tools. 
