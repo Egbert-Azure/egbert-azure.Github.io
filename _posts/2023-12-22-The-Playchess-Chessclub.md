@@ -70,7 +70,10 @@ While enjoying live commentary and testing my skills with the tactics trainer, I
 Creating a chess club on Playchess is surprisingly easy. The platform offers the flexibility to open your own club room, play with club members, and even share a link to the club room on external websites. And the best part? It costs nothing!
 
 So, what I have done for your convenience is I created a **Senior Chess Improver** with a click.
-[![Chess Club](https://play.chessbase.com/en/Play?room=Senior%20Chess%20Improver)](https://play.chessbase.com/en/Play?room=Senior%20Chess%20Improver)
+
+[![Playchess Logo](../assets/images/PlaychessLogo.png)](https://play.chessbase.com/en/Play?room=Senior%20Chess%20Improver)
+
+Check it out and we can schedule regular tournaments or trainings in the future.
 
  Every club, school, or trainer can open a virtual playing room on the ChessBase server. Everything is possible: casual games, tournaments, online training, simultaneous events, etc. Everything on "your" chess server! The best alternative is to keep the club evening running and a good (virtual) meeting point to play chess together. Creating a virtual club room is easy.
 
