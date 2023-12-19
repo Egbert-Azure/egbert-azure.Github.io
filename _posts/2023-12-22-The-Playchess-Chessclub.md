@@ -195,6 +195,19 @@ This game was played with my ChessNut Air e-board and was followed by 8 others. 
 
 >Generally speaking, I feel there are much more experienced players on this platform than others. I had the same experience with ICCF.
 
+## Broadcast a Game - Special Rooms
+
+There are two special rooms called Broadcast and Training & Teaching. They are used to cover live events, hold lectures, or give lessons.
+
+This is a special function available in the *Broadcasts* room where you have the ability to broadcast your games and discuss them interactively with other visitors.
+
+Via *Application Menu – New – New broadcast*
+
+![Broadcast a Game](../assets/images/broadcast.png)
+*Broadcast a Game*
+
+These broadcasts can be public or private. You can hand over the control to someone who is watching and let them suggest moves, as one example.
+
 
 ## Conclusion: A Chess Journey Unveiled
 
