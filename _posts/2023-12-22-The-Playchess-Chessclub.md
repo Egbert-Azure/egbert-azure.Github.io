@@ -54,7 +54,7 @@ Here is the live tournament view, where you can predict the next move or bet on 
 
 ![Live Tournament](<../assets/images/live tournament view.png>)
 
-Your own games are automatically synchronized in your Chessbase or Fritz program.
+Your own games are automatically synchronized in your Chessbase or Fritz program. The link is also in the navigation bar of the blog page (look for **Playchess**)
 
 In summary, ChessBase's web tools and online chess platform provide a comprehensive and innovative suite of tools for chess enthusiasts of all levels. These tools enhance the user's ability to play, learn, and enjoy the game of chess.
 
