@@ -206,8 +206,9 @@ Via *Application Menu – New – New broadcast*
 ![Broadcast a Game](../assets/images/broadcast.png)
 *Broadcast a Game*
 
-These broadcasts can be public or private. You can hand over the control to someone who is watching and let them suggest moves, as one example.
+These broadcasts can be either public or private. An interesting feature is the ability to hand over control to someone watching, allowing them to suggest moves, fostering a collaborative experience.
 
+While there might be more options within Playchess that I haven't covered in this blog, I believe this glimpse provides an insight into the uniqueness of this platform. Explore its potential and discover the myriad possibilities it offers!
 
 ## Conclusion: A Chess Journey Unveiled
 
