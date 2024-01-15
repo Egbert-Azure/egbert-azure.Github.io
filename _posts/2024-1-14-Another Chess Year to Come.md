@@ -136,6 +136,8 @@ The positive message is clear: Chess not only endures but thrives, providing a s
 
 I'd love to hear your thoughts on today's post. Feel free to share your favorite chess strategy or ask any questions.
 
+> **Note:** Check out week 1 and 2 puzzle and games of the [week](https://egbert-azure.github.io/Puzzle/)
+
 > **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
 > **Note:** [Follow me on Mastodon for more chess insights.](https://mastodon.online/invite/mWSpfQP8)
