@@ -34,7 +34,17 @@ Studying both historical and contemporary games becomes not just a recreational 
 
 Ever wondering about opening traps and such? You will like this one for sure.
 
-Paris, 1759, the venue is the Cafe de la Regence, prototype of the chess café and the original home of the coffee house player. Here, Kermur Sire de Legal delivers a brilliant game which, despite its brevity, is also strategically remarkable, illustrating the complete triumph of pieceplay over pawn play. White actually only makes one pawn move.
+Paris, 1759, the venue is the Cafe de la Regence, prototype of the chess café and the original home of the coffee house player.
+
+<div style="text-align: left;">
+<img src="../assets/phpuCHnMw.jpeg" alt="image" width="50%">
+</div>
+
+<div style="text-align: left; font-size: smaller;">
+Cafe de la Regence, Paris - around 1910
+</div>
+
+Here, Kermur Sire de Legal delivers a brilliant game which, despite its brevity, is also strategically remarkable, illustrating the complete triumph of pieceplay over pawn play. White actually only makes one pawn move.
 
 <div class="cbreplay">
 [Event "Paris, Cafe de la Regence"]
