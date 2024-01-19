@@ -83,12 +83,12 @@ In essence, "Fischer-Spassky 1972: Match of the Century Revisited" is not just a
 
 Let's go back in time and look at the game
 
-> Donald Byrne - Robert J. Fischer - New York 1956
+# Donald Byrne - Robert J. Fischer - New York 1956
 
-At the age of 13, Bobby Fischer played a game that made him famous in one fell swoop. It goes without saying that she received the beauty prize of the tournament. His opponent allowed himself inconspicuous negligence on the 11th move and, thanks to an astonishing maneuver by Black, was drawn into a tumult in which one surprise followed another. Ultimately, he feels compelled to conquer the black queen, but his king gets into a dilemma. It's unbelievable how the boy finds his way through the maze of variations and hits the most vital thing, move after move.
+At the age of 13, Bobby Fischer played a game that made him famous in one fell swoop. It goes without saying that the game received the beauty prize of the tournament. His opponent allowed himself inconspicuous negligence on the 11th move and, thanks to an astonishing maneuver by Black, was drawn into a tumult in which one surprise followed another. Ultimately, he feels compelled to conquer the black queen, but his king gets into a dilemma. It's unbelievable how the boy finds his way through the maze of variations and hits the most vital thing, move after move.
 Fischer did not consider the game of the century worthy of inclusion in the anthology of his 60 memorable games. His opponent was his inexorable verdict, never had a real chance, and by accepting the queen's sacrifice on move 18, he violated the elementary duty of care that also applies to a minor.
 
-I know this game was probably analized gazillion times, but it's worth to check again. I added some training questions for you.
+I know this game was probably analyzed gazillion times, but it's worth to check again. I added some training questions for you.
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=aH7zrDW0GH992RgtwOlbaiepDyZAWK6zN0d0p99YfAMnhMOw6rMTeu9gDP5qEvb5'></iframe>
 
