@@ -59,6 +59,10 @@ Funny enough, the top engine move 4. is h3, not Nc3!
 
 Over the past 12 month I digged into Tibor Karolyi's masterpiece, "Fischer-Spassky 1972: Match of the Century Revisited," and I must say it was a truly captivating experience that not only rekindled fond memories but also provided invaluable insights for any senior chess enthusiast on their journey to improvement.
 
+<div style="text-align: center;">
+<img src="../assets/images/matchofthecentury.jpg" alt="image" width="30%">
+</div>
+
 Karolyi's ability to present this iconic chess match with a fresh perspective is nothing short of stunning. The meticulous way in which he weaves together the intricate details of each game, coupled with his keen observations and analysis, makes the book an engaging and enlightening read. For someone who watched the original match on TV and followed the newspaper summaries, the book brought back a flood of youthful memories, adding an extra layer of sentiment to the entire experience.
 
 One of the most significant aspects that make books like these indispensable for senior chess improvers is the rich learning opportunity they offer. Delving into historical matches, dissecting the strategies employed by chess legends like Fischer and Spassky, and understanding the context of the games can provide a unique perspective on chess evolution. Seniors can draw parallels between the past and the present, identifying timeless principles and strategic nuances that remain relevant in today's chess landscape.
