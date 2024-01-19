@@ -7,6 +7,7 @@ tags: [history, chess player, tournament game, Fischer-Spassky 1972, Tibor Karol
 excerpt: "Thoughts about contemporary chess games versus the brilliancy of historical games. And then take a chess journey through chess history with Tibor Karolyi's 'Fischer-Spassky 1972: Match of the Century Revisited' among some other interesting and entertaining games."
 date: 2024-01-22
 ---
+**Blog Post 25 - Never thought I'm going that far** 
 
 <div style="text-align: center;">
 <img src="../assets/images/fischer1957.jpg.crdownload" alt="image" width="30%">
@@ -14,6 +15,7 @@ date: 2024-01-22
 <div style="text-align: center; font-size: smaller;">
 Intensity: Bobby Fischer - 1957
 </div>
+
 
 Whether historical chess games surpass contemporary ones is a subjective matter, hinging on individual preferences within the chess community. Examining the distinct characteristics of each era sheds light on the evolution of the game.
 
