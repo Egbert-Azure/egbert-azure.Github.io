@@ -10,7 +10,7 @@ date: 2024-01-22
 **Blog Post 25 - Never thought I'm going that far** 
 
 <div style="text-align: center;">
-<img src="../assets/images/fischer1957.jpg.crdownload" alt="image" width="30%">
+<img src="../assets/images/fischer1957.jpeg" alt="image" width="30%">
 </div>
 <div style="text-align: center; font-size: smaller;">
 Intensity: Bobby Fischer - 1957
