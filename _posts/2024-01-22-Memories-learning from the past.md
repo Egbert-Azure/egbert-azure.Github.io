@@ -107,6 +107,12 @@ Fischer played Byrne multiple times. According MegaDatabase this is the complete
 | 7    | 0-1    | USA-ch 1966/67 Rosenwald Trophy, New York (5) | 12/17/1966 |
 | 8    | 1-0    | Vinkovci, Vinkovci (11)                | 09/20/1968 |
 
+Now what can we learn from Fischer too?
+
+I think Bobby Fischer’s golden chess rule is valid: 
+>If you see an opponent’s piece in your half of the board, you need to neutralize it.
+
+If an opponent’s piece is in your half of the board, it could potentially pose a threat to your defense. Therefore, Fischer’s advice is to neutralize it, either by capturing the piece, if it’s safe to do so, or by otherwise mitigating its influence. This strategy can help maintain control of the game and keep your king safe. 
 # More history? A new Database in 2024
 
 In my blog [Leveraging Chessbase with Mega Database and UltraCorr23 for Correspondence Chess Excellence](https://chess.myvortexcloud.com/reference-databases/) I introduced the UltraCorr Database 2023.

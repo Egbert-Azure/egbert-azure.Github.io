@@ -255,4 +255,16 @@ Source: Conversation with Bing, 12/8/2023
 2. [Recent Upsets - Pittsburgh Chess Club.](https://pittsburghchessclub.org/tournaments/recent-upsets/)
 3. [MICHAEL BASHUR games & statistics - ficgs.com](http://www.ficgs.com/bashur_michael.htm)
 
+
+## Dr. Jeff Rerger
+
+Dr. Jeff Reger is a well known player in the chess community. He has been mentioned in a US Chess.org article¹. In one of the games highlighted, Dr. Reger played from the white side of a King's Indian Attack. The game started quietly, with White subtly gaining control of the center and then locking it. As Black tried to counter and gain the initiative, White was able to shift heavy artillery to the kingside more quickly than Black could keep pace. White then opened the game with a clever bishop sacrifice to set up a ruthless mating net¹.
+
+There are also records of his games in Chess 960, a variant of chess, on the International Correspondence Chess Federation (ICCF) website²³. 
+
+Source: Conversation with Bing, 1/20/2024
+(1) Check Is In The Mail: January 2022 | US Chess.org. https://new.uschess.org/news/check-mail-january-2022.
+(2) ICCF Game. https://www.iccf.com/game?id=1356504
+(3) ICCF Game. https://www.iccf.com/game?id=1340824
+
 ## Austin Houk
