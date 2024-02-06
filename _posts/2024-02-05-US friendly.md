@@ -16,7 +16,7 @@ categories: [Chess, USCF, Friendly Matches]
 sight, although some players make use of them as if they 
 conferred sight. José Raul Capablanca
 
-In this blog I like to share at first a game from USCF Around the World friendly tournament. Funny enough, I played against Germany.
+In this blog I like to share at first games from USCF Around the World friendly tournament. Funny enough, I played against Germany, well and again Switzerland, Hungary, Netherlands, Finland, Cuba and Peru.
 
 Thomas played 7 unbelievable strong moves and I had some sweat on my forehead.
 
