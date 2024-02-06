@@ -22,7 +22,7 @@ Thomas played 7 unbelievably strong moves, and I had some sweat on my forehead.
 
 But before delving into the details, let's clarify the US-friendly matches.
 
-Friendly Matches are captivating team versus-team chess contests involving teams affiliated with different nations. Here, the overall team outcomes matter. And this open tournaments are making everyone eligible to participate. Well, because it's a friendly tournament to have fun and promote correspondence chess. As an individual you contriubute with your result to the whole team result.
+Friendly Matches are captivating team versus-team chess contests involving teams affiliated with different nations. Here, the overall team outcomes matter. And this open tournaments are making everyone eligible to participate. Well, because it's a friendly tournament to have fun and promote correspondence chess. As an individual you contriubute with your result to the whole team result. And you earn the bragging rights.
 
 The International Correspondence Chess Federation (ICCF) is the organization responsible for running these friendly matches and sponsoring the events. The ICCF, an international body overseeing correspondence chess events, has ICCF-US as its American branch.
 
