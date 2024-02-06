@@ -58,33 +58,7 @@ My opponent, who was nominated to play on three boards by the German team (which
 
 The second game was played with the Dutch Defense, which is an aggressive and ambitious opening that vies for control of the e4 square. I was surprised because usually it's played against 1.d4. The Leningrad Variation is characterized by the fianchetto of the dark-squared bishop. The mainline starts with the moves 1. d4 f5 2. c4 Nf6 3. Nf3 g6 4. g3 Bg7 5. Bg2 d6 6. O-O O-O 7. Nc3. However, as we can see due his moves the position transposed to the Leningrad variation. A GM level might have different thoughts here.
 
-<div class="cbreplay">
-[Event "GER - USA 2022"]
-[Site "corr ICCF"]
-[Date "2022.10.12"]
-[Round "?"]
-[White "Schroeer, Egbert"]
-[Black "Schmidt, Torsten (Jessnitz)"]
-[Result "1/2-1/2"]
-[ECO "A87"]
-[WhiteElo "2080"]
-[BlackElo "2055"]
-[Annotator "Schroeer,Egbert"]
-[PlyCount "109"]
-[Beauty "5362266685971"]
-[EventDate "2022.??.??"]
-[SourceTitle "ICCF 2023"]
-[Source "ICCF ed TH"]
-[SourceDate "2024.01.10"]
-[SourceVersion "1"]
-[SourceVersionDate "2024.01.10"]
-[SourceQuality "1"]
-[WhiteTeam "USA"]
-[BlackTeam "Germany"]
-[BlackTeamCountry "GER"]
-
-1. Nf3 f5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. d4 O-O 6. b3 d6 7. Bb2 Qe8 8. c4 Na6 9. a3 {A87: Dutch Defence: Leningrad System: 5 Nf3. A87: Dutch Defence: Leningrad System: 5 Nf3.} c6 10. Nbd2 Nc7 11. Qc2 {White is better.} Bd7 12. Rfe1 a5 13. e4 fxe4 14. Nxe4 Bf5 {[#]} 15. Nxf6+ $146 {This was now complete off the beaten path, but I had the feeling I have an advantage.} ({Predecessor:} 15. Nh4 Bxe4 16. Bxe4 Nxe4 17. Rxe4 d5 18. Re2 a4 19. Rae1 Bf6 20. Nf3 axb3 21. Qxb3 dxc4 22. Qxb7 {½-½ Cramling,P (2465)-Stefansson,V (2291) Douglas IoM op 2018 (5)}) 15... Bxf6 16. Qd2 a4 (16... d5 $2 17. a4 Be4 18. Re3) 17. d5 axb3 18. dxc6 bxc6 19. Bxf6 ({I thought about Nd4} 19. Nd4 Bd7 20. Nxb3) 19... Rxf6 20. Nd4 {Double attack. At this point, I thought to carry home a win.} Bd7 21. a4 Qf7 22. Nxb3 Rf8 (22... e5 $5 23. Qe2) 23. f4 Qxc4 24. Rxe7 R8f7 $1 25. Re3 {0.33/30 White is more active.} (25. Rxf7 $16 {0.93/26} Rxf7 26. Nd4 (26. Qxd6 Nd5 $14)) 25... g5 $14 {Didn't pay out like I thought. Pretty even at this point.} 26. Bf1 Qd5 27. Rd3 Qe4 28. Bg2 Qe7 29. fxg5 Rf2 {all other moves lose} 30. Qe3 {thought to still have a slightly better position, but he didn't take the bait Qx3} Rb2 31. Qxe7 (31. h4 $5 Bf5 32. Re1 Bxd3 33. Qxe7 Rxe7 34. Rxe7) 31... Rxe7 32. Bf1 Ne6 $1 {brilliant} 33. a5 Nxg5 34. a6 Re8 (34... Nh3+ $2 35. Bxh3 Bxh3 36. a7 Rg2+ 37. Kh1 $18) 35. a7 (35. Rxd6 $2 Nf3+ 36. Kh1 Rxh2#) 35... Ra8 36. g4 $1 (36. Rxd6 $2 Nf3+ 37. Kh1 Rxh2#) (36. Nc5 $2 dxc5 37. Re3 Bh3 $19) 36... Nf7 37. Bg2 {aiming for Nc5.} Ne5 $1 38. Re3 Bxg4 {[#] The position is equal.} 39. Rxe5 $1 {[#] Promotion} Rxg2+ (39... dxe5 $2 {perishes.} 40. Bxc6 Rc8 (40... Rxa7 $2 41. Rxa7 Kf8 42. Nc5 $18) 41. Nc5 $18 (41. a8=R Rxa8 42. Rxa8+ Kf7 $18)) 40. Kxg2 dxe5 $11 {Endgame. Endgame RB-RN. KRB-KRN} 41. Nc5 {Kg3 would now be deadly.} Kf7 42. Ra5 {Na4 is the strong threat.} (42. Kg3 Bc8 43. Ra5 Ke7 44. Na4 Bb7 45. Nb6 Rg8+ 46. Kh4 e4 47. Re5+ Kd6 48. Rxe4 c5 49. Nc4+ $11) 42... Bc8 $1 43. Na4 {[#] And now Nb6! would win.} Bb7 $1 44. Nc5 ({Of course not} 44. Rxe5 Rxa7 45. Nc3 Bc8 $15) 44... Rg8+ (44... Bc8 $5) 45. Kf3 (45. Kf2 Ba8 46. Ra3 Re8 47. Kf3 Kf6 48. Ke4 Re7 49. Ra5 Rg7 50. h3 Re7 51. Ra1 Kg5 52. h4+ Kf6 53. Rf1+ Kg6 54. Rg1+ $11) 45... Ba8 46. Ra2 Rg7 47. Ke4 Ke7 48. Kxe5 Rg5+ 49. Kd4 Rd5+ 50. Kc4 {Black must now prevent Rb2.} Kd6 51. Na6 Rd1 52. Rb2 {Strongly threatening Rb8.} Ra1 53. Rb6 (53. Rb8 $5 Ra4+ $8 54. Nb4 Rxa7 55. Rd8+ Ke7 56. Rc8 $11) 53... Ra4+ 54. Kd3 Ra3+ 55. Kc4 $11 {(Beauty=5.3).   Weighted Error Value: White=0.06 (flawless) /Black=0.01 (flawless) .  Mistake:       	White=1     	---        Inaccurate:     	White=2     	---        OK:         	White=17    	Black=23     Best:        	White=3     	Black=5      Strong:       	---       	Black=5} 1/2-1/2
-</div>
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=DirrR1SXwz5ua7dXnzpQMKX6LuShlnNlW4BZnTeKjilI0cpR8ZXs/AiZ6JEbjpfq'></iframe>
 
 
 # Switzerland
