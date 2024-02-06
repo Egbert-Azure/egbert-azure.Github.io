@@ -119,26 +119,7 @@ The first one -where I played Black- I finished with a drawn.
 
 And with the second game with White I contributed with a winning point to Team USA success.
 
-<div class="cbreplay">
-[Event "SUI - USA 2023"]
-[Site "ICCF"]
-[Date "2023.04.14"]
-[Round "?"]
-[White "Schroeer, Egbert"]
-[Black "Baumann, Walter (sen)"]
-[Result "1-0"]
-[ECO "A11"]
-[WhiteElo "2114"]
-[BlackElo "2128"]
-[PlyCount "201"]
-[EventDate "2023.??.??"]
-[WhiteTeam "USA"]
-[BlackTeam "Switzerland"]
-[BlackTeamCountry "SUI"]
-
-1. Nf3 d5 2. e3 Nf6 3. c4 c6 4. Nc3 e6 5. b3 Nbd7 6. Bb2 Bd6 7. Be2 O-O 8. Qc2 {8.0-0 is not played anymore.} Qe7 {A11: English Opening: 1...c6.} 9. O-O b6 10. cxd5 exd5 {White is slightly better.} 11. Nd4 $1 Nb8 {[#]} (11... Qe5 12. f4 (12. Nxc6 $2 Qxh2#) 12... Qe8 13. Nxc6 $16) 12. Rac1 $146 ({Predecessor:} 12. Nf5 Bxf5 13. Qxf5 Nbd7 14. Rac1 g6 15. Qh3 b5 16. Nb1 Rac8 17. Bxf6 Nxf6 18. Bxb5 {0-1 Papin,V (2562)-Sjugirov,S (2646) Cappelle op 29th Cappelle la Grande 2013 (6)}) 12... Rd8 {[#]} 13. Ncb5 Bc5 {[#]} (13... cxb5 $2 14. Qxc8 a6 (14... Rxc8 $2 15. Rxc8+ $18) 15. Qh3 $18) 14. b4 $1 Bxd4 15. Nxd4 Qxb4 16. Nxc6 Nxc6 17. Qxc6 Be6 18. Bc3 Qa3 19. Qb5 Ne4 20. Bb2 Qf8 21. Rfd1 Nd6 22. Qb4 Nc4 23. Qxf8+ Kxf8 24. Bc3 Rac8 25. h4 f6 26. a4 h6 27. Ra1 Rc7 28. h5 Rc6 29. f3 Kg8 30. Rdc1 Rdc8 31. Kf2 Bf7 32. g4 Be6 33. Bd3 Nd6 34. Ba6 R8c7 35. Rg1 Bc8 36. Be2 Bd7 37. Rgc1 Bc8 38. Rh1 Rf7 39. Rhc1 Rfc7 40. Rcb1 Rf7 41. Rg1 Rfc7 42. Rgb1 Rf7 43. Bd4 f5 44. gxf5 Bxf5 45. Rg1 Nb7 46. Bb5 {This pair of bishops is nice.} Rcc7 47. Rac1 Nc5 48. Rc3 Be4 49. f4 {0.85/35} (49. Rg3 $142 {1.26/29}) 49... Bf5 $16 50. Ke2 Ne6 51. Be5 Rxc3 52. Bxc3 Nc5 53. Be5 Nd7 {1.20/29} (53... Re7 $142 {0.80/33}) 54. Bc6 $1 Be6 55. d4 {White has more active pieces.} Nf6 {[#]} 56. f5 $1 Bd7 57. Ba8 {And now Bxf6 would win.} Kf8 58. Bxf6 $1 Rxf6 59. Bxd5 {Hoping for e4.} Rxf5 {Endgame. KRB-KRB Endgame RB-RB} 60. e4 Rg5 (60... Rxh5 61. Rf1+ Ke7 62. Rf7+ Kd8 63. Rxg7 $14) 61. Rc1 $1 Bxa4 {1.57/24} (61... Rxh5 $142 {1.13/30} 62. Rc7 Bxa4) 62. Ke3 $1 (62. Rc8+ $6 Ke7 $14) 62... Rxh5 63. Rf1+ Ke7 64. Rf7+ Kd6 $2 {1.52/23} (64... Kd8 $11 {0.00/1}) 65. Rxg7 {Threatens to win with Bb7!} Rh1 $2 {2.33/27 A mistake that costs the game.} (65... a5 $16 {0.77/26}) 66. Bb7 $18 {Strongly threatening e5+. White has strong compensation.} (66. Rxa7 Rh3+ 67. Kf2 Bc6 $11) 66... Re1+ {2.46/27} (66... Rh3+ $142 {1.84/26} 67. Kf4 Rh4+ 68. Kg3 Rh5) 67. Kf2 Rd1 68. e5+ Ke6 {[#]} 69. Ke3 $1 Re1+ {2.94/24} (69... a5 $142 {2.08/24} 70. Rg6+ Kd7) 70. Kf4 Rf1+ 71. Bf3 Bb3 {[#] aiming for ...Bd5.} 72. Ke3 $1 {Bg4+ would now be deadly.} Re1+ 73. Kd2 Rf1 {3.30/24} (73... Ra1 $142 {2.16/23} 74. Rg6+ $2 {0.58/21} ({White should play} 74. Bg4+ $18 {2.52/27} Kd5 75. Rd7+ Ke4 76. e6) 74... Kf5 $1 $14 75. Rxh6 Kg5) 74. Be2 Rf7 75. Rg6+ Ke7 {2.91/23} ({But not} 75... Kd5 $2 {15.41/22 75...Kf5 1.97} 76. Ke3 (76. Rxh6 $2 {-3.93/23 76.Ke3 13.08 perishes.} Kxd4 77. e6 Re7 $19) 76... Rd7 {Prevents Rd6+} 77. Bb5 $18 (77. Rxh6 {5.86/22 77.Bg4 12.73} Ba4 $18)) ({Don't blunder} 75... Kd5 $2 76. Ke3 (76. Rxh6 $2 {loses.} Kxd4 77. e6 Re7 $19) 76... Rd7 77. Bb5 $18) (75... Kf5 $142 {2.07/23} 76. Bd3+ (76. Rxh6 Kg5 $16) 76... Kf4) 76. Rxh6 Rf8 {3.69/19} (76... Kf8 $142 {2.61/21} 77. Bb5 Kg7) 77. Ke3 Bd5 78. Bg4 Rf7 79. Rd6 Bb3 80. d5 Kf8 81. Be6 Re7 82. Kf4 Ba4 83. Kf5 {22.12/19} (83. Rd8+ $142 {49.14/22} Re8 84. Rd6) 83... Ke8 84. Kf6 Rh7 85. Bf5 {White threatens Bg6+ and mate.} Rf7+ 86. Kg5 Rg7+ 87. Rg6 Rxg6+ 88. Kxg6 {KB-KB} Bb3 89. d6 b5 90. Kf6 b4 91. e6 Bxe6 92. Bxe6 {KB-KPP} Kd8 93. Bb3 Kd7 94. Ke5 Kd8 95. Ke6 a6 96. d7 a5 97. Ba4 b3 98. Bxb3 a4 99. Bxa4 Kc7 100. Ke7 Kb6 101. d8=Q+ {Weighted Error Value: White=0.05 (flawless) /Black=0.06 (flawless) .  Mistake:       	White=1     	Black=7      Inaccurate:     	White=1     	Black=3      OK:         	White=35    	Black=27     Best:        	White=8     	Black=7      Strong:       	White=5     	---        Brilliant:      	White=1     	---       (Beauty=4.4)} 1-0
-
-</div>
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=t2/QAWXbF5QxtTXokOhZRXJjQFZhB3zsh+hFornv3vZ/7lQ8Lm+y1ehWpBRsxNE3'></iframe>
 
 Sorry Switzerland, only 1 points lead now. We will get there.
 
