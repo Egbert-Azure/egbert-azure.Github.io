@@ -6,7 +6,7 @@ date: 2023-08-06
 categories: [chess, chesspunks, tournament, uscf, iccf]
 tags: [chess, USCF, ICCF, tournament, Electronic Knights, competitive chess, Chesspunks, strategy, analysis, results]
 ---
-Welcome to my world of competitive chess! In this section, you will find updates and results from various chess tournaments I have participated in. Currently, you can explore my journey in the **Electronic Knights Semi-Finals** tournament, where I compete against skilled opponents in two exciting sections, **21ENs03** and **21ENs04**. I also signed up for the **Electronic Knights 2023 Championship**
+Welcome to my world of competitive chess! In this section, you will find updates and results from various chess tournaments I have participated in. Currently, you can explore my journey in the **Electronic Knights 2021** tournament, where I compete against skilled opponents in two exciting sections, **21ENs03** and **21ENs04** and now reached the finals. I also signed up for the **Electronic Knights 2023 Championship** and the **Electronic Knights 2024 Championship**
 
 In USCF tournaments, you play one game with each opponent for six games, 3 with White and 3 with Black.
 
@@ -15,19 +15,25 @@ In USCF tournaments, you play one game with each opponent for six games, 3 with 
 ## USCF 23EN11 - 2023 Electronic Knights 2023
 
 
-|   | Name              | Rating | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Total |
-|---|-------------------|--------|---|---|---|---|---|---|---|-------|
-| 1 | Siegel, Marc      | 2098   | * |   |   |   |   |   |   | 0.0/0 |
-| 2 | Schroeer, Egbert  | 2008   |   | * |   |   |   |   |   | 0.0/0 |
-| 3 | O'Brien, John     | 1973   |   |   | * |   |   |   |   | 0.0/0 |
-| 4 | Walsh, Patrick A. | 1962   |   |   |   | * |   |   |   | 0.0/0 |
-| 5 | Castle, Tom       | 1399   |   |   |   |   | * |   |   | 0.0/0 |
-| 6 | Moscow, Eric      | xxxx   |   |   |   |   |   | * |   | 0.0/0 |
-| 7 | Miller, Joshua    | xxxx   |   |   |   |   |   |   | * | 0.0/0 |
+|   | Name              | Rating | Total |
+|---|-------------------|--------|-------|
+| 1 | Siegel, Marc      | 2098   | 4.0   |
+| 2 | Schroeer, Egbert  | 2008   | 4.5   |
+| 3 | O'Brien, John     | 1973   | 2.5   |
+| 4 | Walsh, Patrick A. | 1962   | 0.0   |
+| 5 | Castle, Tom       | 1399   | 4.5   |
+| 6 | Moscow, Eric      | xxxx   | 4.5   |
+| 7 | Miller, Joshua    | xxxx   | 1.0   |
 
 
 xxx = unrated
 
+## 2021 Electronic Knights Championship Finals
+
+2021 Electronic Knights Final 
+[21ENf01](https://www.iccf.com/event?id=104617)
+
+Electronic Knights moved to ICCF Server, but played under USCF rules and rankings.
 
 ## 2021 Electronic Knights Championship Semi-Final Section: 21ENs03
 
@@ -121,3 +127,4 @@ Section result so far: 1 win, 3 draws, 1 loss.
 | WZ Individual Championship Preliminaries Group 32  | 9/30/2021  | Finished | [Link](https://www.iccf.com/event?id=95086) |
 | ICCF Veterans World Cup 13 pr 58                  | 9/1/2021   | Finished | [Link](https://www.iccf.com/event?id=94823) |
 | Peru - USA friendly match 2021 Board 38            | 6/4/2021   | Finished | [Link](https://www.iccf.com/event?id=93232) |
+
