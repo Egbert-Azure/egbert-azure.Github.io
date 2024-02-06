@@ -16,14 +16,19 @@ categories: [Chess, USCF, Friendly Matches]
 sight, although some players make use of them as if they 
 conferred sight. José Raul Capablanca
 
-In this blog I like to share at first games from USCF Around the World friendly tournament. Funny enough, I played against Germany, well and not to forget against Switzerland, Hungary, Netherlands, Finland, Cuba and Peru.
+In this blog, I would like to share some of my games from the USCF Around the World friendly tournament. Funny enough, I played against Germany, well, and not to forget against Switzerland, Hungary, Netherlands, Finland, Cuba, and Peru.
 
-Thomas played 7 unbelievable strong moves and I had some sweat on my forehead.
+Thomas played 7 unbelievably strong moves, and I had some sweat on my forehead.
 
-But first things first. What is the USC friendly?
+But before delving into the details, let's clarify the US-friendly matches.
 
-Friendly Matches are team versus team chess contests
-(involving teams affiliated with different nations) where the overall team outcomes do not matter beyond bragging rights. Everyone is eligible to play. The ICCF-US uses both a standing set of interested players and new participants in virtually every match. Each match participant plays two rated games, one with white and one with black, against a single opponent of nearly identical rating. International Master Dennis Doren is the ICCF-US Friendly Match Organizer. No engines are allowed.s Doren is ICCF-US Friendly Match Organizer. No engines are allowed.
+Friendly Matches are captivating team versus-team chess contests involving teams affiliated with different nations. Here, the overall team outcomes matter. And this open tournaments are making everyone eligible to participate. Well, because it's a friendly tournament to have fun and promote correspondence chess. As an individual you contriubute with your result to the whole team result.
+
+The International Correspondence Chess Federation (ICCF) is the organization responsible for running these friendly matches and sponsoring the events. The ICCF, an international body overseeing correspondence chess events, has ICCF-US as its American branch.
+
+International Master Dennis Doren serves as the ICCF-US Friendly Match Organizer. If you're interested in joining, please reach out to him. These matches are a lot of fun and a great learning experience, fostering new virtual connections and promoting chess.
+
+Now, let's dive into my games: Germany vs USA goes first, of course.
 
 # Germany 
 My opponent, who was nominated to play on three boards by the German team (which is a testament for his strength) played the Trompowsky Attack. 1. d4 Nf6 2. Bg5 White prepares to exchange the bishop for Black's knight, inflicting doubled pawns upon Black in the process.
