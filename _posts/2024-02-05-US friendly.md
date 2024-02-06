@@ -120,7 +120,6 @@ The first one -where I played Black- I finished with a drawn.
 And with the second game with White I contributed with a winning point to Team USA success.
 
 <div class="cbreplay">
-
 [Event "SUI - USA 2023"]
 [Site "ICCF"]
 [Date "2023.04.14"]
