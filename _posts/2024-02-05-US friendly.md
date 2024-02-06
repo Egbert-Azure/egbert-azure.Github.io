@@ -21,7 +21,6 @@ In this blog I like to share at first games from USCF Around the World friendly 
 Thomas played 7 unbelievable strong moves and I had some sweat on my forehead.
 
 But first things first. What is the USC friendly?
-But first things first. What is the USC friendly?
 
 Friendly Matches are team versus team chess contests
 (involving teams affiliated with different nations) where the overall team outcomes do not matter beyond bragging rights. Everyone is eligible to play. The ICCF-US uses both a standing set of interested players and new participants in virtually every match. Each match participant plays two rated games, one with white and one with black, against a single opponent of nearly identical rating. International Master Dennis Doren is the ICCF-US Friendly Match Organizer. No engines are allowed.s Doren is ICCF-US Friendly Match Organizer. No engines are allowed.
