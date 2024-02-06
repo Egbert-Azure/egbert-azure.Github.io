@@ -96,26 +96,7 @@ I played on one board (two games) and I had the pleasure to play him before.
 
 The first one -where I played Black- I finished with a drawn.
 
-<div class="cbreplay">
-[Event "SUI - USA 2023"]
-[Site "ICCF"]
-[Date "2023.04.14"]
-[Round "?"]
-[White "Baumann, Walter (sen)"]
-[Black "Schroeer, Egbert"]
-[Result "1/2-1/2"]
-[ECO "E66"]
-[WhiteElo "2128"]
-[BlackElo "2114"]
-[PlyCount "116"]
-[EventDate "2023.??.??"]
-[WhiteTeam "Switzerland"]
-[BlackTeam "USA"]
-[WhiteTeamCountry "SUI"]
-
-1. Nf3 g6 2. g3 Bg7 3. Bg2 Nf6 4. c4 O-O 5. Nc3 d6 6. d4 c5 7. O-O Nc6 8. d5 Na5 9. Nd2 a6 10. Qc2 {[#]} b5 11. cxb5 {E66: King's Indian: Fianchetto: 6...c5 7 0-0 Nc6 8 d5.} axb5 12. Nxb5 Bf5 13. e4 {White has an edge.} Bd7 {[#]} 14. Na3 $146 ({Predecessor:} 14. Nc3 Ne8 15. b3 Nc7 16. Bb2 Na6 17. Nd1 Qc7 18. Bxg7 Kxg7 19. Nb2 Rfb8 20. Rfe1 {1-0 Sethuraman,S (2037)-Luo,T (2124) USA National op 51st ICC INT 2020 (6)}) 14... Qb8 15. Re1 Re8 {The position is equal.} 16. Qd1 e6 17. h3 h5 18. Nf1 Qc8 19. Kh2 Rb8 20. Ne3 exd5 21. exd5 Ne4 22. f3 Nf6 (22... Bxb2 $2 23. Bxb2 Rxb2 24. fxe4 $18) 23. Bd2 h4 24. g4 {[#]} Rxe3 $1 25. Bxe3 {Black must now prevent Rb1.} (25. Rxe3 Nxd5 26. Re1 Nc6 $14) 25... Rxb2 26. Bc1 Rb4 27. Nc2 {Against Rd4} Ba4 28. Qd2 {[#] Pin} Nc4 29. Qe2 Bxc2 30. a3 {[#]} Bd3 $1 {Deflection} 31. Qxd3 Ne5 $1 {A dynamic duo of knights.} 32. Qc2 ({Of course not} 32. Rxe5 Rd4 33. Qf1 dxe5 $17) 32... Rc4 33. Qb3 {Rxe5! would now be deadly.} Rd4 $1 (33... Nxd5 $2 {too greedy.} 34. Bb2 $18) 34. Rb1 Nd3 35. Rd1 Nxc1 36. Rbxc1 {aiming for Rxd4.} Rxd1 37. Qxd1 Bh6 38. Rc4 {Dodges Bf4+. f4 is the strong threat.} Be3 39. f4 Qe8 40. Qf3 {Hoping for g5.} Bd4 41. Rc1 {Inhibits Qe1.} Qb5 {Prevents Rb1} 42. Rd1 Qa4 43. Kh1 {[#]} Be3 {[#] Deflection} 44. Rf1 Qd4 45. Qd1 Bd2 {And now ...Ne4! would win.} 46. Qa1 Bc3 $1 47. Qb1 c4 48. a4 Kh7 49. Qc2 Bd2 {Wards off Rc1} 50. a5 Bxa5 {Strongly threatening ...Bd2!} 51. Qf2 Qd2 (51... Qxf2 {simplifies} 52. Rxf2 Be1 53. Rb2 Bg3) 52. Kg1 Kg7 53. f5 g5 54. Qxd2 Bxd2 {Endgame RB-BN} 55. Kf2 {Inhibits Be3+.} Nd7 (55... c3 $5 56. Ke2 $8 Nd7 $16) 56. Ke2 c3 57. Bh1 Nc5 {Threatens to win with ...Kf6.} 58. f6+ Kg6 {An even fight not without its subleties. An exciting game.   Weighted Error Value: White=0.01 (flawless) /Black=0.00 (flawless) .  OK:         	White=27    	Black=33     Best:        	---       	Black=1      Strong:       	---       	Black=5     (Beauty=14.7)} 1/2-1/2
-
-</div>
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=DirrR1SXwz5ua7dXnzpQMCpPbCa5IckwthOofWABNedkzwmzm/iJgRL0LoCp7IVW'></iframe>
 
 And with the second game with White I contributed with a winning point to Team USA success.
 
