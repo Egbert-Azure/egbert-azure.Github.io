@@ -16,14 +16,15 @@ categories: [Chess, USCF, Friendly Matches]
 sight, although some players make use of them as if they 
 conferred sight. José Raul Capablanca
 
+In this blog I like to share at first games from USCF Around the World friendly tournament. Funny enough, I played against Germany, well and not to forget against Switzerland, Hungary, Netherlands, Finland, Cuba and Peru.
+
+Thomas played 7 unbelievable strong moves and I had some sweat on my forehead.
+
+But first things first. What is the USC friendly?
 But first things first. What is the USC friendly?
 
 Friendly Matches are team versus team chess contests
-(involving teams affiliated with different nations) where the overall team outcomes do not 
-matter beyond bragging rights. Everyone is eligible to play. The ICCF-US uses both a standing
-set of interested players and new participants in virtually every match. Each match participant 
-plays two rated games, one with white and one with black, against a single opponent of nearly 
-identical rating. International Master Dennis Doren is the ICCF-US Friendly Match Organizer. No engines are allowed.
+(involving teams affiliated with different nations) where the overall team outcomes do not matter beyond bragging rights. Everyone is eligible to play. The ICCF-US uses both a standing set of interested players and new participants in virtually every match. Each match participant plays two rated games, one with white and one with black, against a single opponent of nearly identical rating. International Master Dennis Doren is the ICCF-US Friendly Match Organizer. No engines are allowed.s Doren is ICCF-US Friendly Match Organizer. No engines are allowed.
 
 # Germany 
 My opponent, who was nominated to play on three boards by the German team (which is a testament for his strength) played the Trompowsky Attack. 1. d4 Nf6 2. Bg5 White prepares to exchange the bishop for Black's knight, inflicting doubled pawns upon Black in the process.
