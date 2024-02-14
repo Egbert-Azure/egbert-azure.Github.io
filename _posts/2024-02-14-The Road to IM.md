@@ -58,13 +58,13 @@ Two games were pivotal in achieving my first norm in the Champions League team t
 The first critical game was against IM René Rodríguez Pérez. I secured a draw despite being positionally worse.
 
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=JbJTTNMxNcweG9PrY3WqHbZir/D1PizSxLgyNrq+LOW203/D/mGft70UtKctNtE8'></iframe>
+<iframe style='border: 0;' width='760px' height='480px' src='https://share.chessbase.com/SharedGames/frame/?p=JbJTTNMxNcweG9PrY3WqHbZir/D1PizSxLgyNrq+LOW203/D/mGft70UtKctNtE8'></iframe>
 
 
 
 The second game, I missed a win against due to three inaccuracies, which cost me the win I expected. But a draw sufficed for the norm. My performance helped the team, though we did not advance in rankings.
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=sGgcV78qsf8SpszYMbL1EAfH5gkK4m834T77S0OHKtU4d6/OBPYqmhymIR+EF+Bi'></iframe>
+<iframe style='border: 0;' width='760px' height='480px' src='https://share.chessbase.com/SharedGames/frame/?p=sGgcV78qsf8SpszYMbL1EAfH5gkK4m834T77S0OHKtU4d6/OBPYqmhymIR+EF+Bi'></iframe>
 
 ### If you are interested in the full tournament, you can find the replays [here](http://cloudserver.chessbase.com/Mzg0NDk5MDg=/replay.html)
 
@@ -74,7 +74,7 @@ The second game, I missed a win against due to three inaccuracies, which cost me
 My second norm came in the WS/CCE/A/30 event organized by the ICCF. This 15 player international tournament required a 2125-2199 rating plus other qualifications. A key win with the black pieces in this tournament helped secure my second norm and the CCE title.
 
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=bt1jUiPMc09l3Lea+wzC+PuC0rGwSz2Dlek5u1f19kDpL6xqQq86He6zAL5eMnxe'></iframe>
+<iframe style='border: 0;' width='760px' height='480px' src='https://share.chessbase.com/SharedGames/frame/?p=bt1jUiPMc09l3Lea+wzC+PuC0rGwSz2Dlek5u1f19kDpL6xqQq86He6zAL5eMnxe'></iframe>
 
 ### If you are interested in the full tournament, you can find the replays [here](http://cloudserver.chessbase.com/Mzg0NTEwMTE=/replay.html)
 
