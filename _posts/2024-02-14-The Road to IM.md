@@ -47,7 +47,7 @@ ICCF rules have changed over time - for example, Master Norm and GM Norm events 
 
 I needed two norms to gain the CCE title. My first norm came from the 2021 ICCF Champions League event. The second was in a dedicated CCE Norm tournament.
 
-## Champions League 2021
+### Champions League 2021
 
 Two games were critical to my success in the Champions League tournament 2021. I played first time the in the league, which is a team tournament. Four players I never met befor and without unknown strength and skill built the the team 'The Underrateds'. I played board 2, lost 2 games of 12 and secured 10 draws.
 
@@ -69,7 +69,7 @@ The second game, I missed a win against due to three inaccuracies, which cost me
 ### If you are interested in the full tournament, you can find the replays [here](http://cloudserver.chessbase.com/Mzg0NDk5MDg=/replay.html)
 
 
-# CCE Norm Tournament
+### CCE Norm Tournament
 
 My second norm came in the WS/CCE/A/30 event organized by the ICCF. This 15 player international tournament required a 2125-2199 rating plus other qualifications. A key win with the black pieces in this tournament helped secure my second norm and the CCE title.
 
