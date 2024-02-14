@@ -55,7 +55,7 @@ The first game is The Underrateds - The 4 Knights - (Schroeer, Egbert vs. Rodrí
 
 Two games were pivotal in achieving my first norm in the Champions League team tournament. As "The Underrateds" board two, I scored 10 draws and 2 losses out of 12 games.
 
-The first critical game was against CCE René Rodríguez Pérez. I secured a draw despite being positionally worse.
+The first critical game was against CCE René Rodríguez Pérez. I secured a draw despite having the chance for a win probably.
 
 
 <iframe style='border: 0;' width='760px' height='480px' src='https://share.chessbase.com/SharedGames/frame/?p=JbJTTNMxNcweG9PrY3WqHbZir/D1PizSxLgyNrq+LOW203/D/mGft70UtKctNtE8'></iframe>
