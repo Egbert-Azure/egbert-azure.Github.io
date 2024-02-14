@@ -49,7 +49,7 @@ I needed two norms to gain the CCE title. My first norm came from the 2021 ICCF 
 
 ### Champions League 2021
 
-Two games were critical to my success in the Champions League tournament 2021. I played first time the in the league, which is a team tournament. Four players I never met befor and without unknown strength and skill built the the team 'The Underrateds'. I played board 2, lost 2 games of 12 and secured 10 draws.
+Two games were critical to my success in the Champions League tournament 2021. I played first time in the league, which is a team tournament. Four players I never met befor and without unknown strength and skill built the the team 'The Underrateds'. I played board 2, lost 2 games of 12 and secured 10 draws.
 
 The first game is The Underrateds - The 4 Knights - (Schroeer, Egbert vs. Rodríguez Pérez, René)
 
