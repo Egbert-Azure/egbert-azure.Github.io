@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Back to the roots - The Modern Defence"
+title: "Back to the roots - The 150 Attack vs. Modern Defence"
 date: 2024-02-19
 categories: [Chess, Openings]
 tags: [chess, openings, modern defense]  
-excerpt: "Revisiting the Modern Defense, an old favorite opening from my early chess days."
+excerpt: "Revisiting the 150 Attack, an old favorite opening from my early chess days."
 ---
 
 <div style="text-align: center;">
