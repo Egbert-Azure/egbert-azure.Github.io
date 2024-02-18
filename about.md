@@ -19,7 +19,7 @@ Chess as a senior is not only engaging and enjoyable but also helps improve cogn
 
 ### About Me
 
-I'm a retired Microsoft Executive alumnus and former Manufacturing Executive, now enjoying my time as an amateur genealogist and chess enthusiast. After a 25-year break, I reignited my passion for chess as an adult improver in 2020, entering the competitive tournament world of correspondence chess in 2021 and proudly achieving my first norm for CCE title at ICCF and a USCF-rated chess player.
+I'm a retired Microsoft Executive alumnus and former Manufacturing Executive, now enjoying my time as an amateur genealogist and chess enthusiast. After a 25-year break, I reignited my passion for chess as an adult improver in 2020, entering the competitive tournament world of correspondence chess in 2021 and proudly achieving the [CCE title](https://chess.myvortexcloud.com/The-Road-to-IM/) at ICCF and a USCF-rated chess player ([actually nr. 87 in USA](https://www.uschess.org/component/option,com_top_players/Itemid,371?op=list&month=2402&f=usa&l=C:Top%20Correspondence%20Ratings.&h=Correspondence%20Players)).
 
 In my journey, I've found joy in exploring my roots through genealogy and challenging myself on the chessboard. Whether unraveling family stories or making strategic moves, I thrive on pursuing growth and discovery.
 
