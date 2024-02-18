@@ -44,6 +44,14 @@ Overall, an accurate opening play as white requires understanding key strategic 
 I played as White the same opening to reach the position Vera Vujovic played in round 7. 
 In case I made you curious about this game, you can find the complete game analysis [here](https://share.chessbase.com/SharedGames/game/?p=Q8voG7JSoXD5TGDKKXPrRpoljFQl/zow/TTp8IVnAXu/BjFxFfiaFjqE7BLfotHX), (annotated by Glorias Sergio and Schroeer Egbert).
 
+## Heart attack with 150 Attack? 
+
+Legend has it that the 150 Attack earned its name from the sheer power it bestows upon players, allowing even those with an ECF rating of around 150 to wield it effectively. But fear not, for you're in illustrious company alongside super GMs and world champions who have mastered this formidable opening.
+
+Renowned chess author Richard Palliser once remarked that the 150 Attack is so effortlessly playable that even a club player of modest rating could secure a strong position against a grandmaster. This line of play emerged in the 1980s, pioneered by a new wave of English players like John Nunn, Nigel Short, and Mickey Adams.
+
+The moniker "150 Attack" is said to have originated in Argentina, resonating with players seeking a dependable opening system that's easy to grasp and execute without drowning in the sea of opening theory.
+
 ## Personal Reflections and Recommendations
 
 As I revisited this opening for the first time since my return from the 25-year hiatus, I was reminded of its complexities and challenges. Despite previous setbacks, I find myself intrigued by the strategic depth offered by the weapon against the Pirc and Modern Defense.
@@ -68,7 +76,7 @@ Van der Hoeven held back with Qd2 and castled first, then pushed a4, which is qu
 
 ## Further Reading
 
-Coincidentally, when I wrote this blog, Chessbase posted a blog on their [website](https://en.chessbase.com/post/the-modern-defense-and-its-ideas). It's a great read, and I highly recommend it even when I don't agree with their assessment, but hey, the GMs are always right!
+Coincidentally, when I wrote this blog, Chessbase posted a blog on their [website](https://en.chessbase.com/post/the-modern-defense-and-its-ideas). It's a great read, and I highly recommend it even when I disagree with their assessment, but hey, the GMs are always right!
 
 ## Conclusion
 
