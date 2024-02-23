@@ -96,7 +96,7 @@ I encourage fellow chess enthusiasts to join me in raising awareness about this 
 
 **Support Revive Soldiers of Ukraine**
 
-If you found this post insightful and would like to support the Revived Soldiers of Ukraine organization, please consider donating through my **Buy Me a Coffee** widget on this page and all blogs with content related to the topic or when I annotate and review games versus Ukrainian chess players. Your contribution will help provide assistance to those affected by the conflict in Ukraine.
+If you found this post insightful and would like to support the **Revived Soldiers of Ukraine** organization, please consider donating through my **Buy Me a Coffee** widget on this page and all blogs with content related to the topic or when I annotate and review games versus Ukrainian chess players. Your contribution will help provide assistance to those affected by the conflict in Ukraine.
 
 Thank you for your generosity and support.
 
