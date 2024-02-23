@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chess Tournaments
+title: Tournaments
 permalink: "/tournaments/"
 date: 2023-08-06
 categories: [chess, chesspunks, tournament, uscf, iccf]
