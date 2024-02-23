@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weekly Puzzles and Game of the Week
+title: Puzzles and Games
 permalink: "/Puzzle/"
 tags: [weekly-puzzles, chess, game-of-the-week]
 categories: [puzzles, chess]
