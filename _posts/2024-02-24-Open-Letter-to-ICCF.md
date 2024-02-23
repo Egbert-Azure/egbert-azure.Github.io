@@ -31,9 +31,9 @@ https://www.facebook.com/photo/?fbid=10218443301228439&set=ecnf.100000354421769)
 
 > All we Ukraininans want is to be left in peace
 
-What a powerful statement! Zhukova runs a charity for Ulrainian chess players that are effected by the war. It's a touching and  powerfull interview, done in 2022 but aged well!
+What a powerful statement! Zhukova runs a charity for Ukrainian chess players that are effected by the war. It's a touching and  powerfull interview, done in 2022 but but is a timeless interview valid now and in hundred years to come!
 
-Another great supporting book which I bought is
+Another great read and learning is the supporting book which I bought a year ago:
 
 **From Ukraine with Love for Chess**
 
