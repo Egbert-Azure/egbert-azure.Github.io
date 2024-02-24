@@ -29,7 +29,7 @@ There is also a great supporting/awerness articel in "New in Chess"
 about [Natalia Zhukova](
 https://www.facebook.com/photo/?fbid=10218443301228439&set=ecnf.100000354421769) Cover posted on her Facebook page.
 
-> All we Ukraininans want is to be left in peace
+> All we Ukrainians want is to be left in peace
 
 What a powerful statement! Zhukova runs a charity for Ukrainian chess players that are effected by the war. It's a touching and  powerfull interview, done in 2022 but but is a timeless interview valid now and in hundred years to come!
 
