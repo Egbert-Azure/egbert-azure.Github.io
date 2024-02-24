@@ -96,11 +96,16 @@ I encourage fellow chess enthusiasts to join me in raising awareness about this 
 
 **Support Revive Soldiers of Ukraine**
 
-If you found this post insightful and would like to support the **Revived Soldiers of Ukraine** organization, please consider donating through my **Buy Me a Coffee** widget on this page and all blogs with content related to the topic or when I annotate and review games versus Ukrainian chess players. Your contribution will help provide assistance to those affected by the conflict in Ukraine.
+If you found this post insightful and would like to support the **Revived Soldiers of Ukraine** organization, please consider donating through my **Buy Me a Coffee** widget on this page (or directly) and all blogs with content related to the topic or when I annotate and review games versus Ukrainian chess players. Your contribution will help provide assistance to those affected by the conflict in Ukraine.
 
 Thank you for your generosity and support.
 
 Amici Sumus
+
+<div style="text-align: center;">
+<img src="../assets/images/support.png" alt="image" width="10%">
+</div>
+
 
 >Supporting Information and Links
 
@@ -110,5 +115,11 @@ Amici Sumus
 - My blog post to create awareness [Amici Sumus: Finding Unity and Strength in Chess - My Journey at the Peace Open Tournament](https://chess.myvortexcloud.com/Peace-Open-Amici-sumus/)
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="chesslife" data-description="Support me on Buy me a coffee!" data-message="Thank you for reading! You can buy me a coffee, which will be donated to Revived Soldiers of Ukraine! Thank you!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+- You like puzzles or wooden tech models?
 
+    ‘U’ in [UGEARS](https://ugears.us) stands for 'Ukrainian
+    
+    [Unidragon]( https://unidragon.com) puzzles are proudly made in Ukraine. The company is based in Kyiv
+
+And there is more... you will find your way how to support!
 
