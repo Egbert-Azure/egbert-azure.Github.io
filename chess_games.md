@@ -7,7 +7,6 @@ categories: [puzzles, chess]
 comments: false
 ---
 
-
 <div style="text-align: left;">
 <img src="../assets/images/art/weekly.jpeg" alt="image" width="25%">
 </div>
@@ -25,12 +24,11 @@ comments: false
    **{{ year }}**
   
   {% assign puzzles_for_year = site.puzzles | where: 'date', year %}
-  {% assign sorted_puzzles_for_year = puzzles_for_year | sort: 'title' %}
+  {% assign sorted_puzzles_for_year = puzzles_for_year | sort: 'date' %}
   
   {% for puzzle in sorted_puzzles_for_year %}
   - **{{ puzzle.title }}** -  {{ puzzle.description }} - [Link]({{ puzzle.url | relative_url }})
   {% endfor %}
 {% endfor %}
 
-{% assign sorted_tournaments = site.tournaments | sort: 'title' | sort: 'section' %}
 
