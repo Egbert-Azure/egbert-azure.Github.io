@@ -20,15 +20,15 @@ comments: false
   {% endunless %}
 {% endfor %}
 
-{% for year in puzzle_years %}
+{% assign sorted_years = puzzle_years | sort: 'year' | reverse %}
+
+{% for year in sorted_years %}
    **{{ year }}**
   
   {% assign puzzles_for_year = site.puzzles | where: 'date', year %}
-  {% assign sorted_puzzles_for_year = puzzles_for_year | sort: 'date' %}
+  {% assign sorted_puzzles_for_year = puzzles_for_year | sort: 'date' | reverse %}
   
   {% for puzzle in sorted_puzzles_for_year %}
   - **{{ puzzle.title }}** -  {{ puzzle.description }} - [Link]({{ puzzle.url | relative_url }})
   {% endfor %}
 {% endfor %}
-
-
