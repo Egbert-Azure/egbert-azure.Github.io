@@ -58,10 +58,14 @@ You can save the results in a new database in the next step. The standard engine
 
 You can "harvest" results and then train tactics with the woodpecker method.
 
-Conclusion
+## Conclusion
 
 Remember, the best opening is one you understand well. By embracing these principles—choosing openings that suit your style, studying the underlying ideas, practicing diligently, and utilizing resources effectively—you'll embark on a rewarding journey of improvement. While opening is not everything, but it starts there. You don't want to lose in the opening, you need to develop a position you know, you are comfortable with and able to start your middle game and attack.
 
 Happy studying!
 
 Amici Sumus
+
+> **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+
+> **Note:** [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
