@@ -29,7 +29,7 @@ The solution proved me wrong!
 
 <div style="text-align: center;">
 <img src="../assets/images/Screenshot 2024-03-11 142716.png"
-alt="image" width="45%">
+alt="image" width="70%">
 </div>
 
 
@@ -48,7 +48,7 @@ Once the video has finished processing, click "Copy PGN" to save the game to you
 
 <div style="text-align: center;">
 <img src="../assets/images/Screenshot 2024-03-11 142941.png"
-alt="image" width="60%">
+alt="image" width="70%">
 </div>
 
 
