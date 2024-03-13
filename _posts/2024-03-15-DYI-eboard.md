@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unlocking the Power of DIY eBoards for Chess Enthusiasts. A glimpse to the future?"
+title: "Unlocking the Power of DIY eBoards for Chess Enthusiasts. A glimpse into the future?"
 date: 2024-03-12
 categories: [Chess, Tools, Technology]
 tags: [chess, theory, openings, DIY eBoards, ChessCam]
