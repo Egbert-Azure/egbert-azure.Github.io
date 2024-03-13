@@ -69,7 +69,7 @@ I recommend to check out the existing videos. Actually I had some problems, but 
 
 [<img src="https://img.youtube.com/vi/SZd0a3-_Zqw/hqdefault.jpg" width="400" height="300" />](https://www.youtube.com/watch?v=SZd0a3-_Zqw)
 
-
+The code is open-sourced at https://github.com/Pbatch/CameraChessWeb.
 
 Enjoy!
 
