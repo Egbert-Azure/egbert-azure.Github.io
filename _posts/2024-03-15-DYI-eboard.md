@@ -52,16 +52,16 @@ I recommend to check out the existing videos. Actually I had some problems, but 
 
 1. Demo of the "/play" feature of ChessCam
 
-[<img src="https://img.youtube.com/vi/D1lLVUhcbHw/hqdefault.jpg" width="400" height="300" />](https://www.youtube.com/embed/D1lLVUhcbHw/)
+[<img src="https://img.youtube.com/vi/D1lLVUhcbHw/hqdefault.jpg" width="400" height="300" />](https://www.youtube.com/watch?v=D1lLVUhcbHw&t)
 
 
 2. Demo how to broadcast
 
-[<img src="https://img.youtube.com/vi/CxsvguK-awk/hqdefault.jpg" width="400" height="300" />](https://www.youtube.com/embed/CxsvguK-awk/)
+[<img src="https://img.youtube.com/vi/CxsvguK-awk/hqdefault.jpg" width="400" height="300" />](https://www.youtube.com/watch?v=CxsvguK-awk&t)
 
 3. Demo how to solve a puzzle having on your real board
 
-[<img src="https://img.youtube.com/vi/SZd0a3-_Zqw/hqdefault.jpg" width="400" height="300" />](https://www.youtube.com/embed/)
+[<img src="https://img.youtube.com/vi/SZd0a3-_Zqw/hqdefault.jpg" width="400" height="300" />](https://www.youtube.com/watch?v=SZd0a3-_Zqw)
 
 
 
