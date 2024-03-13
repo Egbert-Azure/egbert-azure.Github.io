@@ -52,7 +52,7 @@ I recommend to check out the existing videos. Actually I had some problems, but 
 
 1. Demo of the "/play" feature of ChessCam
 
-[<img src="https://img.youtube.com/vi/D1lLVUhcbHw/hqdefault.jpg" width="400" height="300" />](https://www.youtube.com/embed/)
+[<img src="https://img.youtube.com/vi/D1lLVUhcbHw/hqdefault.jpg" width="400" height="300" />](https://www.youtube.com/embed/D1lLVUhcbHw)
 
 
 2. Demo how to broadcast
