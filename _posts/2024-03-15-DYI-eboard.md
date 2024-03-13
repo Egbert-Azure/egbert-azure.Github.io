@@ -27,6 +27,12 @@ Ok, hear me out! This blog is for you!
 The FIDE Master, whose name on Liches is [BlindfoldBlunderer](https://lichess.org/@/BlindfoldBlunderer), had a revolutionary idea! DIY board with your webcam or even smartphone! What? Really? My first thought was "well, nice. Maybe works in some cases but never ever with different boards or size.
 The solution proved me wrong!
 
+<div style="text-align: center;">
+<img src="../assets/images/Screenshot 2024-03-11 142716.png"
+alt="image" width="45%">
+</div>
+
+
 ## ChessCam
 BlindfoldBlunderer is a FIDE master, computer vision engineer, and author of ChessCam. His idea was pretty straightforward: use computer vision AI to identify your board and chessmen, digitize your chess games and stream them, or play with your board a game on Lichess.
 
