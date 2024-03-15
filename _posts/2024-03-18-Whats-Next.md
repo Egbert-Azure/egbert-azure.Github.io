@@ -23,6 +23,8 @@ For me, the question is actually, "How do you continue, and what do you want to 
 
 With ELO of 2157 now, let's say I want to reach 2200 by early spring next year (woot woot, that's bold). I need to revisit my repertoire and improve my endgame to work towards the goal. Which I actually do! I'm a long-time ChessBase heavy user and do most of the preparation and learning, such as repertoire training with ChessBase. 
 
+## Chessbase?
+
 However, I have 6 support tickets open and I'm getting increasingly frustrated and questioning the future of ChessBase. Why? ChessBase's so-called cloud, for example, is not a cloud. It's just a file share or, at best, a function like OneDrive. If you move your repertoire to ChessBase "Cloud," don't expect local changes to be synced. They don't sync. MegaDatabase, the core of the truth, needs more innovation. A local player database is mandatory and there is no reason why.
 
 
@@ -31,6 +33,8 @@ Then the online tools, compared to offline tools, could be more consistent and e
 Next, the engines. Chess engines have helped us analyze perfect all stages of a game. I wanted a remote server connected to ChessBase Software for analyzing chess games, tactical analysis, etc. You might think, why not just run Stockfish or other engines on your laptop. Well, that is true, but the heavy CPU usage of such an engine on a laptop -let's assume 8 cores- drains the battery fast if it is not connected to power. Also, a remote chess engine running on a cluster performs and can scale much better. In short, Chessbase is not able to deliver this. I wrote some blogs about it, and if you would like to do a deep dive, check out my [GitHub repo](https://github.com/Egbert-Azure/stockfish-cluster). Chessbase argues they have a cloud option to share an engine or book one. This is true, but it's not cloud computing. You can share your computing power, and then your computer is blocked. I even reached out directly to the man himself 2 years ago, Matthias Wüllenweber, sharing the concept and draft architecture. Since then, I have never heard back.
 That said, Chessify is now making a business out of it and is adding functions similar to Chessbase.
 
+## Decisions
+
 Long story short, I canceled my Chessbase premium subscription and will no longer buy Megadatabase. Instead, I will update with games from [The Week in Chess](https://theweekinchess.com/) and support the great work of *Mark Crowther*, who runs The Week in Chess sinc 1994. 
 
 I will also continue with Ultracorr from Dr. Tim Harding. [Ultracorr](https://www.chessmail.com/index.html) costs a fraction of Chessbase's own correspondence database, and the quality is fantastic because it is from a real expert.
@@ -38,7 +42,10 @@ I will also continue with Ultracorr from Dr. Tim Harding. [Ultracorr](https://ww
 Now, let's come to the core of my thought process. Regardless of all the great functions in Chessbase, I miss one essential feature: *here is my game; please tell me immediately where I failed in the opening and tactics humanly, like a chess coach.*
 
 And some clever people have thought about this already.
-## [Noctie.Ai](https://www.linkedin.com/company/noctie-ai/about/)
+
+## New Kids on the block
+
+### [Noctie.Ai](https://www.linkedin.com/company/noctie-ai/about/)
 
 **Noctie.ai** is a remarkable personal AI chess coach with a human touch. Its mission is to teach chess in a joyful and effective manner, much like you would experience with a respected human coach. 
 
@@ -94,7 +101,7 @@ $15.50 per month is definitely at the very upper level. If the company wants to 
 
 Another exciting but still in-the-making tool is Chesscloud; its founder is Jeffrey Thor.
 
-## [ChessCloud](https://www.chesscloud.com/)
+### [ChessCloud](https://www.chesscloud.com/)
 
 **ChessCloud** is a platform created by **Jeffrey Thor** for chess enthusiasts. It offers tools and resources to enhance your chess experience. The primary focus of ChessCloud is for opening repertoire management. With a central place to store your opening lines, you can tailor post-game analysis to your own repertoire. The plan is also to run ChessCloud, which is also a game server. You can explore ChessCloud at [chesscloud.com](https://www.chesscloud.com/). Additionally, Jeffrey Thor runs a [YouTube channel](https://www.youtube.com/watch?v=ZCdgGx1L7aY)
 
@@ -103,7 +110,7 @@ Another exciting but still in-the-making tool is Chesscloud; its founder is Jeff
 I didn't check it out because you can only log in with your Google or other social accounts, not email. However, it is quite an interesting approach and might be another option in the near future.
 
 
-## Chessify
+### Chessify
 
 If you consider Chessify just a remote engine cluster, you might consider a different approach. But if you see now what the company has built around, it is worth checking it out.
 
