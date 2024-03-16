@@ -105,7 +105,9 @@ Another exciting but still in-the-making tool is Chesscloud; its founder is Jeff
 
 **ChessCloud** is a platform created by **Jeffrey Thor** for chess enthusiasts. It offers tools and resources to enhance your chess experience. The primary focus of ChessCloud is for opening repertoire management. With a central place to store your opening lines, you can tailor post-game analysis to your own repertoire. The plan is also to run ChessCloud, which is also a game server. You can explore ChessCloud at [chesscloud.com](https://www.chesscloud.com/). Additionally, Jeffrey Thor runs a [YouTube channel](https://www.youtube.com/watch?v=ZCdgGx1L7aY)
 
-[<img src="https://img.youtube.com/vi/ZCdgGx1L7aY/hqdefault.jpg" width="400" height="300" />](https://www.youtube.com/watch?v=ZCdgGx1L7aY)
+
+<p><iframe src="https://www.youtube.com/embed/ZCdgGx1L7aY" frameborder="0" allowfullscreen></iframe></p>
+
 
 I didn't check it out because you can only log in with your Google or other social accounts, not email. However, it is quite an interesting approach and might be another option in the near future.
 
@@ -116,7 +118,7 @@ If you consider Chessify just a remote engine cluster, you might consider a diff
 
 There is a good overview on YouTube, where IM Kostya Kavutskiy reviews the new web analysis tool from Chessify. This tool allows users to annotate games, build an opening repertoire, prepare for opponents, and more.
 
-[<img src="https://img.youtube.com/vi/ivYG1Fb3OQIY/hqdefault.jpg" width="200" height="100" />](https://www.youtube.com/watch?v=ivYG1Fb3OQI)
+<p><iframe src="https://www.youtube.com/embed/ivYG1Fb3OQI" frameborder="0" allowfullscreen></iframe></p>
 
 Remember, this video is an affiliated review, but it's pretty accurate.
 
@@ -139,11 +141,11 @@ Chessify offers flexible pricing options with its cloud packages, allowing users
 For me the combination with ChessBase 17 and Chessify makes a difference in preparing and analysing.
 And some additional functions are beyond what ChessBase is able to deliver. First example is video finder feature on Chessify is a powerful tool that makes it easier to locate specific positions within YouTube videos.
 
-[<img src="https://img.youtube.com/vi/gu9T-VGmpbI/hqdefault.jpg" width="400" height="300" />](https://www.youtube.com/shorts/gu9T-VGmpbI)
+<p><iframe src="https://www.youtube.com/embed/gu9T-VGmpbI" frameborder="0" allowfullscreen></iframe></p>
 
 Another killer feature is the scanner, a powerful tool designed to convert printed chess diagrams from books, magazines, or other sources into a pgn format. You take a photo of a printed chess position using your smartphone or tablet. The Chessify app processes the image and recognizes the chessboard, pieces, and their positions. You can share or store the position.
 
-[<img src="https://img.youtube.com/vi/BRrlxWyhbO4/hqdefault.jpg" width="400" height="300" />](https://www.youtube.com/shorts/BRrlxWyhbO4)
+<p><iframe src="https://www.youtube.com/embed/BRrlxWyhbO4" frameborder="0" allowfullscreen></iframe></p>
 
 [I think it's worth to give Chessify a try](https://chessify.me/auth/signin?ref=JimMorrison42*6923)
 
@@ -160,7 +162,7 @@ The best chess improvement resources cost money, but there are plenty of free re
 
 In my next blog, I will update you on the games and how I do in the tournaments. 
 
-Amici Sumus
+**Amici Sumus**
 
 
 > **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
