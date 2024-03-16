@@ -35,7 +35,7 @@ That said, Chessify is now making a business out of it and is adding functions s
 
 ## Decisions
 
-Long story short, I canceled my Chessbase premium subscription and will no longer buy Megadatabase. Instead, I will update with games from [The Week in Chess](https://theweekinchess.com/) and support the great work of *Mark Crowther*, who runs The Week in Chess sinc 1994. 
+Long story short, I canceled my Chessbase premium subscription and will no longer buy Megadatabase. Instead, I will update with games from [The Week in Chess](https://theweekinchess.com/) and support the great work of *Mark Crowther*, who runs The Week in Chess since 1994. 
 
 I will also continue with Ultracorr from Dr. Tim Harding. [Ultracorr](https://www.chessmail.com/index.html) costs a fraction of Chessbase's own correspondence database, and the quality is fantastic because it is from a real expert.
 
