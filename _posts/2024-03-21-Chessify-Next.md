@@ -11,6 +11,10 @@ image:  '/images/shri-CG-JvqWqutM-unsplash.jpg'
 Photo by <a href="https://unsplash.com/@thefatdash?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">shri</a> on <a href="https://unsplash.com/photos/chess-pieces-on-chess-board-CG-JvqWqutM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>  
 
+# Website Update
+
+I made a significant change to my blog page which includes some new features including topic tags, featured blog posts with a beautiful and modern design which is also great on mobile devices. If there is still any hickup, bare with me, or even better: drop me a note.
+
 ## Introduction
 
 Seeking constant improvement is intrinsic to the pursuit of chess mastery. In my previous blog post, "What's Next," I evaluated Chessify and other tools as potential aids in this journey, aiming to augment or replace certain functions of ChessBase with more efficient alternatives.
