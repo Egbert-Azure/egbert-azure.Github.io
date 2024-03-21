@@ -1,16 +1,11 @@
 ---
 layout: post
-comments: true
 title: Another Chess Year to Come - Welcome 2024
-categories: [chess, improvement, learning]
-tags: [chess improvement, opening repertoire, growth, progress, chess strategies]
-excerpt: Reflecting on the challenges of the new year, the impact of war on Ukrainian chess players, and celebrating the resilience of the chess community.
-date: 2024-1-15
+tags: [chess improvement, opening-repertoire, chess-strategies]
+description: Reflecting on the challenges of the new year, the impact of war on Ukrainian chess players, and celebrating the resilience of the chess community.
+date: 2024-01-15
+image:  '/images/park6.jpg'
 ---
-
-<div style="text-align: center;">
-<img src="../assets/images/park6.jpg" alt="image" width="70%">
-</div>
 
 *Central Kyiv park gathers chess players all year long (2017)*
 
@@ -24,32 +19,7 @@ Igor Kovalenko (34) is one of the strongest grandmasters in his country. The reg
 
 And this is his online blitz game on December 12, 2023
 
-<div class="cbreplay">
-[Event "Titled Tuesday intern op 12th Dec Early"]
-[Site "Chess.com INT"]
-[Date "2023.12.12"]
-[Round "2"]
-[White "Kovalenko, Igor"]
-[Black "Mendez Fortes, Eduardo Jesus"]
-[Result "1-0"]
-[ECO "A13"]
-[WhiteElo "2674"]
-[BlackElo "2231"]
-[PlyCount "81"]
-[Beauty "7630412059145"]
-[EventDate "2023.12.12"]
-[EventType "swiss (blitz)"]
-[EventRounds "11"]
-[EventCountry "USA"]
-[SourceTitle "Mega2023 Update 59"]
-[Source "Chessbase"]
-[SourceDate "2023.12.21"]
-[SourceVersion "1"]
-[SourceVersionDate "2023.12.21"]
-[SourceQuality "1"]
-
-1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qc2 c5 8. a4 {A13: English Opening: 1...e6.} Bd6 9. a5 Qc7 {[#]} 10. O-O $146 {White is slightly better.} ({Predecessor:} 10. d3 b5 11. axb6 Nxb6 12. Nfd2 Bb7 13. Bxb7 Qxb7 14. O-O O-O 15. Na3 Nbd5 16. Nac4 {1-0 Sorensen,H (2192)-Sevastianov,A (2112) SWE-chT 1819 Superettan Sweden 2018 (3)}) 10... O-O 11. d3 e5 12. Nbd2 Nd5 13. Nc4 Nb4 14. Qb3 Nc6 15. e3 {White is much more active. The black rooks are passive.} Re8 16. Bd2 ({Don't play} 16. Nxd6 Qxd6 17. Ng5 Rf8 $16) 16... Rb8 17. Ng5 Nf6 $2 {5.47/24 [#]} (17... Rf8 $16 {1.56/28 is a better chance.}) 18. Qb6 $2 {0.17/29} (18. Nxd6 $18 {5.47/24} Qxd6 19. Qxf7+ Kh8 20. Qxe8+ {Clearance} Nxe8 21. Nf7+ Kg8 22. Nxd6 Nxd6 23. Rfc1) 18... Qxb6 $2 {1.99/26} (18... Qe7 $11 {0.17/29}) 19. axb6 $18 Bf5 $2 {5.59/29} (19... Be7 {1.86/28 is tougher.} 20. Bc3 Nd7) 20. Bxc6 {White is clearly winning.} bxc6 21. e4 Bc8 22. Nxd6 {Excellent horsemanship.} Rd8 23. Nxc8 Rdxc8 24. Rxa6 Rd8 25. Bc3 Nd7 26. Nf3 f6 27. b7 Rxb7 28. Rxc6 Kf7 29. Ra1 Nf8 30. Rxc5 Rxd3 31. Kg2 Ne6 32. Rc8 Rdd7 33. h4 h6 34. h5 Rb5 35. Raa8 Nc5 36. Rf8+ Ke6 37. Rfe8+ Kf7 {[#]} 38. Bxe5 $1 {Rf8+ is the strong threat.} Nxe4 (38... Ne6 39. Bc3) 39. Rab8 Rbd5 40. Bf4 Rc5 41. Rxe4 {Weighted Error Value: White=0.33/Black=0.68.  Loses game:        ---         Black=2      Missed win:        White=1         ---        Mistake:         ---         Black=1      Inaccurate:        White=2         Black=7      OK:            White=8         Black=5} 1-0
-</div>
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=47MMYdi3A0jvRDGrTinBi0y9JvvioGrwJn36wqT8azuu5d/dBymQ7RNc55oV89+q'></iframe>
 
 And on the same day, an excellent game with Black.
 
@@ -89,10 +59,10 @@ The positive message is clear: Chess not only endures but thrives, providing a s
 
 I'd love to hear your thoughts on today's post. Feel free to share your favorite chess strategy or ask any questions.
 
-> **Note:** Check out week 1 and 2 puzzle and games of the [week](https://egbert-azure.github.io/Puzzle/)
+> Check out week 1 and 2 puzzle and games of the [week]({{ site.baseurl }}/puzzles/)
 
-> **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> **Note:** [Follow me on Mastodon for more chess insights.](https://mastodon.online/invite/mWSpfQP8)
+> [Follow me on Mastodon for more chess insights.](https://mastodon.online/invite/mWSpfQP8)
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="chesslife" data-description="Support me on Buy me a coffee!" data-message="Thank you for reading! You can buy me a coffee, which will be donated to Revived Soldiers of Ukraine! Thank you!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>

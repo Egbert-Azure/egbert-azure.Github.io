@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Chess Adventures - continued: achieving a norm as a senior chess player"
-excerpt: "Achieving a norm is something I never expected. On Feb 2024 I reached my second norm and got the CCE title. Two tournaments contributed to this and I will share the critical games"
+description: "Achieving a norm is something I never expected. On Feb 2024 I reached my second norm and got the CCE title. Two tournaments contributed to this and I will share the critical games"
 date: 2024-02-14
-categories: [Chess, USCF, ICCF, Improvement, Mindset]
+tags: [chess, USCF, ICCF, mindset]
+image:  '/images/CCE.jpg'
 ---
 
 
-<div style="text-align: center;">
-<img src="../assets/images/CCE.jpg" alt="image" width="60%">
-</div>
-<div style="text-align: center; font-size: smaller;">
+<div style="text-align: left; font-size: smaller;">
 ICCF email February 6th 2024
 </div>
 
@@ -88,6 +86,6 @@ I welcome your thoughts and encourage other senior players to keep pursuing ches
 
 **Don't miss the puzzle and game of the [week]( https://chess.myvortexcloud.com/Puzzle/)**
 
-> **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> **Note:** [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
+> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
