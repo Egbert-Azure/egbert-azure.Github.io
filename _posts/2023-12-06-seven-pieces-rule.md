@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Decoding Correspondence Chess: Seven Pieces Rule and the 50-Move Rule Unveiled"
-date: 2023-12-06
-description: "Unravel the intricacies of the Seven Pieces Rule and the 50-Move Rule in International Correspondence Chess Federation (ICCF) games. Explore how these rules, connected to endgame tablebases, shape strategic thinking and computational precision in the world of correspondence chess."
+date: 2023-12-06 12:00:00 -0400
+categories: chess correspondence-chess rules strategy
+excerpt: "Unravel the intricacies of the Seven Pieces Rule and the 50-Move Rule in International Correspondence Chess Federation (ICCF) games. Explore how these rules, connected to endgame tablebases, shape strategic thinking and computational precision in the world of correspondence chess."
 tags: [correspondence-chess, chess-rules, strategy, endgame-tablebases]
-image:  '/images/decode 2.jpeg'
 ---
 
+<div style="text-align: center;">
+<img src="../assets/images/art/decode 2.jpeg" alt="image" width="50%">
+</div>
 
 ## Introduction
 
@@ -65,7 +68,7 @@ However, the true essence of correspondence chess lies in profound analysis. Sim
 
 I had the pleasure of playing against Correspondence Chess Master Christophe David-Bordier (ELO 2374), a very experienced player from France. 
 <div style="text-align: center;">
-<img src="{{site.baseurl}}/images/Christophe David-Bordier.png" alt="image" width="20%">
+<img src="../assets/images/Christophe David-Bordier.png" alt="image" width="20%">
 </div>
 
 Christophe David-Bordier is a recognized player in the world of correspondence chess. He holds the title of Correspondence Chess Master (CCM) and was awarded the Correspondence Chess Expert (CCE) in 2017. He has completed 1220 games, winning 287 of them, and has played in 129 tournaments. His play is characterized by strategic planning and a deep understanding of the game. He has also participated in the 12th Chess 960 World Cup. His current rating is 2379.
@@ -87,9 +90,9 @@ Amici Sumus
 
 I'd love to hear your thoughts on today's post. Feel free to share your favorite chess strategy or ask any questions you may have.
 
-> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
+> **Note:** [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
 
 *Source: Conversation with Bing, 12/6/2023*
 

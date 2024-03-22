@@ -1,17 +1,12 @@
 ---
 layout: post
+comments: true
 title: Creating a ChessBase Tournament Database for Correspondence Chess
-description: Learn how to efficiently create and manage a ChessBase tournament database for correspondence chess, track your games, and generate a comprehensive crosstable.
-image:  '/images/tobias-fischer-PkbZahEG2Ng-unsplash.jpg'
-tags: [ChessBase, correspondence-chess, USCF, tutorial]
-date: 2023-08-12
+categories: [chess, correspondence chess, ChessBase, game management]
+excerpt: Learn how to efficiently create and manage a ChessBase tournament database for correspondence chess, track your games, and generate a comprehensive crosstable.
+tags: [ChessBase, correspondence chess, game tracking, crosstable, USCF, tutorial]
+date: 2023-08-12 00:00:00 -0700
 ---
-
-<div style="text-align: left; font-size: smaller;">
-Photo by <a href="https://unsplash.com/@tofi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tobias Fischer</a> on <a href="https://unsplash.com/photos/photo-of-5-story-library-building-PkbZahEG2Ng?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-</div>
-
-  
 Upcoming Friday will be no blog, so it is today, Saturday and happy Chess Week to you all.
 
 So, whats up today? I recently boldly decided to participate in the 2023 Electronic Knights Championship. With pairings happening swiftly, I realized it was the ideal moment to share my practical approach to effortlessly creating a crosstable using a ChessBase tournament database. I guide you through effectively managing your correspondence chess games and generating a comprehensive crosstable.
@@ -53,7 +48,7 @@ To get started, follow these quick steps:
 4. Enter the number of players and their names.
 
 <p align="center">
-<img src="{{site.baseurl}}/images/Screenshot 2023-08-11 173513-1.jpg" alt="Crosstable" width="50%">
+<img src="../jpg/Screenshot 2023-08-11 173513-1.jpg" alt="Crosstable" width="400">
 </p>
 
 <ol start="5">
@@ -64,14 +59,12 @@ To get started, follow these quick steps:
 
 And - eh voila - with hitting the **Crosstable** icon and
 
-<p align="center">
-<img src="{{site.baseurl}}/images/Screenshot 2023-08-11 203010.jpg" alt="Crosstable" width="50%">
-</p>
+![Crosstable](<../jpg/Screenshot 2023-08-11 203010.jpg>)
 
 Here we have our database and this nice crosstable in ChessBase:
 
 <p align="center">
-<img src="{{site.baseurl}}/images/Screenshot 2023-08-11 202542.jpg" alt="Crosstable" width="50%">
+<img src="../jpg/Screenshot 2023-08-11 202542.jpg" alt="Crosstable" width="400">
 </p>
 
 Now one of the great features is that if you have the player database installed, all players in **Metadatabase** get automatically assigned. Those in ChessBase own **Correspondence** database, unfortunately not.
@@ -91,14 +84,9 @@ And another excellent function with one click, you get the table to the clipboar
 | 7 | Miller, Joshua    | xxxx   |   |   |   |   |   |   | * | 0.0/0 |
 
 And with the players identified you can check them and prepare yourself to play against your oponents.
+> **Note:** I have updated the [Road to ELO 200](https://egbert-azure.github.io/the-road-to-elo-2000/) blog with some more details and guidance. Check it out
 
-<div style="border: 1px solid white; padding: 10px">
-     <blockquote style="font-size: 20px; font-style: italic; font-weight: 400;">
-I have updated the <a href="https://chess.myvortexcloud.com/the-road-to-elo-2000/">Road to ELO 200</a> blog with some more details and guidance. Check it out
-    </blockquote>
-</div>
-
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
 
 
 

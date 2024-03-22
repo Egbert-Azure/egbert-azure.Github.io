@@ -2,13 +2,18 @@
 layout: post
 title: "Unlocking the Power of DIY eBoards for Chess Enthusiasts. A glimpse into the future?"
 date: 2024-03-12
-tags: [chess, technology, DIY, eboard, ChessCam]
-description: "Discover how you can break free from the screen and elevate your chess experience with your own eBoard using Lichess"
-image:  '/images/conor-luddy-IGa3Md8wP6g-unsplash.jpg'
+categories: [Chess, Tools, Technology]
+tags: [chess, theory, openings, DIY eBoards, ChessCam]
+excerpt: "Discover how you can break free from the screen and elevate your chess experience with your own eBoard using Lichess"
 ---
 
 
-<div style="text-align: left; font-size: smaller;">
+<div style="text-align: center;">
+<img src="../assets/images/conor-luddy-IGa3Md8wP6g-unsplash.jpg"
+alt="image" width="30%">
+</div>
+
+<div style="text-align: center; font-size: smaller;">
 Photo by <a href="https://unsplash.com/@opticonor?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Conor Luddy</a> on <a href="https://unsplash.com/photos/black-and-green-full-face-helmet-on-white-wooden-table-IGa3Md8wP6g?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>
 
@@ -22,8 +27,9 @@ Ok, hear me out! This blog is for you!
 The FIDE Master, whose name on Liches is [BlindfoldBlunderer](https://lichess.org/@/BlindfoldBlunderer), had a revolutionary idea! DIY board with your webcam or even smartphone! What? Really? My first thought was "well, nice. Maybe works in some cases but never ever with different boards or size.
 The solution proved me wrong!
 
-<div style="text-align:center;">
-  <img src="{{site.baseurl}}/images/Screenshot 2024-03-11 142716.png" alt="title" style="width:50%;">
+<div style="text-align: center;">
+<img src="../assets/images/Screenshot 2024-03-11 142716.png"
+alt="image" width="70%">
 </div>
 
 
@@ -40,9 +46,11 @@ Upload your video. If the corner detection is not perfect, set the corners manua
 - Exporting
 Once the video has finished processing, click "Copy PGN" to save the game to your clipboard. You can also go to Export to view the game and export it to a Lichess study.
 
-<div style="text-align:center;">
-  <img src="{{site.baseurl}}/images/Screenshot 2024-03-11 142941.png" alt="title" style="width:50%;">
+<div style="text-align: center;">
+<img src="../assets/images/Screenshot 2024-03-11 142941.png"
+alt="image" width="70%">
 </div>
+
 
 ## How do you play lichess using your own board?
 
@@ -67,6 +75,6 @@ Enjoy!
 
 Amici Sumus
 
-> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
+> **Note:** [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)

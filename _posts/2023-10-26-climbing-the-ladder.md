@@ -1,11 +1,15 @@
 ---
 layout: post
 title: Chess Journey Update - Climbing the Correspondence Chess Ladder
-tags: [chess, correspondence-chess, USCF]
-description: Update on my chess journey in correspondence chess, including my performance in the 2021 Electronic Knights Championship Semi-Final Section and the exciting news of reaching the top 100 US Correspondence Chess players.
+tags: [chess, correspondence chess]
+excerpt: Update on my chess journey in correspondence chess, including my performance in the 2021 Electronic Knights Championship Semi-Final Section and the exciting news of reaching the top 100 US Correspondence Chess players.
+categories: [chess, correspondence chess, tournament]
 date: 2023-10-27
-image:  '/images/chess logo 2.jpeg'
 ---
+
+<div style="text-align:center">
+    <img src="../assets/images/art/chess logo 2.jpeg" alt="Going Strong" width="50%">
+</div>
 
 
 # Friday Chess Blog Time Again
@@ -56,7 +60,7 @@ Germany - USA Friendly Match Board 83
 Hungary - USA Friendly Match Board 18
 Switzerland - USA Friendly Match Board 20
 
-Check out the entire tournament list [here]({{ site.baseurl }}/tournaments/)!
+Check out the entire tournament list [here](https://egbert-azure.github.io/tournaments/)!
 
 
 Check out the full list of the top 100 US Correspondence Chess players [here](https://www.uschess.org/component/option,com_top_players/Itemid,371?op=list&month=2310&f=foreign&l=C%3ATop%20Correspondence%20Ratings.&h=Correspondence%20Players%20regardless%20of%20Country%2C%20Residence%2C%20or%20Federation).
@@ -74,6 +78,6 @@ Amici Sumus
 
 Please send feedback and comments any time!
 
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
 
-> [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)
+> **Note:** [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)

@@ -1,11 +1,22 @@
 ---
 layout: post
 title: "Back to learning"
-date:  2024-03-09 
-description: "Never stop learning and revisting your opening"
-image:  '/images/damiano-lingauri-bUM4weg0RSI-unsplash.jpg'
+date: 2024-03-09
+categories: [Chess, Theory, Opening]
 tags: [chess, theory, openings]
+excerpt: "Never stop learning and revisting your opening"
 ---
+
+<div style="text-align: center;">
+<img src="../assets/images/damiano-lingauri-bUM4weg0RSI-unsplash.jpg"
+alt="image" width="40%">
+</div>
+
+<div style="text-align: center; font-size: smaller;">
+Photo by <a href="https://unsplash.com/@dendrolago89?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Damiano Lingauri</a> on <a href="https://unsplash.com/photos/white-and-black-chess-pieces-bUM4weg0RSI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+</div>
+
+
 While I work on my repertoire again I like to share some thoughts and how I keep improving my chess.
 
 First, a couple of guidlines and if you have read my blogs on a regular base you know I believe in "chunks" rather then memorize gazillion moves ahead. I never liked to memorize a poem but understand what was the message. You see?
@@ -40,9 +51,8 @@ Right-click on the marked game entries - Context menu - Harvest training materia
 
 5. **Statistics and Navigation**: The program keeps statistics about your results, and you can easily move to the next position.
 
-<div style="text-align:center;">
-  <img src="{{site.baseurl}}/images/harvest.png" alt="Harvest" style="width:50%;">
-</div>
+![alt text](../assets/images/harvest.png)
+
 
 You can save the results in a new database in the next step. The standard engine performs a quick check and saves matching positions with training questions within the database. When you load an entry from the database list, the game position incl. training question is displayed. Therefore activate under Training - Activate training.
 
@@ -56,6 +66,6 @@ Happy studying!
 
 Amici Sumus
 
-> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
+> **Note:** [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
