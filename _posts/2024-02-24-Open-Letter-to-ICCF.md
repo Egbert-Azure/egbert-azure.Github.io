@@ -2,17 +2,14 @@
 layout: post
 title: "Creating Awareness: The Need for Ethical Decision-Making in Chess"
 date: 2024-02-24
-categories: [Chess, Ethics]
-tags: [chess, ICCF, ethics, Ukraine, Russia]
-excerpt: "Raising awareness about ethical concerns in chess amidst the Russian war and genocide in Ukraine."
+description: "Raising awareness about ethical concerns in chess amidst the Russian war and genocide in Ukraine."
+tags: [chess, ICCF, ethics, ukraine, russia]
+image:  '/images/ukraine.jpg'
+featured: true
 ---
 
-<div style="text-align: center;">
-<img src="../assets/images/Puzzle/9127_1.jpg" alt="image" width="35%">
-</div>
-
-<div style="text-align: center; font-size: smaller;">
-Photo by <a href="https://www.newinchess.com/from-ukraine-with-love-for-chess">New in Chess</a>
+<div style="text-align: left; font-size: smaller;">
+Photo by <a href="https://unsplash.com/@maxkuk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Max Kukurudziak</a> on <a href="https://unsplash.com/photos/blue-and-yellow-striped-country-flag-qbc3Zmxw0G8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>
 
 Against the backdrop of the ongoing crisis involving Russia's invasion of Ukraine, allowing Russian players to compete raises ethical questions about the principles of peace, freedom, and human rights that should guide our sport. While chess is a game of strategy and intellect, it is also a reflection of our values and beliefs.
@@ -40,7 +37,7 @@ Another great read and learning is the supporting book which I bought a year ago
 With contributions by the great Vasyl Ivanchuk, Ruslan Ponomariov, Mariya and Anna Muzychuk and many, many others
 
 <div style="text-align: center;">
-<img src="../assets/images/Puzzle/9127_1.jpg" alt="image" width="30%">
+<img src="{{site.baseurl}}/images/9127_1.jpg" alt="image" width="30%">
 </div>
 
 <div style="text-align: center; font-size: smaller;">
@@ -63,36 +60,49 @@ Creating awareness about these issues is the first step towards fostering meanin
 
 I encourage fellow chess enthusiasts to join me in raising awareness about this important issue and engaging in constructive dialogue with relevant stakeholders. By working together, we can make a difference and uphold the principles of peace, freedom, and human rights within the world of chess.
 
-> **_NOTE:_**   Message from Jason Bokar, ICCF-US Director  [on March 2022](http://iccfus.com/220308News.htm) to the chess community: .."we also shouldn’t remain silent"
+> Message from Jason Bokar, ICCF-US Director  [on March 2022](http://iccfus.com/220308News.htm) to the chess community: .."we also shouldn’t remain silent"
 
 ## Open Letter
 
-> Dear ICCF Board Members,
->
->I am writing to express my profound concern regarding the participation of Russian chess players, particularly Team(s) Volga-Moscow-1 to 5, in the upcoming Champions League tournament scheduled to commence on February 25th, coinciding with the tragic anniversary of Russia's invasion of Ukraine. The ongoing crisis in Ukraine has led to unimaginable suffering, including a humanitarian catastrophe with significant loss of life and widespread displacement.
->
->What further exacerbates my concern is Chessify's sponsorship of the event. While I appreciate Chessify's support for the Champion’s League with an award package worth $5000 in Chessify packages and coins, I am deeply troubled by the potential implications of this sponsorship. It is disheartening to contemplate an award package going to Russia and a team named Volga-Moscow associated with the event, especially when the participation of Russian players contradicts the principles of peace, freedom, and human rights that the ICCF aims to uphold.
->
->While I commend the ICCF for its efforts, such as organizing the Peace Open tournament to express solidarity with Ukraine, allowing Russian players to compete in official tournaments undermines the very principles of peace, freedom, and human rights that the ICCF stands for.
->
->The invasion of Ukraine represents a blatant violation of international law and a tragic humanitarian crisis. Furthermore, it is a genocide against the people of Ukraine and threatens the very values that the chess community should stand for. Regardless of the neutral flags under which they compete, the participation of players with ties to Russia implicitly condones the actions of the Russian government and undermines efforts to promote peace and justice.
->
->As a fervent believer in a world where peace, freedom, and human rights are non-negotiable values, I urge the ICCF to take immediate action to suspend Russian players from official tournaments until the conflict is resolved and justice is restored. This step is essential not only to uphold the integrity of the sport but also to demonstrate solidarity with the victims of aggression and injustice.
->
->I encourage the ICCF to reconsider its stance and demonstrate leadership by aligning its actions with the principles it claims to uphold. While I can only speak for myself, I truly believe the chess community looks to the ICCF to maintain the highest standards of ethics and morality, and I hope you will act quickly in this critical moment. You can make a difference!
->
->This topic touches me deeply, and I am a constant supporter. Even if my support may seem small, I firmly believe that every little bit matters in making a difference and making the world a better place.
->
->Thank you very much for dealing with this matter, which is important to me.
->
->Sincerely,
->
->Amici Sumus  - We Are Friends,
->
->*Egbert Schroeer, CCE*
+<div style="border: 1px solid white; padding: 10px">
+     <blockquote style="font-size: 20px; font-style: italic; font-weight: 400;">
 
+Dear ICCF Board Members,
+<br><br>
 
----
+I am writing to express my profound concern regarding the participation of Russian chess players, particularly Team(s) Volga-Moscow-1 to 5, in the upcoming Champions League tournament scheduled to commence on February 25th, coinciding with the tragic anniversary of Russia's invasion of Ukraine. The ongoing crisis in Ukraine has led to unimaginable suffering, including a humanitarian catastrophe with significant loss of life and widespread displacement.
+<br><br>
+
+What further exacerbates my concern is Chessify's sponsorship of the event. While I appreciate Chessify's support for the Champion’s League with an award package worth $5000 in Chessify packages and coins, I am deeply troubled by the potential implications of this sponsorship. It is disheartening to contemplate an award package going to Russia and a team named Volga-Moscow associated with the event, especially when the participation of Russian players contradicts the principles of peace, freedom, and human rights that the ICCF aims to uphold.
+<br><br>
+
+While I commend the ICCF for its efforts, such as organizing the Peace Open tournament to express solidarity with Ukraine, allowing Russian players to compete in official tournaments undermines the very principles of peace, freedom, and human rights that the ICCF stands for.
+<br><br>
+
+The invasion of Ukraine represents a blatant violation of international law and a tragic humanitarian crisis. Furthermore, it is a genocide against the people of Ukraine and threatens the very values that the chess community should stand for. Regardless of the neutral flags under which they compete, the participation of players with ties to Russia implicitly condones the actions of the Russian government and undermines efforts to promote peace and justice.
+<br><br>
+
+As a fervent believer in a world where peace, freedom, and human rights are non-negotiable values, I urge the ICCF to take immediate action to suspend Russian players from official tournaments until the conflict is resolved and justice is restored. This step is essential not only to uphold the integrity of the sport but also to demonstrate solidarity with the victims of aggression and injustice.
+<br><br>
+I encourage the ICCF to reconsider its stance and demonstrate leadership by aligning its actions with the principles it claims to uphold. While I can only speak for myself, I truly believe the chess community looks to the ICCF to maintain the highest standards of ethics and morality, and I hope you will act quickly in this critical moment. You can make a difference!
+<br><br>
+
+This topic touches me deeply, and I am a constant supporter. Even if my support may seem small, I firmly believe that every little bit matters in making a difference and making the world a better place.
+<br><br>
+
+Thank you very much for dealing with this matter, which is important to me.
+<br><br>
+
+Sincerely,
+<br><br>
+
+<b>Amici Sumus  - We Are Friends,</b>
+<br><br>
+Egbert Schroeer, CCE
+     </blockquote>
+</div>
+
+<br>
 
 **Support Revive Soldiers of Ukraine**
 
@@ -100,10 +110,10 @@ If you found this post insightful and would like to support the **Revived Soldie
 
 Thank you for your generosity and support.
 
-Amici Sumus
+**Amici Sumus**
 
 <div style="text-align: center;">
-<img src="../assets/images/support.png" alt="image" width="10%">
+<img src="{{site.baseurl}}/images/support.png" alt="image" width="10%">
 </div>
 
 

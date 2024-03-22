@@ -1,21 +1,17 @@
 ---
 layout: post
-comments: true
 title: Memories - Learning from the Past
-categories: [chess, nostalgia, history]
-tags: [history, chess player, tournament game, Fischer-Spassky 1972, Tibor Karolyi]
-excerpt: "Thoughts about contemporary chess games versus the brilliancy of historical games. And then take a chess journey through chess history with Tibor Karolyi's 'Fischer-Spassky 1972: Match of the Century Revisited' among some other interesting and entertaining games."
+tags: [history, world-championship, Fischer-Spassky-1972, Tibor-Karolyi, books]
+description: "Thoughts about contemporary chess games versus the brilliancy of historical games. And then take a chess journey through chess history with Tibor Karolyi's 'Fischer-Spassky 1972: Match of the Century Revisited' among some other interesting and entertaining games."
 date: 2024-01-22
+image:  '/images/fischer1957.jpeg'
 ---
-**Blog Post 25 - Never thought I'm going that far** 
 
-<div style="text-align: center;">
-<img src="../assets/images/fischer1957.jpeg" alt="image" width="30%">
-</div>
-<div style="text-align: center; font-size: smaller;">
+<div style="text-align: left; font-size: smaller;">
 Intensity: Bobby Fischer - 1957
 </div>
 
+**Blog Post 25 - Never thought I'm going that far** 
 
 Whether historical chess games surpass contemporary ones is a subjective matter, hinging on individual preferences within the chess community. Examining the distinct characteristics of each era sheds light on the evolution of the game.
 
@@ -39,7 +35,7 @@ Ever wondering about opening traps and such? You will like this one for sure.
 Paris, 1759, the venue is the Cafe de la Regence, prototype of the chess café and the original home of the coffee house player.
 
 <div style="text-align: left;">
-<img src="../assets/phpuCHnMw.jpeg" alt="image" width="50%">
+<img src="{{site.baseurl}}/assets/phpuCHnMw.jpeg" alt="image" width="50%">
 </div>
 
 <div style="text-align: left; font-size: smaller;">
@@ -48,20 +44,7 @@ Cafe de la Regence, Paris - around 1910
 
 Here, Kermur Sire de Legal delivers a brilliant game which, despite its brevity, is also strategically remarkable, illustrating the complete triumph of pieceplay over pawn play. White actually only makes one pawn move.
 
-<div class="cbreplay">
-[Event "Paris, Cafe de la Regence"]
-[Site "?"]
-[Date "1750.??.??"]
-[Round "?"]
-[White "Sire de Legal, Kermur"]
-[Black "Saint Brie"]
-[Result "*"]
-[ECO "C41"]
-[Annotator "Schroeer,Egbert"]
-[PlyCount "13"]
-
-1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 {What a mistake! It is better to put the knights who are doing badly in the middle instead of the well-standing bishop (Lasker)} 4. Nc3 {The early development of both Knights (later propagated by Lasker) was a new strategy at that time; the pawn move c3 (with the double backing d4 and Qb3) was considered obligatory)} g6 {Black wants to control the strategic important square d4; totally fine if he would be able to play Bg7.} 5. Nxe5 Bxd1 6. Bxf7+ Ke7 7. Nd5# *
-</div>
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=47MMYdi3A0jvRDGrTinBi0uK4N4aiI8pto5vBfZJZO2enaYLHExOl8Am3oraet1R'></iframe>
 
 Lasker had games like this in mind when he formulated the rule in 1895: "Develop the knights before the bishop, especially the queens' bishop".
 
@@ -72,7 +55,7 @@ Funny enough, the top engine move 4. is h3, not Nc3!
 Over the past 12 month I digged into Tibor Karolyi's masterpiece, "Fischer-Spassky 1972: Match of the Century Revisited," and I must say it was a truly captivating experience that not only rekindled fond memories but also provided invaluable insights for any senior chess enthusiast on their journey to improvement.
 
 <div style="text-align: center;">
-<img src="../assets/images/matchofthecentury.jpg" alt="image" width="30%">
+<img src="{{site.baseurl}}/images/matchofthecentury.jpg" alt="image" width="30%">
 </div>
 
 Karolyi's ability to present this iconic chess match with a fresh perspective is nothing short of stunning. The meticulous way in which he weaves together the intricate details of each game, coupled with his keen observations and analysis, makes the book an engaging and enlightening read. For someone who watched the original match on TV and followed the newspaper summaries, the book brought back a flood of youthful memories, adding an extra layer of sentiment to the entire experience.
@@ -135,9 +118,9 @@ So, why not take time out and enjoy an hour of great chess coaching! In the “6
 
 I'd love to hear your thoughts on today's post. Feel free to share your favorite chess strategy or ask any questions you may have.
 
-> **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> **Note:** [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
+> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
 
 
 

@@ -1,10 +1,10 @@
 ---
 title: "Welcome to my Senior Chess Improver Website"
 layout: post
-comments: false
-categories: [chess, improvement, tournaments]
-tags: [chess, competitive play, strategy, analysis, chess community, chesspunks]
-excerpt: Discover a hub of chess insights, strategies, and tales of competition in chess. Join me on a journey of improvement, and a "I'm retired but not dead" approach.
+Date: 2023-02-08
+tags: [chess, competitive, senior, chesspunks]
+image:  '/images/20.jpg'
+description: Discover a hub of chess insights, strategies, and tales of competition in chess. Join me on a journey of improvement, and a "I'm retired but not dead" approach.
 ---
 
 Greetings, chess enthusiasts and fellow learners! I'm delighted to have you join me on this exciting journey of chess improvement. Here, I'll be sharing my personal experiences, insights, and discoveries as I strive to enhance my skills in the captivating world of chess.
@@ -43,4 +43,4 @@ Your fellow chess improver, Egbert
 
 Let these articles and the GitHub repository be your guiding light in your pursuit of understanding and implementing the Stockfish Chess Engine in a remote cluster setup. Happy reading and coding!
 
-> **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)

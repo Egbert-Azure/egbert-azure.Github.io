@@ -2,15 +2,14 @@
 layout: post
 title: "Back to the roots - The 150 Attack vs. Modern Defence"
 date: 2024-02-19
-categories: [Chess, Openings]
-tags: [chess, openings, modern defense]  
-excerpt: "Revisiting the 150 Attack, an old favorite opening from my early chess days."
+tags: [chess, openings, modern-defense, 150-attack]  
+description: "Revisiting the 150 Attack, an old favorite opening from my early chess days."
+image:  '/images/ravi-kumar-sKZYPerA5s0-unsplash.jpg'
+featured: true
 ---
 
-<div style="text-align: center;">
-<img src="../assets/images/ravi-kumar-sKZYPerA5s0-unsplash.jpg" alt="image" width="60%">
-</div>
-<div style="text-align: center; font-size: smaller;">
+
+<div style="text-align: left; font-size: smaller;">
 Photo by <a href="https://unsplash.com/@vtr?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ravi Kumar</a> on <a href="https://unsplash.com/photos/grayscale-photo-of-round-ball-sKZYPerA5s0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>
 
@@ -22,10 +21,7 @@ As a chess enthusiast, I recently found myself drawn back to an old favorite: th
 
 The position showcased below, from Vujovic's game in round 7, epitomizes the essence of the 150 Attack against Black's Modern Defense:
 
-<div class="cbdiagram"
-data-size="400"
-data-fen="rn1qk1nr/1bp1ppbp/p2p2p1/1p6/3PP3/2NBBN2/PPPQ1PPP/R3K2R b KQkq - 0 7">
-</div>
+<iframe src="https://fritz.chessbase.com?fen=rn1qk1nr/1bp1ppbp/p2p2p1/1p6/3PP3/2NBBN2/PPPQ1PPP/R3K2R b KQkq - 0 7" style="width:760px;height:480px"></iframe>
 
 ## 150 Attack
 
@@ -88,6 +84,6 @@ I welcome your thoughts and encourage other senior players to keep pursuing ches
 
 **Don't miss the puzzle and game of the [week]( https://chess.myvortexcloud.com/puzzles/2024-Week-08)**
 
-> **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> **Note:** [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
+> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)

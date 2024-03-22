@@ -2,9 +2,9 @@
 title: "Leveraging Chessbase with Mega Database and UltraCorr23 for Correspondence Chess Excellence"
 date: 2023-09-18
 layout: post
-tags: [chess, correspondence chess, Chessbase, Mega Database, UltraCorr23, reference databases]
-excerpt: Explore how Chessbase with Mega Database and UltraCorr23 can enhance your correspondence chess skills and preparation.
-categories: [chess, correspondence chess, tournament]
+tags: [chess, ChessBase, correspondence-chess, Mega-Database, UltraCorr23, reference-databases]
+description: Explore how Chessbase with Mega Database and UltraCorr23 can enhance your correspondence chess skills and preparation.
+image:  '/images/deep thought.jpg'
 ---
 
 <div style="border: 1px solid black; padding: 10px; text-align: center;">
@@ -17,16 +17,18 @@ categories: [chess, correspondence chess, tournament]
 # Introduction:
 
 <div style="display:flex;">
-    <img src="../assets/images/s-l1600.jpg" alt="Correspondence Chess" style="width:50%; padding-right:10px;">
-    <img src="../assets/images/s-l1600 (1).jpg" alt="Correspondence Chess" style="width:50%; padding-left:10px;">
+    <img src="{{site.baseurl}}/images/s-l1600.jpg" alt="Correspondence Chess" style="width:50%; padding-right:10px;">
+    <img src="{{site.baseurl}}/images/s-l1600 (1).jpg" alt="Correspondence Chess" style="width:50%; padding-left:10px;">
 </div>
 
 Correspondence chess is a form of chess where players exchange moves through mail or other forms of communication, and games can take weeks, months, or even years to complete. This slow pace allows players to take their time to analyze the position and find the best move. Consulting opening and endgame materials have always been acceptable during correspondence chess. In the dynamic realm of chess, digital technology has brought forth tools that revolutionize how players prepare, analyze, and perfect their strategies. Correspondence chess has witnessed a paradigm shift with the integration of reference databases. In this blog, we explore how players can elevate their correspondence chess skills using Chessbase's Mega Database and delve into the unique features of UltraCorr23.
 
-<div style="border: 1px solid black; padding: 10px; text-align: center;">
-    <blockquote><em>"Life’s too short to play boring chess."</em> - Michael Song, The Chess Attacker's Handbook
-        </blockquote>
+<div style="border: 1px solid white; padding: 10px">
+     <blockquote style="font-size: 22px; font-style: italic; font-weight: 400;">
+    <em>"Life’s too short to play boring chess."</em> - Michael Song, The Chess Attacker's Handbook
+    </blockquote>
 </div>
+<br>
 This quote reminds us that chess is not just a game but a passion that requires creativity, imagination, and a willingness to take risks. Playing it safe may lead to a draw, but it won't lead to the excitement and thrill of a well-executed attack or defense. So, let's embrace the challenge and make every move count!
 
 # Engine Usage in Correspondence Chess:
@@ -74,7 +76,7 @@ UltraCorr23 is a specialized reference database exclusively tailored for corresp
 
 - **Historical Gems**: UltraCorr23 is committed to preserving the rich history of correspondence chess, and the year 2022 witnessed an extensive effort to incorporate historical correspondence chess games from the 19th and 20th centuries. Notably, games from Professor Pagni's book collections were included, with meticulous corrections based on comprehensive research.
 
-![19th Century Games](../assets/images/image-7.png)
+![19th Century Games]({{site.baseurl}}/images/image-7.png)
 
 - **19th Century Games**: The database offers a unique window into 19th-century chess, with a wealth of games from Deutsche Schachzeitung and other printed sources.
 
@@ -89,10 +91,12 @@ UltraCorr23 is a specialized reference database exclusively tailored for corresp
 
 - **Player Identification**: Despite best efforts, player identification remains complex, especially with variations in player registrations. Ongoing work aims to rectify discrepancies, particularly for players with common surnames.
 
-<div style="border: 1px solid black; padding: 10px; text-align: center;">
-    <blockquote><em>"There are a lot of things you can learn from correspondence chess. I learned a lot by looking at the games – basically Correspondence Chess involves using computers nowadays to help you process along, but also to guide the computer with human intellect, so a combination which should lead to the strongest factors out there. The level of chess we see in the Correspondence World Championships is the highest out there"</em> <footer>—GM Simon Williams, <cite>Ginger GM</cite>, commentator and attacking player from England</footer>
-        </blockquote>
+<div style="border: 1px solid white; padding: 10px">
+    <blockquote style="font-size: 20px; font-style: italic; font-weight: 400;">
+    <em>"There are a lot of things you can learn from correspondence chess. I learned a lot by looking at the games – basically Correspondence Chess involves using computers nowadays to help you process along, but also to guide the computer with human intellect, so a combination which should lead to the strongest factors out there. The level of chess we see in the Correspondence World Championships is the highest out there"</em> <footer>—GM Simon Williams, <cite>Ginger GM</cite>, commentator and attacking player from England</footer>
+    </blockquote>
 </div>
+<br>
 
 # What to do with this Knowledge:
 
@@ -103,7 +107,7 @@ When preparing openings, analyzing games, or planning strategies, you can switch
 3. Tag all top games and keep them while eliminating less important ones.
 4. This refined database becomes your new reference database.
 
-![MegaDatabase](../assets/images/image-8.png)
+![MegaDatabase]({{site.baseurl}}/images/image-8.png)
 
 To reach chances in Correspondence games, you need to get a strategically very complex position because in these complex positions, there are many lines which even a computer would show as 0.00, and you have to go extremely deep to have long-term plans, and there you have a chance to outplay your opponent. I repeat myself: even in tournaments where engines are allowed, you will fail if you are using the engine and don't understand your game's strategic and tactical nuances.
 
@@ -121,6 +125,6 @@ As players continue to embrace these tools, the lines between human and machine 
 
 Please send feedback and comments any time!
 
-> **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
 
-> **Note:** [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)
+> [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)
