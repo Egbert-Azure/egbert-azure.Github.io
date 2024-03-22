@@ -4,7 +4,6 @@ title: "Enhancing Your Chess Journey with Chessify: A Comprehensive Review"
 date: 2024-03-21
 tags: [chess, tools, technology, ChessBase, chessify]
 excerpt:  "we delve into the latest innovations in chess technology and explore the enhancements Chessify brings to the table."
-image:  '/images/shri-CG-JvqWqutM-unsplash.jpg'
 ---
 
 <div style="text-align: left; font-size: smaller;">
