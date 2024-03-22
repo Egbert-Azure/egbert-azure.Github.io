@@ -3,9 +3,10 @@ title: "Electronic Knights Semi-Final"
 layout: post
 name: Stewart, Douglas
 section: 21ENs04
-categories: chess
-comments: false
+tags: annotated-game, 21ENs04
 ---
+
+<h2>{{ page.section }}</h2>
 
 I wrongfully noted move 18 on April 28th. Douglas informed me on July 28th about the situation.
 Other then sending move reminder I never heard back from Douglas including reporting the game result.

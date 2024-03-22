@@ -1,18 +1,14 @@
 ---
 layout: post
-comments: true
 title: The Playchess Chess Club Chronicles
-categories: [chess, improvement, learning]
-tags: [chess improvement, opening repertoire, growth, progress, chess strategies]
-excerpt: A journey through Playchess platform, from personal development to creating a virtual haven for chess enthusiasts and playing with your ChessNut e-board.
+tags: [improvement, opening-repertoire, playchess, ChessBase]
+description: A journey through Playchess platform, from personal development to creating a virtual haven for chess enthusiasts and playing with your ChessNut e-board.
 date: 2023-12-22
+image:  '/images/gruppentraining-wir2.jpg'
 ---
 
-<div style="text-align: center;">
-<img src="../assets/images/gruppentraining-wir2.jpg" alt="Lehrbuch der Schachtheorie" width="60%">
-</div>
 
-<div style="text-align: center; font-size: smaller;">
+<div style="text-align: left; font-size: smaller;">
 Playchess Group Training (Photo courtesy ChessBase GmbH)
 </div>
 
@@ -52,7 +48,7 @@ These tools are designed to be easy to embed on your website and tap into the wo
 ChessBase's online chess platform, play.chessbase.com, allows users to play rated games against opponents of similar or higher strength, depending on your default pick. The platform offers games with various time controls, from bullet to slow games. Users can also participate in regular tournaments with Ducat's prizes. The platform includes a feature to play against Fritz, a chess program that plays like a human and makes subtle tactical mistakes. Users can also follow live master games from top tournaments.
 Here is the live tournament view, where you can predict the next move or bet on the next move.
 
-![Live Tournament](<../assets/images/live tournament view.png>)
+![Live Tournament](<{{site.baseurl}}/images/live tournament view.png>)
 
 Your own games are automatically synchronized in your Chessbase or Fritz program. The link is also in the navigation bar of the blog page (look for **Playchess**)
 
@@ -71,7 +67,7 @@ Creating a chess club on Playchess is surprisingly easy. The platform offers the
 
 So, what I have done for your convenience is I created a **Senior Chess Improver** with a click.
 
-[![Playchess Logo](../assets/images/PlaychessLogo.png)](https://play.chessbase.com/en/Play?room=Senior%20Chess%20Improver)
+[![Playchess Logo]({{site.baseurl}}/images/PlaychessLogo.png)](https://play.chessbase.com/en/Play?room=Senior%20Chess%20Improver)
 
 Check it out and we can schedule regular tournaments or trainings in the future.
 
@@ -120,11 +116,11 @@ On the Chessbase website, it is mentioned that e-boards need at least a 15-minut
 
 To activate the e-board function in Fritz for Playchess as default, get to file > options and click "use DGT board." Switch your ChessNut board on, click on a game, challenge someone, and enjoy a play off the screen.
 
-![Alt text](<../assets/images/playchess with dgt.png>)
+![DGT]({{ site.baseurl }}/images/playchess with dgt.png)
 
 In your playchess client or via Fritz or Chessbase your status show a DGT-Board and when you play, it's showing **playing with dgt**.
 
-![Alt text](../assets/images/playechess=dgt-board.png)
+![Alt text]({{site.baseurl}}/images/playechess=dgt-board.png)
 
 ## Playchess.com Web Client vs. Desktop Client
 
@@ -144,7 +140,7 @@ When choosing the Playchess.com client for your online chess, you have two prima
 Here is an example.
 
 <div style="text-align: center;">
-<img src="../assets/images/Screenshot 2023-12-17 110502.png" alt="Playchess 20min game">
+<img src="{{site.baseurl}}/images/Screenshot 2023-12-17 110502.png" alt="Playchess 20min game">
 </div>
 
 You can see the clear name of your opponent, but the game runs under your nickname.
@@ -162,32 +158,14 @@ Ultimately, the choice between the web and desktop clients depends on your prefe
 
 And here is one of my games on Playchess.
 
-<div class="cbreplay">
-[Event "Rated game, 5m+3s"]
-[Site "Main Playing Hall"]
-[Date "2023.12.13"]
-[Round "?"]
-[White "JimMorrison42"]
-[Black "Eumel"]
-[Result "1-0"]
-[ECO "A06"]
-[WhiteElo "1502"]
-[BlackElo "1550"]
-[Annotator "Schroeer,Egbert"]
-[PlyCount "59"]
-[EventDate "2023.12.13"]
-[SourceTitle "playchess.com"]
-[TimeControl "300+3"]
-
-1. Nf3 {11} d5 {7} 2. e3 {2} e6 {2} 3. c4 {1} c6 {2} 4. b3 {8} Nf6 {2} 5. Bb2 {1} Be7 {2} 6. Qc2 {1 A06: Réti Opening: 1 Nf3 d5.} Nbd7 {5} 7. Nc3 {1} b6 {5} 8. Be2 {8 [#] White is slightly better.} dxc4 $146 {3} ({Predecessor:} 8... Bb7 9. Rg1 c5 10. g4 Ne4 11. d3 Nxc3 12. Bxc3 Bf6 13. O-O-O Qe7 14. g5 Bxc3 15. Qxc3 {1-0 Nilsen,J (2418)-Sanal,V (2563) Cappelle Online Blitz op 1st Europe Echecs INT 2021 (7)}) 9. Bxc4 {3} Bb7 {2} 10. O-O {2} O-O {11} 11. Rfd1 {25} c5 {15} 12. d4 {6} Bxf3 {2} 13. gxf3 {6} cxd4 {4} 14. exd4 {1} Qc8 {21} 15. Ne4 {1} (15. Rac1 $11) (15. d5 {seems wilder.} Ne5 16. d6 Nxf3+ 17. Kh1) 15... Nxe4 $14 {5} (15... Nd5 $15) 16. fxe4 {2} b5 {8} 17. Bd3 {14 Black must now prevent Qxc8.} Qxc2 {1} 18. Bxc2 {2} Rac8 {9} 19. Bd3 {6} a6 {2} 20. Kg2 {8} Rc7 {27} 21. Rdc1 {23} Rfc8 {3} 22. Rxc7 {9} Rxc7 {1} 23. a4 {6} Rb7 {32} 24. axb5 {34} axb5 {6} 25. Ra8+ {11} Nf8 {14} 26. f4 {9} f6 {5} 27. Ra5 {9} b4 $2 {3.16/24 11 [#]} (27... Ng6 $16 {1.57/23} 28. Kf3 (28. Bxb5 Bd8 $11) (28. Rxb5 Nxf4+ 29. Kf3 Rxb5 $14) 28... Bd6) 28. Bc4 $18 {9} Kf7 $2 {4.93/24 13} (28... Kh8 {2.87/22} 29. Ra8 Rc7) 29. d5 {17} exd5 {7.19/24 5} (29... Bd8 $142 {4.84/21}) 30. Bxd5+ {6 Eumel gibt auf (Lag: Av=0.72s, max=0.9s).   Weighted Error Value: White=0.16 (very precise) /Black=0.39.  Mistake:          ---         Black=3      Inaccurate:      White=4        Black=6      OK:           White=10       Black=6      Best:         White=1        ---} 1-0
-</div>
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=47MMYdi3A0jvRDGrTinBi7jcaLFdultW+hdKXu41RoUQPtV+8JEax88RPtfkZ74B'></iframe>
 
 ## The 20 min on Playchess
 
 This game was played with my ChessNut Air e-board and was followed by 8 others. Keep in mind, if you accept another game from your oponent the board will not connect and you are not able to make a move until you have all pieces correctly positioned. It's doable!
 
 <div style="text-align: center;">
-<img src="../assets/images/chssnutplaychess.JPEG" alt="Playchess 20min game" width="60%">
+<img src="{{site.baseurl}}/images/chssnutplaychess.JPEG" alt="Playchess 20min game" width="60%">
 </div>
 
 
@@ -203,7 +181,7 @@ This is a special function available in the *Broadcasts* room where you have the
 
 Via *Application Menu – New – New broadcast*
 
-![Broadcast a Game](../assets/images/broadcast.png)
+![Broadcast a Game]({{site.baseurl}}/images/broadcast.png)
 *Broadcast a Game*
 
 These broadcasts can be either public or private. An interesting feature is the ability to hand over control to someone watching, allowing them to suggest moves, fostering a collaborative experience.
@@ -232,7 +210,7 @@ Amici Sumus
 
 I'd love to hear your thoughts on today's post. Feel free to share your favorite chess strategy or ask any questions you may have.
 
-> **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> **Note:** [Follow me on Mastodon for more chess insights.](https://mastodon.online/invite/mWSpfQP8)
+> [Follow me on Mastodon for more chess insights.](https://mastodon.online/invite/mWSpfQP8)
 

@@ -3,8 +3,7 @@ title: "Electronic Knights Semi-Final"
 layout: post
 name: Corkum, Tim
 section: 21ENs04
-categories: chess
-comments: false
+tags: annotated-game, 21ENs04
 ---
 <h2>{{ page.section }}</h2>
 
