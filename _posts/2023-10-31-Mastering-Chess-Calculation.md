@@ -1,11 +1,15 @@
 ---
 title: Mastering Chess Calculation - Unpacking the Power of Chunks
 layout: post
-tags: [chess, calculation, chunks, chess-strategy, improvement]
-description: "Explore the concept of chunks in chess calculation and learn how to enhance this crucial aspect of your game. Discover how the power of chunks can improve your chess skills and the difference between club players and Grandmasters in terms of chunk knowledge."
+tags: [Chess, Calculation, Chunks, Chess Strategy, Chess Improvement]
+excerpt: "Explore the concept of chunks in chess calculation and learn how to enhance this crucial aspect of your game. Discover how the power of chunks can improve your chess skills and the difference between club players and Grandmasters in terms of chunk knowledge."
+categories: [Chess Strategies, Learning Chess, Chess Improvement]
 date: 2023-10-31
-image:  '/images/TrickorCheckmate.jpeg'
 ---
+
+<div style="text-align:center">
+    <img src="../assets/images/art/TrickorCheckmate.jpeg" alt="Trick or Checkmate" width="35%">
+</div>
 
 ## Introduction - Chunks and Context:
 
@@ -31,7 +35,7 @@ A good example is a number such as 345678234. In chunks, it is, e.g., 345-678-23
 
 You probably do this in your daily life, too. Simple example:
 <p align="center" style="text-align:center;">
-    <img src="{{site.baseurl}}/images/image.png" width="40%">
+    <img src="../assets/images/image.png" width="40%">
 </p>
 
 And as a Chemist I also like the example of organic chemistry, where functional groups are specific arrangements of atoms within molecules that impart distinct chemical properties. Recognizing common functional groups like hydroxyl (-OH) or carbonyl (C=O) is a key skill, and these can be thought of as chunks.
@@ -121,9 +125,9 @@ Amici Sumus
 
 I'd love to hear your thoughts on today's post. Feel free to share your favorite chess strategy or ask any questions you may have.
 
-> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
+> **Note:** [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
 
 
 

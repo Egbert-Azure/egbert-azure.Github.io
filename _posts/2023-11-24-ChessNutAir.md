@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "The ChessNut Air Eboard: Elevating Club Players' Chess Experience"
-description: "A quick overview about ChessNut Air eboard and how to improve your chess with such a board."
+excerpt: "A quick overview about ChessNut Air eboard and how to improve your chess with such a board."
+categories: chess, technology
 date: 2023-11-24
-tags: [ChessNut Air, eboard]
-image:  '/images/correspondence-chess.jpeg'
+
 ---
 
+<div style="text-align: center;">
+<img src="../assets/images/art/correspondence-chess.jpeg" alt="image" width="50%">
+</div>
 
 # Introduction
 
@@ -65,7 +68,7 @@ Graham's chess driver is an impressive driver designed to enhance the chess-play
 I use this driver mainly for ChessBase and Fritz integration.
 
 ChessBase and Fritz are written to use a DGT board, but with Graham's driver will allow the Chessnut Air and Pro boards to be used with the Windows GUIs. 
-![Alt text]({{site.baseurl}}/images/dgt.png)
+![Alt text](../assets/images/dgt.png)
 
 It will first try to connect using the USB cable and if that fails then it will try BluetoothLE. 
 The Chessnut board can use BluetoothLE but does not need pairing to your computer. 
@@ -91,11 +94,11 @@ The ChessNut Air is a smart electronic chessboard that has garnered positive rev
 I own this board sind October 2022 and it is a huge game changer for me.
 
 <div style="text-align: center;">
- <img src="{{site.baseurl}}/images/20221029_164940.jpg" alt="image" width="60%">
+ <img src="../assets/images/art/20221029_164940.jpg" alt="image" width="60%">
 </div>
 
 <div style="text-align: center;">
- <img src="{{site.baseurl}}/images/20221029_163442.jpg" alt="image" width="60%">
+ <img src="../assets/images/art/20221029_163442.jpg" alt="image" width="60%">
 </div>
 
 I also built my DIY wooden chess set
@@ -115,6 +118,6 @@ Amici Sumus
 
 I'd love to hear your thoughts on today's post. Feel free to share your favorite chess strategy or ask any questions you may have.
 
-> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
+> **Note:** [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)

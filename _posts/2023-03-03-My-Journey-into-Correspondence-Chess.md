@@ -1,10 +1,11 @@
 ---
 layout: post
+comments: true
 Title: My Journey into Correspondence Chess and Unexpected Recognition
 Date: 2023-03-03
-tags: [USCF, tournament, correspondence-chess, Senior-Chess-Improver]
-image:  '/images/110.jpg'
-description: Discover the valuable lessons I learned from facing off against seasoned players and how an unexpected recognition in the chess community marked a significant milestone in my chess adventure.
+Categories: [chess, tournament, correspondence chess, chesspunks]
+Tags: [chess, USCF, tournament, Electronic Knights, correspondence chess, improvement, learning, recognition, senior chess players]
+excerpt: Discover the valuable lessons I learned from facing off against seasoned players and how an unexpected recognition in the chess community marked a significant milestone in my chess adventure.
 ---
 
 ## A New Chapter in My Chess Journey: Correspondence Chess Debut
@@ -39,31 +40,43 @@ The recognition, the camaraderie, and the strategies learned through corresponde
 
 To fellow chess enthusiasts, I extend the message that our journey in chess is never-ending. It's a journey of continuous improvement, camaraderie, and unexpected recognition that can reshape the way we perceive the game and ourselves within it.
 
-**Source: Check Is In The Mail - July 2021**
+**Source: Check is in the mail; Larry Cox**
+>For our final game this month I wanted to showcase the following effort from Christopher Ward and Egbert Schroeer in the 2021 Electronic Knights section 21EN09. It started on May 17th and was finished by May 26th, veritable 'speed chess' by correspondence standards!
+>
+> The game starts out as a London Opening. Schroeer, as Black, starts to turn the tide with 6....c5 and 7....Qb6 leading to a shift in the opening favoring Black. Black then uses his 7-9th moves to divert White’s queen and bishop battery from the b1-h7 diagonal and throw White’s development into disarray. He later sacs a pawn with 16...e5. Shortly afterward, it appears White misjudges and with 18.Nxe4 allows Black to protect his advanced passed pawn. Ward starts to block the position with pawns but, after Black regains his pawn on move 21, Schroeer craftily pries open the position and goes up a pawn of his own.
+>
+> After that, Black skillfully liquidated into a won endgame, finishing things off by almost completely paralyzing White by the 34th move.
+>
+> Check this one out – well worth a look. Personally, I was very impressed by the clarity of Egbert’s path to 'winning this won game'. And, thanks to Mr. Ward for sending it in."
 
-<div style="border: 1px solid white; padding: 10px">
-     <blockquote style="font-size: 20px; font-style: italic; font-weight: 400;">
-For our final game this month I wanted to showcase the following effort from Christopher Ward and Egbert Schroeer in the 2021 Electronic Knights section 21EN09. It started on May 17th and was finished by May 26th, veritable 'speed chess' by correspondence standards!
-<br><br>
-The game starts out as a London Opening. Schroeer, as Black, starts to turn the tide with 6....c5 and 7....Qb6 leading to a shift in the opening favoring Black. Black then uses his 7-9th moves to divert White’s queen and bishop battery from the b1-h7 diagonal and throw White’s development into disarray. He later sacs a pawn with 16...e5. 
-<br><br>
-Shortly afterward, it appears White misjudges and with 18.Nxe4 allows 
-Black to protect his advanced passed pawn. Ward starts to block the position with pawns but, after Black regains his pawn on move 21, Schroeer craftily pries open the position and goes up a pawn of his own.
-<br><br>
-After that, Black skillfully liquidated into a won endgame, finishing things off by almost completely paralyzing White by the 34th move.
-Check this one out – well worth a look. Personally, I was very impressed by the clarity of Egbert’s path to 'winning this won game'. And, thanks to Mr. Ward for sending it in.
-<br>
-<cite>Larry Cox</cite>
-  </blockquote>
-</div>
-
-
-<br>
 ## Game Replay
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=2QdhAoZEtoFSHkv8jAi0SfQL1S9zovEb8LeNxCd0ZF3/vWnIbDPuFbBPRnIG1OiN'></iframe>
 
+<div class="cbreplay">
+[Event "USCF 21EN09 - 2021 Electronic Knights"]
+[Site "?"]
+[Date "2021.05.17"]
+[Round "?"]
+[White "Ward, Christopher"]
+[Black "Schroeer, Egbert"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1549"]
+[Annotator "Tactical Analysis 6.4"]
+[PlyCount "70"]
+[Beauty "7975351619622"]
+[EventDate "2021.05.17"]
+[EventType "corr"]
+[EventCountry "USA"]
+[SourceVersionDate "2021.05.17"]
+[WhiteTeam "Ward, Christopher"]
+[BlackTeam "Schroeer, Egbert"]
+
+1. d4 d5 2. Bf4 Nf6 3. Nf3 g6 4. e3 Bg7 5. h3 O-O 6. Bd3 c5 7. c3 (7. dxc5 Nfd7 8. Nc3 e5 $15) 7... Qb6 {D02: 1 d4 d5 2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4.} 8. Qc2 c4 9. Be2 Bf5 {The position is equal.} 10. Qc1 Nbd7 {[#]} 11. g4 $146 ({Predecessor:} 11. Nbd2 h5 12. O-O Rfc8 13. Nh4 Be6 14. f3 Qc6 15. Qc2 Kh7 16. e4 Bh6 17. Bxh6 Kxh6 {0-1 Azevedo Junior,J-Amorim,G Paraense-ch Belem 2013 (4)}) 11... Bd3 {Black is more active.} 12. Ne5 Nxe5 13. Bxe5 Ne4 {[#] Threatens to win with ...Bxe5.} 14. Bxg7 Kxg7 15. Bxd3 cxd3 16. Nd2 {[#]} e5 $1 17. dxe5 (17. Nxe4 dxe4) 17... f5 18. Nxe4 dxe4 (18... fxe4 19. Qd2 $17) 19. g5 Rad8 20. Qd2 {White is weak on the light squares} Qe6 21. f4 exf3 $2 {-2.65/26} (21... Rh8 $15 {-0.60/24}) 22. O-O $19 Qd5 ({Worse is} 22... Qxe5 23. Rxf3 Rfe8 24. Raf1 $17) 23. Qh2 Rfe8 24. Rad1 Qxa2 25. Rxf3 Qa4 26. Rd2 Qe4 27. Kf2 Rxe5 (27... Qxe5 28. Qxe5+ Rxe5 29. Rf4 $11) 28. Qf4 a5 29. Qxe4 $2 {-5.06/22} (29. h4 {-3.05/25}) 29... fxe4 {Endgame. KRR-KRR. Black is clearly winning.} 30. Rf4 Rf8 {Strongly threatening ...Rxf4+.} ({Stronger than} 30... Rxg5 31. Rxe4 Rd6 32. Kf3 $15) 31. Rxf8 Kxf8 32. Kg3 Rf5 ({Inferior is} 32... Rxg5+ 33. Kf4 Rh5 34. Kxe4 $17) 33. Kg4 a4 34. Rd1 b5 35. h4 Rf2 {White did not feel at home in the position after the opening.   Weighted Error Value: White=0.33/Black=0.04 (flawless) .  Mistake:       	White=1     	Black=1      Inaccurate:     	White=2     	---        OK:         	White=15    	Black=14     Best:        	White=1     	---} 0-1
+</div>
+
+> **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+
+**Published Article Context: Check Is In The Mail - July 2021**
 
 Here is the link to [Check Is In The Mail - July 2021](https://new.uschess.org/news/check-mail-july-2021)
-
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)

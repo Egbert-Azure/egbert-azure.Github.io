@@ -1,15 +1,18 @@
 ---
 layout: post
+comments: true
 title: Inside the Electronic Knights Tournament 2021
-tags: [chess, tournament, USCF, electronic-knights]
-description: Into the heart of the Electronic Knights Tournament 2021, a realm where tradition meets technology, as skilled players engage in a saga of skill, strategy, and the relentless pursuit of excellence on the digital chessboard.
+categories: [chess, tournament]
+tags: 
+excerpt: Into the heart of the Electronic Knights Tournament 2021, a realm where tradition meets technology, as skilled players engage in a saga of skill, strategy, and the relentless pursuit of excellence on the digital chessboard.
 date: 2023-12-08
-image:  '/images/roadtoelo200.jpeg'
 ---
 
-({{ site.baseurl }}/tournaments/)
+<div style="text-align: center;">
+<img src="../assets/images/art/roadtoelo200.jpeg" alt="image" width="50%">
+</div>
 
-First things first: I made it -and I never expected it- I reached the finals of the Electronic Knights Tournament 2021. In my [previous blog]({{ site.baseurl }}/2023/10/27/climbing-the-ladder/) on October 27th, I highlighted my last game in the semi-final section 21Ns03 against Herb Wolfe, which brought me to a USCF ELO rating of 2054.
+First things first: I made it -and I never expected it- I reached the finals of the Electronic Knights Tournament 2021. In my [previous blog](https://egbert-azure.github.io/climbing-the-ladder/) on October 27th, I highlighted my last game in the semi-final section 21Ns03 against Herb Wolfe, which brought me to a USCF ELO rating of 2054.
 
 Does anyone still doubt that playing chess keeps you young? Does anyone still doubt a senior chess player is not able to improve?
 
@@ -105,6 +108,6 @@ Amici Sumus
 
 I'd love to hear your thoughts on today's post. Feel free to share your favorite chess strategy or ask any questions you may have.
 
-> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> **Note:** [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
+> **Note:** [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)

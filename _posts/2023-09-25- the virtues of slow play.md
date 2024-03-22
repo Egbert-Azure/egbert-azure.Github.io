@@ -1,11 +1,13 @@
 ---
 title: "Rediscovering the Essence of Chess - The Virtues of Slow Play"
-description: "Exploring the beauty and benefits of slow chess in a fast-paced world. Find out why you don't improve with Blitz and Rapid"
+excerpt: "Exploring the beauty and benefits of slow chess in a fast-paced world. Find out why you don't improve with Blitz and Rapid"
 layout: post
 date: 2023-09-25
-tags: [correspondence-chess]
-image:  '/images/The Knights.jpeg'
 ---
+
+<p align="center" class="center">
+    <img src="../assets/images/art/The Knights.jpeg" alt="Alt text" width="40%" style="display: block; margin: auto;">
+</p>
 
 # Food for Thought:
 
@@ -100,7 +102,7 @@ The essence of my message is this: embracing slower forms of chess can be a path
 
 Please send feedback and comments any time!
 
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
 
-> [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)
+> **Note:** [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)
 

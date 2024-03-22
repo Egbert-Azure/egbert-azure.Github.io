@@ -1,11 +1,14 @@
 ---
 title: "Navigating the Giants: My Journey in the 13th ICCF Veterans’ World Cup"
 layout: post
-description: "The inspiring odyssey into the world of senior chess enthusiasts as I navigate the fierce competition and enduring passion of the 13th ICCF Veterans’ World Cup."
-tags: [chess, correspondence-chess, ICCF]
+excerpt: "The inspiring odyssey into the world of senior chess enthusiasts as I navigate the fierce competition and enduring passion of the 13th ICCF Veterans’ World Cup."
+tags: [chess, correspondence chess]
+categories: [chess, correspondence chess, tournament]
 date: 2023-10-02
-image:  '/images/OIGt.jpeg'
 ---
+<p align="center">
+    <img src="{{ site.baseurl }}/assets/images/art/OIGt.jpeg" style="display: block; margin: auto;" width="50%">
+</p>
 
 # Introduction
 
@@ -83,13 +86,13 @@ As the preliminary stage concluded, I had not only survived but thrived in a fie
 And what a surprise, again I was paired against IM Ilyasov among others. A strong IM but I know he is playing risk adverse style and traditional lines. So, I managed getting a draw, which is a good result against an International Master. I played English Opening (A17) and his answer and defense strategy very classic.
 
 <p align="center">
-    <img src="{{ site.baseurl }}/images/image-10.png" alt="Alt text" width="50%">
+    <img src="{{ site.baseurl }}/assets/images/image-10.png" alt="Alt text" width="50%">
 </p>
 
 Later on he layed out a fantastic trap with 20... f4+
 
 <p align="center">
-    <img src="{{ site.baseurl }}/images/image-9.png" alt="Alt text" width="50%">
+    <img src="{{ site.baseurl }}/assets/images/image-9.png" alt="Alt text" width="50%">
 </p>
 
 A rather calm draw, but a fantastic game!   
@@ -123,16 +126,16 @@ I was amazed!
 My boosted ICCF rating so far, after mandatory amount of games played and provisional rating removed:
 
 <div style="text-align:center">
-    <img src="{{site.baseurl}}/images/rating ICCF.png" alt="Alt text" width="60%">
+    <img src="../assets/images/rating ICCF.png" alt="Alt text" width="60%">
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="{{site.baseurl}}/images/gameswon.png" alt="Games Won" style="width: 5%;">
+    <img src="../assets/images/gameswon.png" alt="Games Won" style="width: 5%;">
     <p style="margin-left: 20px;">22 games won</p>
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="{{ site.baseurl }}/images/tournaments.png" alt="Tournaments Played" style="width: 5%;">
+    <img src="../assets/images/tournaments.png" alt="Tournaments Played" style="width: 5%;">
     <p style="margin-left: 20px;">9 tournaments played</p>
 </div>
 
@@ -160,6 +163,6 @@ Stay tuned for the next part of my journey as I continue to navigate the giants 
 
 Please send feedback and comments any time!
 
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> **Note:** [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
 
-> [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)
+> **Note:** [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)
