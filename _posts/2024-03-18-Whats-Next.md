@@ -2,15 +2,9 @@
 layout: post
 title: "What's next? Continues improvement and finding the right tools"
 date: 2024-03-18
-<<<<<<< HEAD
-tags: [chess, tools, technology]
-description:  "In the pursuit of chess mastery, the search for effective tools and resources is ongoing. Join me as I explore my journey towards improvement and the latest innovations in chess technology."
-image:  '/images/hunter-haley-s8OO2-t-HmQ-unsplash.jpg'
-=======
 categories: [Chess, Tools, Technology]
 tags: [chess, theory, openings, DIY eBoards, ChessCam]
 excerpt: "In the pursuit of chess mastery, the search for effective tools and resources is ongoing. Join me as I explore my journey towards improvement and the latest innovations in chess technology."
->>>>>>> parent of 9830bf5 (website redployment with new theme)
 ---
 
 
