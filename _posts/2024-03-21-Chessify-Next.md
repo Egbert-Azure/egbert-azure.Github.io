@@ -74,7 +74,7 @@ Subsequently, using the standard PGN from the ICCF website, I subjected it to Ch
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=yFHpqEPJQk5D3BZo3YSiU/Q4FP/Cm3qRxfMH3qPDHuakP01X9doz7tvtMuATRRav'></iframe>
 
-The disparity is stark! Chessify flagged move 33. ..g5?! as a Black inaccuracy, favoring White with a 1.01-point advantage, only to later suggest the erroneous move 34. Bd2!? for White, erroneously indicating a minor advantage. The correct alternative, 34. Qd2, was overlooked.
+The disparity is stark! Chessify flagged move 33. ..g5?! as a Black inaccuracy, favoring White with a 1.01-point advantage, only to later suggest the erroneous move 34. Bd2!? for White, erroneously indicating a minor advantage. That this was the only correct move was overlooked and really weird, Chessify suggested then the alternative 34. Qd2, which is exactly the move I made.
 
 In contrast, Lichess failed to identify any flaws:
 
