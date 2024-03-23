@@ -64,13 +64,13 @@ Subsequently, I requested a thorough analysis with a depth of 30:
 
 Initial impressions suggested parity with industry staples like ChessBase or Lichess, yet reality proved otherwise. Utilizing a recent challenging game from the 2024 Champions League, I instructed Chessify to analyze via the ChessBase plugin, employing *Fine* and *9s* parameters. The game, characterized by a tense climax resulting in a draw, exposed a significant discrepancy:
 
-1. ChessBase Tactical Analysis
+#### ChessBase Tactical Analysis
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=nNnDqfUIXcgWG1elveS60I0zIeLvvKgmmmwDFpbsiMIiR7OuL75ArDMSGRmDPPpW'></iframe>
 
 Subsequently, using the standard PGN from the ICCF website, I subjected it to Chessify's full game analysis, configured with a depth of 20, which is the standard preset on the the website.
 
-2. Chessify Full Game Analysis
+#### Chessify Full Game Analysis
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=yFHpqEPJQk5D3BZo3YSiU/Q4FP/Cm3qRxfMH3qPDHuakP01X9doz7tvtMuATRRav'></iframe>
 
