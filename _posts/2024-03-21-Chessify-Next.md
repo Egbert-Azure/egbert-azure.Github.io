@@ -100,3 +100,9 @@ Chessify support team
 
 In the ever-evolving landscape of chess technology, Chessify emerges as a promising contender. Its integration of the ICCF database heralds a new era of accessibility and analysis. However, discrepancies in analysis accuracy and the disjointed nature of its mobile app underscore areas for improvement. As enthusiasts, we eagerly anticipate advancements that align with the seamless, intuitive experience we crave in our pursuit of chess excellence.
 
+**Amici Sumus**
+
+
+> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+
+> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
