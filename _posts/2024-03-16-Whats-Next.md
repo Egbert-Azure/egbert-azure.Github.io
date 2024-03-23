@@ -2,7 +2,7 @@
 layout: post
 title: "What's next? Continues improvement and finding the right tools"
 date: 2024-03-16
-tags: [chess, tools, technology]
+tags: [chess, tools, technology, UltraCorr23, Noctie.ai]
 description:  "In the pursuit of chess mastery, the search for effective tools and resources is ongoing. Join me as I explore my journey towards improvement and the latest innovations in chess technology."
 image:  '/images/hunter-haley-s8OO2-t-HmQ-unsplash.jpg'
 ---
