@@ -13,7 +13,13 @@ Photo by <a href="https://unsplash.com/@thefatdash?utm_content=creditCopyText&ut
 
 # Website Update
 
-I made a significant change to my blog page which includes some new features including topic tags, featured blog posts with a beautiful and modern design which is also great on mobile devices. If there is still any hickup, bare with me, or even better: drop me a note.
+I made a significant change to my blog page which includes some new features including topic tags, featured blog posts with a beautiful and modern design which is also great on mobile devices. Additonally search is enabled now and makes it easier to find topics of interest. 
+
+If there is still any hickup, bare with me, or even better: drop me a note.
+
+If you like it: drop me a note or comment
+
+If you don't like it: yeah, you know what to do
 
 ## Introduction
 
