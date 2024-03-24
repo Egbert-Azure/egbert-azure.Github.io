@@ -111,7 +111,7 @@ sass:
   style: compressed
 
 # Exclude from processing.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - readme.md
+# exclude:
+#  - Gemfile
+#  - Gemfile.lock
+#  - readme.md
