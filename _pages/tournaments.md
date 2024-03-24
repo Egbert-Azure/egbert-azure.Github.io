@@ -22,8 +22,25 @@ In USCF tournaments, you play one game with each opponent for six games, 3 with 
 
 ## Electronic Knights
 
+### 2024 Electronic Knights Preliminary
+[Crosstable 24EN02](https://www.iccf.com/event?id=104701)
+
+- Egbert Schroeer rating: 2008
+- Start Date: 8/11/23 
+- End Date: 2/11/26
+
+### 2023 Electronic Knights Preliminary
+
+- Egbert Schroeer rating: 2008
+- Start Date: 8/11/23 
+- End Date: 2/11/26
+
 ### 2021 Electronic Knights Finals 
 [Crosstable 21ENf01](https://www.iccf.com/event?id=104617)
+
+- Egbert Schroeer rating: 2056
+- Start Date: 2/2/2024 
+- End Date: 8/2/2026
 
 Electronic Knights moved to ICCF Server, but played under USCF rules and rankings.
 
@@ -45,15 +62,15 @@ Electronic Knights moved to ICCF Server, but played under USCF rules and ranking
 
 ### 2021 Electronic Knights Championship - Preliminary Round: 21EN15 
 - Egbert Schroeer rating: 1933
-- Start Date: x/x/xx
-- End Date: 9/1/25
+- Start Date: 
+- End Date: 
 
 **Section result:**
 
 ### 2021 Electronic Knights Championship - Preliminary Round: 21EN09 
 - Egbert Schroeer rating: unrated
-- Start Date: x/x/xx
-- End Date: 9/1/25
+- Start Date: 
+- End Date: 
 
 **Section result:**
 
