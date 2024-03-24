@@ -1,7 +1,7 @@
 ---
 title: Mastering Chess Calculation - Unpacking the Power of Chunks
 layout: post
-tags: [chess, calculation, chunks, chess-strategy, UltraCorr23, Chessbase]
+tags: [chess, calculation, chunks, chess-strategy, UltraCorr23, ChessBase]
 description: "Explore the concept of chunks in chess calculation and learn how to enhance this crucial aspect of your game. Discover how the power of chunks can improve your chess skills and the difference between club players and Grandmasters in terms of chunk knowledge."
 date: 2023-10-31
 image:  '/images/TrickorCheckmate.jpeg'

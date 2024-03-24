@@ -3,7 +3,7 @@ layout: post
 title: "The ChessNut Air Eboard: Elevating Club Players' Chess Experience"
 description: "A quick overview about ChessNut Air eboard and how to improve your chess with such a board."
 date: 2023-11-24
-tags: [ChessNut Air, eboard, Chessbase]
+tags: [ChessNut Air, eboard, ChessBase]
 image:  '/images/correspondence-chess.jpeg'
 ---
 
