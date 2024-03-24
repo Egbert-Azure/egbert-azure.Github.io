@@ -1,7 +1,7 @@
 ---
 title: "Opponents Preliminary Round and Semi-Final"
 layout: post
-section: Preliminary Round and Semi-Final
+section: Opponents Preliminary Round and Semi-Final
 tags: [Opponents]
 ---
 

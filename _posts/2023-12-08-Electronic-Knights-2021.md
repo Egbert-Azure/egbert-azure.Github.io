@@ -7,7 +7,7 @@ date: 2023-12-08
 image:  '/images/roadtoelo200.jpeg'
 ---
 
-({{ site.baseurl }}/tournaments/)
+## Introduction
 
 First things first: I made it -and I never expected it- I reached the finals of the Electronic Knights Tournament 2021. In my [previous blog]({{ site.baseurl }}/2023/10/27/climbing-the-ladder/) on October 27th, I highlighted my last game in the semi-final section 21Ns03 against Herb Wolfe, which brought me to a USCF ELO rating of 2054.
 
