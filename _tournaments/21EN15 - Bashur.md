@@ -3,7 +3,7 @@ title: "Electronic Knights Prelim"
 layout: post
 name: Bashur, Michael
 section: 21EN15
-tags: annotated-game, 21EN15
+tags: [annotated-game, 21EN15]
 ---
 
 <h2>{{ page.section }}</h2>

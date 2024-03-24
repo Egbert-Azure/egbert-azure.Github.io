@@ -3,7 +3,7 @@ title: "Electronic Knights Prelim"
 layout: post
 name: Lomnicki, Slawo
 section: 21EN09
-tags: annotated-game, 21EN09
+tags: [annotated-game, 21EN09]
 ---
 
 <h2>{{ page.section }}</h2>

@@ -3,7 +3,7 @@ title: "Electronic Knights Semi-Final"
 layout: post
 name: Nohr, Mathew
 section: 21ENs03
-tags: annotated-game, 21ENs03
+tags: [annotated-game, 21ENs03]
 ---
 
 <h2>{{ page.section }}</h2>

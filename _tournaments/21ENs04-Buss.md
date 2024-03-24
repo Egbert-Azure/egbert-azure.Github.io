@@ -3,7 +3,7 @@ title: "Electronic Knights Semi-Final"
 layout: post
 name: Buss, Michael
 section: 21ENs04
-tags: annotated-game, 21ENs04
+tags: [annotated-game, 21ENs04]
 ---
 
 <h2>{{ page.section }}</h2>
