@@ -3,7 +3,7 @@ layout: post
 title: Creating a ChessBase Tournament Database for Correspondence Chess
 description: Learn how to efficiently create and manage a ChessBase tournament database for correspondence chess, track your games, and generate a comprehensive crosstable.
 image:  '/images/tobias-fischer-PkbZahEG2Ng-unsplash.jpg'
-tags: [ChessBase, correspondence-chess, USCF, tutorial]
+tags: [chessbase, correspondence-chess, USCF, tutorial]
 date: 2023-08-12
 ---
 

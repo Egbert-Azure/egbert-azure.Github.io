@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Road to ELO 2000 - the New Unknown in My Chess Journey
-tags: [chess, opening, repertoire, Pirc, ChessBase]
+tags: [chess, opening, repertoire, Pirc, chessbase]
 description: Building upon the lessons learned from my previous pursuit, I continue to push the boundaries of my chess understanding, exploring the unknown in openings and strategies.
 date: 2023-09-11
 image:  '/images/45.jpg'

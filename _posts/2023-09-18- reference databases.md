@@ -2,7 +2,7 @@
 title: "Leveraging Chessbase with Mega Database and UltraCorr23 for Correspondence Chess Excellence"
 date: 2023-09-18
 layout: post
-tags: [chess, ChessBase, correspondence-chess, Mega-Database, UltraCorr23, reference-databases]
+tags: [chessbase, correspondence-chess, Mega-Database, UltraCorr23, reference-databases]
 description: Explore how Chessbase with Mega Database and UltraCorr23 can enhance your correspondence chess skills and preparation.
 image:  '/images/deep thought.jpg'
 ---

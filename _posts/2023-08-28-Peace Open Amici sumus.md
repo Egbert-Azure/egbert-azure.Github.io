@@ -4,7 +4,7 @@ title: "Amici Sumus: Finding Unity and Strength in Chess - My Journey at the Pea
 date: 2023-08-28
 image:  '/images/ukrainechurch.jpg'
 description: "The 'Peace Open Amici Sumus Chess Tournament,' a celebration of unity and solidarity for Ukraine in the world of chess."
-tags: [chess, tournament, ukraine, Peace-Open-Tournament, ChessBase]
+tags: [chess, tournament, ukraine, Peace-Open-Tournament, chessbase]
 ---
 
 ### Introduction

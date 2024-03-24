@@ -2,7 +2,7 @@
 title: "Opponents Preliminary Round and Semi-Final"
 layout: post
 section: Preliminary Round and Semi-Final
-tags: Opponents
+tags: [Opponents]
 ---
 
 The Electronic Knights section is part of the US Chess correspondence tournaments¹. In each round, sections consist of seven players. Each player is assigned six games in each round of play, three with White and three with Black³. Preliminary round sections are paired as entries are received³. Players who score four and a half (4½) or more points (not weighted-point totals) in a section will advance to the next round³. The standings for the Electronic Knights section are updated regularly¹²⁴.

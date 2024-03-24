@@ -3,7 +3,7 @@ layout: post
 title: USCF 21ENs03 - Game with M. Nohr
 date: 2023-08-10
 image:  '/images/kingblack.jpg'
-tags: [chess, USCF, tournament, electronic-knights]
+tags: [chess, USCF, tournament, electronic-knights, chessbase]
 description: A fascinating recent chess match that unexpectedly brought me face-to-face with my virtual chess friend, Matt Nohr. From our collaborative efforts on a cluster chess engine to an intriguing tournament showdown, discover the moves, strategies, and camaraderie that make this game a memorable episode in my chess story.
 ---
 
