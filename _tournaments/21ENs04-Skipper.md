@@ -1,5 +1,5 @@
 ---
-title: "Electronic Knights Semi-Final"
+title: "Electronic Knights 2021 Semi-Final"
 layout: post
 name: Skipper, Robert Boyd
 section: 21ENs04

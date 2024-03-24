@@ -1,5 +1,5 @@
 ---
-title: "Electronic Knights Prelim"
+title: "Electronic Knights 2021 Prelim"
 layout: post
 name: Lomnicki, Slawo
 section: 21EN09
