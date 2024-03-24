@@ -49,6 +49,8 @@ social:
 - {icon: "ion-logo-mastodon", link: "https://mastodon.online/@EgbertS"}
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/egbert-schroeer/"}
 - {icon: "ion-logo-rss", link: "https://follow.it/senior-chess-improver?leanpub"}
+# - {icon: "images/bmc-logo.svg", link: "https://www.buymeacoffee.com/chesslife"} doesnt work
+
 #-------------------------------
 # Comment Section (Disqus)
 disqus-identifier: https-egbert-azure-github-io # Add your shortname for Disqus Comment. For example anvodstudio-demo
@@ -107,3 +109,9 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - readme.md
