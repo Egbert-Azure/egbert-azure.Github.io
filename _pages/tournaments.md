@@ -110,20 +110,23 @@ Section result so far: 1 win, 3 draws, 1 loss.
 </div>
 
 
-## ICCF tournaments & USCF friendly matches
+## ICCF tournament & friendly matches
 
 | Name                                               | Start Date | Status   | Link |
 |----------------------------------------------------|------------|----------|------|
+| Champions League 2024 C2 Board 4                   | 2/25/2024 | Running  | [Link](https://www.iccf.com/event?id=102157) |
+| Veterans World Cup 13 Semi-Final 9                 | 6/15/2023 | Running  | [Link](https://www.iccf.com/event?id=105050) |
+| Netherlands - USA Friendly Match 2023 Board 28     | 11/21/2023 | Running  | [Link](https://www.iccf.com/event?id=104112) |
 | VWC14, ICCF Veterans World Cup 14 pr. 25           | 9/1/2023   | Running  | [Link](https://www.iccf.com/event?id=102886) |
 | VWC14, ICCF Veterans World Cup 14 pr. 56           | 9/1/2023   | Running  | [Link](https://www.iccf.com/event?id=102917) |
 | ICCF Veterans World Cup 13 Semi-Final 9            | 6/15/2023  | Running  | [Link](https://www.iccf.com/event?id=102157) |
-| Switzerland - USA 2023 Board 20                    | 4/14/2023  | Running  | [Link](https://www.iccf.com/event?id=100532) |
-| Hungary - USA Friendly Match 2022 Board 18         | 12/26/2022 | Finished | [Link](https://www.iccf.com/event?id=101708) |
-| Germany - USA Friendly Match 2022 Board 83         | 10/12/2022 | Running  | [Link](https://www.iccf.com/event?id=99816) |
-| WS/CCE/A/30                                       | 9/29/2022  | Running  | [Link](https://www.iccf.com/event?id=99566) |
+| Switzerland - USA 2023 Board 20                    | 4/14/2023  | Running  | [Link](https://www.iccf.com/event?id=101708) |
+| Hungary - USA Friendly Match 2022 Board 18         | 12/26/2022 | Finished | [Link](https://www.iccf.com/event?id=100532) |
+| Germany - USA Friendly Match 2022 Board 83         | 10/12/2022 | Finished | [Link](https://www.iccf.com/event?id=99816) |
+| WS/CCE/A/30                                       | 9/29/2022  | Finished  | [Link](https://www.iccf.com/event?id=99566) |
 | Finland - USA Friendly Match 2022 Board 18         | 7/26/2022  | Finished | [Link](https://www.iccf.com/event?id=98691) |
-| Peace Open "Amici sumus" Group 28                  | 5/1/2022   | Running  | [Link](https://www.iccf.com/event?id=97909) |
-| Peace Open "Amici sumus" Group 29                  | 5/1/2022   | Running  | [Link](https://www.iccf.com/event?id=97910) |
+| Peace Open "Amici sumus" Group 28                  | 5/1/2022   | Finished | [Link](https://www.iccf.com/event?id=97909) |
+| Peace Open "Amici sumus" Group 29                  | 5/1/2022   | Finished  | [Link](https://www.iccf.com/event?id=97910) |
 | WZ Individual Championship Preliminaries Group 36  | 1/5/2022   | Finished | [Link](https://www.iccf.com/event?id=96436) |
 | WZ Individual Championship Preliminaries Group 34  | 11/30/2021 | Finished | [Link](https://www.iccf.com/event?id=96017) |
 | WZ Individual Championship Preliminaries Group 35  | 11/30/2021 | Finished | [Link](https://www.iccf.com/event?id=96146) |
