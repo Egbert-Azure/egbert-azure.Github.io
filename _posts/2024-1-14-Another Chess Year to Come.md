@@ -5,7 +5,6 @@ tags: [chess improvement, opening-repertoire, chess-strategies]
 description: Reflecting on the challenges of the new year, the impact of war on Ukrainian chess players, and celebrating the resilience of the chess community.
 date: 2024-01-15
 image:  '/images/park6.jpg'
-featured: true
 ---
 
 *Central Kyiv park gathers chess players all year long (2017)*
