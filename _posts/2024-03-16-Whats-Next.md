@@ -161,7 +161,7 @@ In my next blog, I will update you on the games and how I do in the tournaments.
 **Amici Sumus**
 
 
-> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
 
 
 

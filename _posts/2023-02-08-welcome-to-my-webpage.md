@@ -33,7 +33,7 @@ Your fellow chess improver, Egbert
 
 **Footnotes:**
 
-[Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+Please subscribe
 
 1. For an in-depth exploration of building a remote cluster for the Stockfish Chess Engine, check out my article on LinkedIn: [Building a Remote Cluster for Stockfish Chess Engine](https://www.linkedin.com/pulse/building-remote-cluster-stockfish-chess-engine-egbert-schr%C3%B6er/).
 
@@ -43,4 +43,4 @@ Your fellow chess improver, Egbert
 
 Let these articles and the GitHub repository be your guiding light in your pursuit of understanding and implementing the Stockfish Chess Engine in a remote cluster setup. Happy reading and coding!
 
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> Please subscribe

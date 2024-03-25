@@ -118,7 +118,7 @@ So, why not take time out and enjoy an hour of great chess coaching! In the “6
 
 I'd love to hear your thoughts on today's post. Feel free to share your favorite chess strategy or ask any questions you may have.
 
-> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
 
 
 

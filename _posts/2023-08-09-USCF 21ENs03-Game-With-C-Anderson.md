@@ -26,4 +26,4 @@ As always, I'd like to invite you to explore the game below and draw your conclu
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=O8b5vJb/1NPMJVoJesJj+5nOP5v/jz9d/h7gOqKIGbPBVQoKQaQpElqfm1Id7jFW'></iframe>
 
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> Please subscribe

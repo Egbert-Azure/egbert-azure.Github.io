@@ -117,6 +117,6 @@ Keep evolving, keep playing, and keep discovering.
 
 Amici Sumus
 
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> Please subscribe
 
  

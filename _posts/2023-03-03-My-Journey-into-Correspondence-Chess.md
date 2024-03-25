@@ -66,4 +66,4 @@ Check this one out – well worth a look. Personally, I was very impressed by th
 
 Here is the link to [Check Is In The Mail - July 2021](https://new.uschess.org/news/check-mail-july-2021)
 
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> Please subscribe

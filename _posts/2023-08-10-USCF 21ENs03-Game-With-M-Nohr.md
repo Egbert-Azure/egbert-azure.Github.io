@@ -23,4 +23,4 @@ I'm also excited to share that Matt Nohr has his own chess blog site, where he d
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=+834yvhmPHQfhNkQEvVfjFyAIccz11gol+nAovyyDMDu7RNnaPmkVlycqRpe3p3X'></iframe>
 
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> Please subscribe

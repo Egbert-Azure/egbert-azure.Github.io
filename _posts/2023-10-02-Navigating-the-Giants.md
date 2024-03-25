@@ -160,5 +160,5 @@ Stay tuned for the next part of my journey as I continue to navigate the giants 
 
 Please send feedback and comments any time!
 
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> Please subscribe
 

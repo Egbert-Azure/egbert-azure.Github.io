@@ -28,7 +28,7 @@ In my journey, I've found joy in exploring my roots through genealogy and challe
 Best regards,
 Egbert Schroeer
 
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> Please subscribe
 
 My LinkedIn Profile
 

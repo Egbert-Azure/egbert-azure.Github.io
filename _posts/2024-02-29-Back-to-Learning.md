@@ -56,6 +56,6 @@ Happy studying!
 
 Amici Sumus
 
-> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
 
 

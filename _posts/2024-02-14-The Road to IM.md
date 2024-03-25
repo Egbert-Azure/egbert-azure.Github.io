@@ -86,5 +86,5 @@ I welcome your thoughts and encourage other senior players to keep pursuing ches
 
 **Don't miss the puzzle and game of the [week]( https://chess.myvortexcloud.com/Puzzle/)**
 
-> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
 

@@ -125,6 +125,6 @@ As players continue to embrace these tools, the lines between human and machine 
 
 Please send feedback and comments any time!
 
-> [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
+> Please subscribe
 
 
