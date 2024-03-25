@@ -105,4 +105,3 @@ In the ever-evolving landscape of chess technology, Chessify emerges as a promis
 
 > [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)

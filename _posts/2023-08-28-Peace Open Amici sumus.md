@@ -153,6 +153,6 @@ Leave your comments, thoughts and stay tuned for more insights, stories, and les
 
 > [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
 
-> [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)
+
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="chesslife" data-description="Support me on Buy me a coffee!" data-message="Thank you for reading! You can buy me a coffee, which will be donated to Revived Soldiers of Ukraine! Thank you!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>

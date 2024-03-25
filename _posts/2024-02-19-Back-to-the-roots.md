@@ -86,4 +86,3 @@ I welcome your thoughts and encourage other senior players to keep pursuing ches
 
 > [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
 
-> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)

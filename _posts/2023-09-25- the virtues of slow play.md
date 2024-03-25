@@ -102,5 +102,5 @@ Please send feedback and comments any time!
 
 > [Subscribe to receive updates](https://follow.it/senior-chess-improver?leanpub)
 
-> [Follow me on Mastodon](https://mastodon.online/invite/mWSpfQP8)
+
 
