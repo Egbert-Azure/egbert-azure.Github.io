@@ -46,10 +46,9 @@ social:
 # - {icon: "ion-logo-youtube", link: "https://youtube.com"}
 - {icon: "ion-logo-github", link: "https://github.com/Egbert-Azure"}
 # - {icon: "ion ion-logo-vimeo", link: "https://vimeo.com/"}
-- {icon: "ion-logo-mastodon", link: "https://mastodon.online/@EgbertS"}
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/egbert-schroeer/"}
 - {icon: "ion-logo-rss", link: "https://follow.it/senior-chess-improver?leanpub"}
-# - {icon: "images/bmc-logo.svg", link: "https://www.buymeacoffee.com/chesslife"} doesnt work
+- {icon: "ion-md-cafe", link: "https://www.buymeacoffee.com/chesslife"}
 
 #-------------------------------
 # Comment Section (Disqus)
