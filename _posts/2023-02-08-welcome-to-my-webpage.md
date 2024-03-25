@@ -43,4 +43,4 @@ Please subscribe
 
 Let these articles and the GitHub repository be your guiding light in your pursuit of understanding and implementing the Stockfish Chess Engine in a remote cluster setup. Happy reading and coding!
 
-> Please subscribe
+> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 

@@ -99,4 +99,4 @@ So, whether engaging in a correspondence match or sitting across from an opponen
 
 Amici Sumus
 
-> Please subscribe
+> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 

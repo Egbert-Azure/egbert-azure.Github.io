@@ -74,5 +74,5 @@ Amici Sumus
 
 Please send feedback and comments any time!
 
-> Please subscribe
+> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
 

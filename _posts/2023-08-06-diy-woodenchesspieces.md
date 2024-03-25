@@ -115,6 +115,4 @@ The comments in the Chessnut Facebook group highlight ongoing issues with INDIAC
 
 - Link to [Chessnut Air DIY Sensor](https://www.chessnutech.com/products/separate-chips)
 
-> Please subscribe
-
-> [follow my blogs](https://chess.myvortexcloud.com)
+> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 

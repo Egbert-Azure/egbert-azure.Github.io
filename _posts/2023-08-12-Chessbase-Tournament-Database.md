@@ -98,7 +98,7 @@ I have updated the <a href="https://chess.myvortexcloud.com/the-road-to-elo-2000
     </blockquote>
 </div>
 
-> Please subscribe
+> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
 
 
 
