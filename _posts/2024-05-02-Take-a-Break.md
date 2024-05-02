@@ -33,6 +33,7 @@ Even if 21ENs04, the last game has no relevance, I wanted to finish "in style". 
   <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/game/?p=gKFTO4UQOjmhe96lsm3xErfFjbupSdOtQ177ukoVGHCwqP3/RSt9xvVt5lui01dnHM0PWE42e2F5EHWyMKSelQ=='></iframe>
 </div>
 
+
 The full overview of the 2021 Electronic Knights season can be found in the tournament section.
 
 See you next week
