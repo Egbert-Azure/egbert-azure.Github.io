@@ -3,7 +3,7 @@
 title: Chess
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Chess – Senior Chess Improver.
-baseurl: "https://chess.myvortexcloud.com" # The subpath of your site, e.g. /blog
+baseurl: "https://chess.myvortexcloud.com/" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -12,8 +12,6 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Egbert Schroeer
   avatar: '/images/15.jpg'
-
-
 #-------------------------------
 # Hero Settings
 hero:
