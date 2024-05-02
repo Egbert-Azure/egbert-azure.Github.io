@@ -5,7 +5,7 @@ date: 2024-02-24
 description: "Raising awareness about ethical concerns in chess amidst the Russian war and genocide in Ukraine."
 tags: [chess, ICCF, ethics, ukraine, russia]
 image:  '/images/ukraine.jpg'
-featured: true
+featured: false
 ---
 
 <div style="text-align: left; font-size: smaller;">

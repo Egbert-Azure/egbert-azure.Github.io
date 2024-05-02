@@ -5,6 +5,7 @@ description: "Achieving a norm is something I never expected. On Feb 2024 I reac
 date: 2024-02-14
 tags: [chess, USCF, ICCF, mindset]
 image:  '/images/CCE.jpg'
+featured: false
 ---
 
 
