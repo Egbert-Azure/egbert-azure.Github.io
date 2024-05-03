@@ -29,9 +29,7 @@ I finished the last game - finally - in the Electronic Knights 2021 Semi-Final 2
 
 Even if 21ENs04, the last game has no relevance, I wanted to finish "in style". At a certain point, my opponent offered me a draw, but I declined knowing I had a chance to win. A game for the statistics and improving the rating, but an exciting one. Check it out.
 
-<div style="display: flex; justify-content: center;">
-  <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/game/?p=gKFTO4UQOjmhe96lsm3xErfFjbupSdOtQ177ukoVGHCwqP3/RSt9xvVt5lui01dnHM0PWE42e2F5EHWyMKSelQ=='></iframe>
-</div>
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/game/?p=gKFTO4UQOjmhe96lsm3xErfFjbupSdOtQ177ukoVGHCwqP3/RSt9xvVt5lui01dnHM0PWE42e2F5EHWyMKSelQ=='></iframe>
 
 
 The full overview of the 2021 Electronic Knights season can be found in the tournament section.
