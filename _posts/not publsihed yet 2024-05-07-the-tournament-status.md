@@ -14,20 +14,22 @@ In my post [Where have you been](https://chess.myvortexcloud.com/2024/05/02/Take
 
 # Champions League 2024 C2 
 
+### CCM Michael Dudley
 Game against CCM Michael Dudley, whom I met multiple times. A game without drama, where my goal was just "don't lose". So, the calm game and draw was what I was going for against such stromg player, who has beaten me multiple times.
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=3iEYxaOgK0NSATSd68Hzy9kVGj81QTtMsfOF4PF/W+ULSjCUXn2Ge9VCQcXg59sr'></iframe>
 
+### CCM Paulo Adriano Matozo
 
-CCM Paulo Adriano Matozo
+I found this one a bit frustrating, because I had the feeling I could turn it into a win, but I was not able to. My position as Black was not bad at all. Check it out. Love to hear your thoughts on this one.
 
-https://www.iccf.com/game?id=1456973
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=yFqKDmPlnnWbbzo0wX823UMYtaqfEdh/oDgju3mRAVKygKt+1YHsAD7Xtzfig8mL'></iframe>
 
 CCM Amayak Martunikovich Babasyan
 
 Russian player, I offered every 10th move a draw until he accepted
 
-CCM Graziano Maioriello 
+CCM Graziano Maioriello
 
 https://www.iccf.com/game?id=1456982
 
