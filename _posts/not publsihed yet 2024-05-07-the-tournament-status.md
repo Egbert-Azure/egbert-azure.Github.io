@@ -10,13 +10,14 @@ featured: false
 
 <small>Photo by [Dulcey Lima](https://unsplash.com/@dulceylima?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/green-cactus-plants-under-blue-sky-hr1smkEtjzI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small>
 
-In my post [Where have you been](https://chess.myvortexcloud.com/2024/05/02/Take-a-Break/) I talked about intense tournaments and preliminary matches and reaching unexpectedly finals. I think it's a beginner failure when you start to play correspondence chess, get excited and see the format fits
+In my post [Where have you been](https://chess.myvortexcloud.com/2024/05/02/Take-a-Break/), I talked about intense tournaments and preliminary matches and unexpectedly reaching finals. I think it's a beginner failure when you start to play correspondence chess, get excited, and see the format fits.
 
 # Champions League 2024 C2 
 
-CCM Michael Dudley
+Game against CCM Michael Dudley, whom I met multiple times. A game without drama, where my goal was just "don't lose". So, the calm game and draw was what I was going for against such stromg player, who has beaten me multiple times.
 
-https://www.iccf.com/game?id=1456949
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=3iEYxaOgK0NSATSd68Hzy9kVGj81QTtMsfOF4PF/W+ULSjCUXn2Ge9VCQcXg59sr'></iframe>
+
 
 CCM Paulo Adriano Matozo
 
