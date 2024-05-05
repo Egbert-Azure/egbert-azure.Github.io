@@ -25,9 +25,10 @@ I found this one a bit frustrating, because I had the feeling I could turn it in
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=yFqKDmPlnnWbbzo0wX823UMYtaqfEdh/oDgju3mRAVKygKt+1YHsAD7Xtzfig8mL'></iframe>
 
-CCM Amayak Martunikovich Babasyan
+### CCM Amayak Martunikovich Babasyan
 
-Russian player, I offered every 10th move a draw until he accepted
+Russian player, I offered every 10th move a draw until he accepted. 
+See my open letter to [ICCF](https://chess.myvortexcloud.com/2024/02/24/Open-Letter-to-ICCF/)
 
 CCM Graziano Maioriello
 
