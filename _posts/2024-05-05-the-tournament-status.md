@@ -76,6 +76,8 @@ I thought I was on a winning path, but the game ended in a draw. Unfortunately, 
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=553wZ76OX0kqNVHmqbOOoOSdFjhdxoZYrdT692hlDtx9jxqoAXsnvqK2zifFdlbo'></iframe>
 
+<br>
+<br>
 **Amici Sumus**
 
 See you next week. If you like my blogs, maybe you like to consider to buy a coffee to support the webpage.
