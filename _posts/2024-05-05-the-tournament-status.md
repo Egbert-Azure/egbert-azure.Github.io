@@ -36,7 +36,7 @@ This match was somewhat frustrating as I felt I could have turned it into a win,
 <br>
 ### CCM Amayak Martunikovich Babasyan
 
-Against this Russian player, I offered a draw every 10th move until he accepted. You can see my open letter to [ICCF](https://chess.myvortexcloud.com/2024/02/24/Open-Letter-to-ICCF/).
+Against this Russian player, I offered a draw after the first and 10th move and he accepted. You can see my open letter to [ICCF](https://chess.myvortexcloud.com/2024/02/24/Open-Letter-to-ICCF/). It is disheartening to contemplate an award package going to Russia and a team named Volga-Moscow associated with the event, especially when the participation of Russian players contradicts the principles of peace, freedom, and human rights that the ICCF aims to uphold.
 
 <br>
 ### CCM Graziano Maioriello
