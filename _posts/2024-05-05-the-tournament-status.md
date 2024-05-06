@@ -81,5 +81,6 @@ I thought I was on a winning path, but the game ended in a draw. Unfortunately, 
 **Amici Sumus**
 
 See you next week. If you like my blogs, maybe you like to consider to buy a coffee to support the webpage.
+Click the coffee cup below.
 
 > [Please subscribe](https://follow.it/senior-chess-improver?leanpub)
