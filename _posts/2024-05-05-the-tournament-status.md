@@ -33,19 +33,19 @@ This match was somewhat frustrating as I felt I could have turned it into a win,
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=yFqKDmPlnnWbbzo0wX823UMYtaqfEdh/oDgju3mRAVKygKt+1YHsAD7Xtzfig8mL'></iframe>
 
-
+<br>
 ### CCM Amayak Martunikovich Babasyan
 
 Against this Russian player, I offered a draw every 10th move until he accepted. You can see my open letter to [ICCF](https://chess.myvortexcloud.com/2024/02/24/Open-Letter-to-ICCF/).
 
-
+<br>
 ### CCM Graziano Maioriello
 
 In this game, I thought I could secure a win, but White's counterplay was excellent, and my small advantage eventually slipped away.
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=553wZ76OX0kqNVHmqbOOoJy98KmJ/LsOOSH0xuvFWhFgUIXMyJaKJ+/LOvCUXvkSUmnoCx7hDL8PPr5brgtPZw=='></iframe>
 
-
+<br>
 # ICCF Veterans World Cup 13 Semi-Final 9
 
 In this competition, the winners of the ten semi-final groups, along with any players tied after tiebreaks, will qualify for the final. I'm currently ranked 14th out of 15, with two games left to play. Some great learnings here, and if I win these last two games, I might advance to the mid-field with 6.5 points.
@@ -56,13 +56,12 @@ This challenging game ended in a draw. Hugo had given himself 50 moves to find a
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=553wZ76OX0kqNVHmqbOOoF/MgvNV/2LgLtl0T3eFvhj+OKi3d+QI6c1rJv7c/fEL'></iframe>
 
-
+<br>
 # ICCF Veterans World Cup 14 Preliminary 56
 
 ### IM Denny Marbourg
 
 Denny exceeded the time limit, resulting in a win for me.
-
 
 ### CCE George Dimitrov
 
@@ -70,13 +69,12 @@ This game against George from Varna, Bulgaria, would have ended in repetition, s
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=553wZ76OX0kqNVHmqbOOoPmaJECyDiqHKefcAmMsZFg2/a5qvScEIi55wOicrgverpRRxqgaLlNXaTMt2fAMpA=='></iframe>
 
-
+<br>
 ### Jan Johansson
 
 I thought I was on a winning path, but the game ended in a draw. Unfortunately, I couldn't convert my advantage into a win.
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=553wZ76OX0kqNVHmqbOOoOSdFjhdxoZYrdT692hlDtx9jxqoAXsnvqK2zifFdlbo'></iframe>
-
 
 **Amici Sumus**
 
