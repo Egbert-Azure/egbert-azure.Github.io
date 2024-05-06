@@ -26,7 +26,7 @@ I played against CCM Michael Dudley, whom I have met multiple times. This game w
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=3iEYxaOgK0NSATSd68Hzy9kVGj81QTtMsfOF4PF/W+ULSjCUXn2Ge9VCQcXg59sr'></iframe>
 
-
+<br>
 ### CCM Paulo Adriano Matozo
 
 This match was somewhat frustrating as I felt I could have turned it into a win, but ultimately, I wasn't able to. My position as Black was quite strong. I'd love to hear your thoughts on this game.
