@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Tournament Results So Far?"
-description: "Did you miss my blogs?"
+title: "Tournament Results So Far"
+description: "Did you miss my blogs? Here is a Tournment update with some exciting games to learn from."
 image: '/images/11.jpg'
 date: 2024-05-05
 tags: [tournaments]
 featured: false
 ---
 
-<small>Photo by [Dulcey Lima](https://unsplash.com/@dulceylima?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/green-cactus-plants-under-blue-sky-hr1smkEtjzI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small>
+# Introduction
 
 In my post [Where have you been](https://chess.myvortexcloud.com/2024/05/02/Take-a-Break/), I discussed my experience with intense tournaments and preliminary matches, and how I unexpectedly reached the finals. It seems to be a common beginner's mistake to get overly excited about correspondence chess because it seems to fit so well. That said, you end up with a lot of games in parallel. Or in other words: too much on your plate!
 
