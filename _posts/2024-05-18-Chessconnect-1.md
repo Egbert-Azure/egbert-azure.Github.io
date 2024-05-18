@@ -57,7 +57,7 @@ You can enter up to three different usernames and corresponding API tokens. The 
 If you start Lichess, you should see the connect button at the upper right corner
 
 <div style="text-align: center;">
-<img src="{{site.baseurl}}/images/chessconnect1.png" alt="image" width="80%">
+<img src="{{site.baseurl}}/images/chessconnect1.png" alt="image" width="100%">
 </div>
 
 <br>
