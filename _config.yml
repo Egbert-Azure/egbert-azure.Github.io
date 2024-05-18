@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "http://chess.myvortexcloud.com" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://chess.myvortexcloud.com" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
