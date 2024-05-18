@@ -43,7 +43,7 @@ Cafe de la Regence, Paris - around 1910
 </div>
 
 <div style="text-align: left;">
-<img src="{{site.baseurl}}/images/Staunton-Saint-Amant_1843.jpeg" alt="image" width="50%">
+<img src="{{site.baseurl}}/images/Staunton-Saint-Amant_1843.jpg" alt="image" width="50%">
 </div>
 
 <div style="text-align: left; font-size: smaller;">
