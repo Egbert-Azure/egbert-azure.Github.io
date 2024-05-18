@@ -50,6 +50,7 @@ Cafe de la Regence, Paris - around 1910
 The famous chess match between Howard Staunton and Pierre Charles Fournier de Saint-Amant, on 16 December 1843, by Jean-Henri Marlet
 </div>
 
+<br>
 Here, Kermur Sire de Legal delivers a brilliant game which, despite its brevity, is also strategically remarkable, illustrating the complete triumph of pieceplay over pawn play. White actually only makes one pawn move.
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=47MMYdi3A0jvRDGrTinBi0uK4N4aiI8pto5vBfZJZO2enaYLHExOl8Am3oraet1R'></iframe>
