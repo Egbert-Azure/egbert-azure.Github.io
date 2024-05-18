@@ -57,7 +57,7 @@ You can enter up to three different usernames and corresponding API tokens. The 
 If you start Lichess, you should see the connect button at the upper right corner
 
 <div style="text-align: center;">
-<img src="{{site.baseurl}}/images/chessconnect1.png" alt="image" width="50%">
+<img src="{{site.baseurl}}/images/chessconnect1.png" alt="image" width="80%">
 </div>
 
 <br>
@@ -67,7 +67,7 @@ If you press the new button, on the left side pops up the pair function. After p
 You are ready to go.
 
 <div style="text-align: center;">
-<img src="{{site.baseurl}}/images/chessconnect2.png" alt="image" width="50%">
+<img src="{{site.baseurl}}/images/chessconnect2.png" alt="image" width="80%">
 </div>
 
 Jörn's webpage is [here](https://chessconnect.de/). And his preference is tea.I encourage to buy him maybe a pot of tea due this absolute fantastic app plug-in.
