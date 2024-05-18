@@ -43,18 +43,17 @@ Chessnut Air and Pro both have an internal battery and report their charging sta
 
 Additionally, Chessconnect allows the board to be rotated by 180°, enabling you to place the black pieces on ranks 1 and 2 and the white pieces on ranks 7 and 8. This is especially useful for the Chessnut Pro, which has no visible coordinates.
 
-
 ## Connection Method
 
-How your chess board will be connected to your computer or mobile device. Basically, there is Bluetooth LE and USB. However, different chess boards use different variants of USB. The option must be set before connecting to your board. The default method is Bluetooth.
+Your chess board can be connected to your computer or mobile device via Bluetooth LE or USB. However, different chess boards use different variants of USB. The connection method must be set before connecting to your board, with the default method being Bluetooth.
 
-If you want to play on lichess.org, Chessconnect needs your username and a so called „API token“. An API token is a secret string of characters that Chessconnect can use to make moves on your behalf on the lichess web site. In order to create such a token, either go to lichess.org or just follow this link. You can select which permissions to assign to an API token. Chessconnect only needs to use the so called „board API“ or „board:play“. Everything else can be denied.
+If you want to play on lichess.org, Chessconnect needs your username and a so-called “API token.” An API token is a secret string of characters that Chessconnect can use to make moves on your behalf on the Lichess website. To create such a token, go to lichess.org or follow this [link](https://lichess.org/account/oauth/token). You can select which permissions to assign to an API token. Chessconnect only needs the “board API” or “board:play” permission. Everything else can be denied.
 
 Please make sure to enter your username on lichess.org exactly as it is. Otherwise, Chessconnect will not be able to determine which color your pieces have in your games.
 
-You can enter up to three different usernames and corresponding API tokens. The active profile can be chosen by a radio button. If you changed your user profile during a game and things do not work right away, try reconnecting to the board.
+You can enter up to three different usernames and corresponding API tokens. The active profile can be chosen by a radio button. If you change your user profile during a game and things do not work right away, try reconnecting to the board.
 
-If you start Lichess, you should see the connect button at the upper right corner
+When you start Lichess, you should see the connect button at the upper right corner:
 
 <div style="text-align: center;">
 <img src="{{site.baseurl}}/images/chessconnect1.png" alt="image" width="100%">
@@ -62,7 +61,7 @@ If you start Lichess, you should see the connect button at the upper right corne
 
 <br>
 
-If you press the new button, on the left side pops up the pair function. After paring, the connect button changed to green. And that was it.
+If you press the new button, the pair function pops up on the left side. After pairing, the connect button changes to green. And that’s it.
 
 You are ready to go.
 
@@ -70,26 +69,29 @@ You are ready to go.
 <img src="{{site.baseurl}}/images/chessconnect2.png" alt="image" width="80%">
 </div>
 
-Jörn's webpage is [here](https://chessconnect.de/). And his preference is tea.I encourage to buy him maybe a pot of tea due this absolute fantastic app plug-in.
+Jörn's webpage is [here](https://chessconnect.de/). His preference is tea, so I encourage you to buy him a pot of tea for this absolutely fantastic app plugin.
 
-The chess youtuber **Adventures of a Chess Noob** has done a video and interview with Jörn
+The chess YouTuber **Adventures of a Chess Noob** has done a video and interview with Jörn:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpZ2mlVI4Dg?si=6VZmvQ6cPaec42kX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
-And also gave an update in regards of version 3 of Chessconnect.
+He also gave an update regarding version 3 of Chessconnect:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7QXEV0ks8NY?si=pWHEyLLPiZvI9t09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br>
+
+Chessconnect is now the one and only method I use to connect with Lichess. Bravo Jörn!
 
 <br>
 <br>
 **Amici Sumus**
 
 See you next week. If you enjoy my insights, consider supporting me with a virtual coffee! ☕️
-Or a beer? Either way 😎 -  Your support keeps me fueled to continue sharing valuable content.
+Or a beer? Either way 😎 - Your support keeps me fueled to continue sharing valuable content.
 
-Click the coffee cup below and subscribe
+Click the coffee cup below and subscribe:
 
 > [Please subscribe](https://follow.it/senior-chess-improver?leanpub)
