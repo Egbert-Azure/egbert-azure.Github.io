@@ -35,7 +35,7 @@ Ever wondering about opening traps and such? You will like this one for sure.
 Paris, 1759, the venue is the Cafe de la Regence, prototype of the chess café and the original home of the coffee house player.
 
 <div style="text-align: left;">
-<img src="{{site.baseurl}}/assets/phpuCHnMw.jpeg" alt="image" width="50%">
+<img src="{{site.baseurl}}/images/phpuCHnMw.jpeg" alt="image" width="50%">
 </div>
 
 <div style="text-align: left; font-size: smaller;">
