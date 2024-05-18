@@ -35,11 +35,19 @@ Ever wondering about opening traps and such? You will like this one for sure.
 Paris, 1759, the venue is the Cafe de la Regence, prototype of the chess café and the original home of the coffee house player.
 
 <div style="text-align: left;">
-<img src="{{site.baseurl}}/images/phpuCHnMw.jpeg" alt="image" width="50%">
+<img src="{{site.baseurl}}/images/caferegence.jpeg" alt="image" width="50%">
 </div>
 
 <div style="text-align: left; font-size: smaller;">
 Cafe de la Regence, Paris - around 1910
+</div>
+
+<div style="text-align: left;">
+<img src="{{site.baseurl}}/images/Staunton-Saint-Amant_1843.jpeg" alt="image" width="50%">
+</div>
+
+<div style="text-align: left; font-size: smaller;">
+The famous chess match between Howard Staunton and Pierre Charles Fournier de Saint-Amant, on 16 December 1843, by Jean-Henri Marlet
 </div>
 
 Here, Kermur Sire de Legal delivers a brilliant game which, despite its brevity, is also strategically remarkable, illustrating the complete triumph of pieceplay over pawn play. White actually only makes one pawn move.
