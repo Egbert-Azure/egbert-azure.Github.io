@@ -63,7 +63,7 @@ When you start Lichess, you should see the connect button at the upper right cor
 
 If you press the new button, the pair function pops up on the left side. After pairing, the connect button changes to green. And that’s it.
 
-You are ready to go.
+You are ready to go. Connect turns red if your board power is down to 33%.
 
 <div style="text-align: center;">
 <img src="{{site.baseurl}}/images/chessconnect2.png" alt="image" width="80%">
