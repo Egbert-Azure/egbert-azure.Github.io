@@ -74,6 +74,12 @@ Jörn's webpage is [here](https://chessconnect.de/). And his preference is tea.I
 
 The chess youtuber **Adventures of a Chess Noob** has done a video and interview with Jörn
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GpZ2mlVI4Dg?si=6VZmvQ6cPaec42kX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+And also gave an update in regards of version 3 of Chessconnect.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7QXEV0ks8NY?si=pWHEyLLPiZvI9t09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
