@@ -5,6 +5,7 @@ date: 2024-03-12
 tags: [chess, technology, DIY, eboard, ChessCam]
 description: "Discover how you can break free from the screen and elevate your chess experience with your own eBoard using Lichess"
 image:  '/images/conor-luddy-IGa3Md8wP6g-unsplash.jpg'
+featured: false
 ---
 
 

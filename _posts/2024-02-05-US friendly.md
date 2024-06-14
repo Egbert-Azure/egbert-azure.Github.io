@@ -5,6 +5,7 @@ description: "USCF Around the World friendly tournament. Find out what is the US
 date: 2024-02-05
 tags: [USCF, ICCF, friendly-matches]
 image:  '/images/iccf.png'
+featured: false
 ---
 
 

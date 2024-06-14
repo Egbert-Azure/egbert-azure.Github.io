@@ -5,6 +5,7 @@ description: "A quick overview about ChessNut Air eboard and how to improve your
 date: 2023-11-24
 tags: [ChessNut Air, eboard, chessbase]
 image:  '/images/correspondence-chess.jpeg'
+featured: false
 ---
 
 

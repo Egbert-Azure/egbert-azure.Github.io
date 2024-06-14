@@ -5,6 +5,7 @@ description: "The inspiring odyssey into the world of senior chess enthusiasts a
 tags: [chess, correspondence-chess, ICCF]
 date: 2023-10-02
 image:  '/images/OIGt.jpeg'
+featured: false
 ---
 
 # Introduction

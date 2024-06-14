@@ -5,6 +5,7 @@ date: 2023-12-06
 description: "Unravel the intricacies of the Seven Pieces Rule and the 50-Move Rule in International Correspondence Chess Federation (ICCF) games. Explore how these rules, connected to endgame tablebases, shape strategic thinking and computational precision in the world of correspondence chess."
 tags: [correspondence-chess, chess-rules, strategy, endgame-tablebases]
 image:  '/images/decode 2.jpeg'
+featured: false
 ---
 
 

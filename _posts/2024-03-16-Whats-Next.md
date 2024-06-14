@@ -5,6 +5,7 @@ date: 2024-03-16
 tags: [chess, tools, technology, UltraCorr23, Noctie.ai, chessbase]
 description:  "In the pursuit of chess mastery, the search for effective tools and resources is ongoing. Join me as I explore my journey towards improvement and the latest innovations in chess technology."
 image:  '/images/hunter-haley-s8OO2-t-HmQ-unsplash.jpg'
+featured: false
 ---
 
 <div style="text-align: left; font-size: smaller;">

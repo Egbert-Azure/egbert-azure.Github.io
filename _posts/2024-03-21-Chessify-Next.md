@@ -5,6 +5,7 @@ date: 2024-03-21
 tags: [chess, tools, technology, chessbase, chessify]
 description:  "we delve into the latest innovations in chess technology and explore the enhancements Chessify brings to the table."
 image:  '/images/shri-CG-JvqWqutM-unsplash.jpg'
+featured: false
 ---
 
 <div style="text-align: left; font-size: smaller;">
