@@ -3,7 +3,7 @@ layout: post
 title: "The Road to 2200: USCF tournament"
 description: "The Electronic Knights is THE USCF tournament for correspondence chess players. Latest update on my standing in Electronic Knights Final and 2024 Prelimanary"
 image: '/images/20240531_112059.jpg'
-date: 2024-06-14
+date: 2024-06-15
 tags: [USCF, tournaments]
 featured: false
 ---
@@ -16,7 +16,7 @@ The knight on the rim has a notoriously bad reputation with the saying "A knight
 In German language it's *Randspringer* and *Randspringer* and that wa exactly the self published Magazine of Rainer Schlenker.
 
 <div style="text-align: center;">
-<img src="{{site.baseurl}}/images/randspringer.jpg" alt="image" width="80%">
+<img src="{{site.baseurl}}/images/randspringer.jpg" alt="image" width="40%">
 </div>
 
 
