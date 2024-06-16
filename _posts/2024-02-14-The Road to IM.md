@@ -3,7 +3,7 @@ layout: post
 title: "Chess Adventures - continued: achieving a norm as a senior chess player"
 description: "Achieving a norm is something I never expected. On Feb 2024 I reached my second norm and got the CCE title. Two tournaments contributed to this and I will share the critical games"
 date: 2024-02-14
-tags: [chess, USCF, ICCF, mindset]
+tags: [USCF, ICCF, mindset]
 image:  '/images/CCE.jpg'
 featured: false
 ---

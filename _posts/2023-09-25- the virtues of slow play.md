@@ -3,7 +3,7 @@ title: "Rediscovering the Essence of Chess - The Virtues of Slow Play"
 description: "Exploring the beauty and benefits of slow chess in a fast-paced world. Find out why you don't improve with Blitz and Rapid"
 layout: post
 date: 2023-09-25
-tags: [correspondence-chess]
+tags: [correspondence-chess, strategy]
 image:  '/images/The Knights.jpeg'
 ---
 

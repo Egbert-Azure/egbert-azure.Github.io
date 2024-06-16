@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inside the Electronic Knights Tournament 2021
-tags: [chess, tournament, USCF, electronic-knights]
+tags: [tournament, USCF, Electronic-Knights]
 description: Into the heart of the Electronic Knights Tournament 2021, a realm where tradition meets technology, as skilled players engage in a saga of skill, strategy, and the relentless pursuit of excellence on the digital chessboard.
 date: 2023-12-08
 image:  '/images/roadtoelo200.jpeg'

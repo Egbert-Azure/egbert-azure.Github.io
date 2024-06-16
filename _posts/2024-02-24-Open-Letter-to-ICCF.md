@@ -3,7 +3,7 @@ layout: post
 title: "Creating Awareness: The Need for Ethical Decision-Making in Chess"
 date: 2024-02-24
 description: "Raising awareness about ethical concerns in chess amidst the Russian war and genocide in Ukraine."
-tags: [chess, ICCF, ethics, ukraine, russia]
+tags: [ICCF, ethics, ukraine, russia]
 image:  '/images/ukraine.jpg'
 featured: false
 ---

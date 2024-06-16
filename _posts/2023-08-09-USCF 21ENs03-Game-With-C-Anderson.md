@@ -3,7 +3,7 @@ layout: post
 title: USCF 21ENs03 - Game with C. Anderson
 date: 2023-08-09
 image:  '/images/moonplanet.jpg'
-tags: [chess, USCF, tournament, electronic-knights]
+tags: [USCF, tournament, Electronic-Knights]
 description: In the intricate world of chess, the opening moves can set the stage for captivating battles. My recent encounter with Clarence Anderson was no exception, as the game took an unexpected turn right from the start.
 ---
 

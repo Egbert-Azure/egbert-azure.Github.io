@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chess Journey Update - Climbing the Correspondence Chess Ladder
-tags: [chess, correspondence-chess, USCF]
+tags: [correspondence-chess, USCF]
 description: Update on my chess journey in correspondence chess, including my performance in the 2021 Electronic Knights Championship Semi-Final Section and the exciting news of reaching the top 100 US Correspondence Chess players.
 date: 2023-10-27
 image:  '/images/chess logo 2.jpeg'

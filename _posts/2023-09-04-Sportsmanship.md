@@ -2,7 +2,7 @@
 layout: post
 title: "Sportsmanship in Chess: Lessons from Correspondence Play"
 date: 2023-09-04
-tags: [chess, sportsmanship, correspondence-chess]
+tags: [sportsmanship, correspondence-chess]
 description: "Explore the world of competitive chess and the pivotal role of sportsmanship. Delve into the essence of good sportsmanship in correspondence chess, learn from both exemplary and disappointing examples, and discover the importance of fair play and integrity in this noble game."
 image:  '/images/shakehands.jpg'
 ---

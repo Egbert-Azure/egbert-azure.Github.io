@@ -2,7 +2,7 @@
 layout: post
 title: "Back to the roots - The 150 Attack vs. Modern Defence"
 date: 2024-02-19
-tags: [chess, openings, modern-defense, 150-attack]  
+tags: [openings, modern-defense, 150-attack]  
 description: "Revisiting the 150 Attack, an old favorite opening from my early chess days."
 image:  '/images/ravi-kumar-sKZYPerA5s0-unsplash.jpg'
 featured: false
