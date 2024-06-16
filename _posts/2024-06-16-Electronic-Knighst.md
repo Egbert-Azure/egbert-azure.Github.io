@@ -31,7 +31,7 @@ Today, technology makes sharing our love for chess easier through platforms like
 
 ## Section 21ENf01
 
-First of all, this shows how correspondence chess goes. The tournament started in 2021, and we are now—four years later—in the finals. That sets things in perspective. I have to say it was a great decision by USCF to move to the ICCF server with this engine-free format. It makes things much easier than with email. The start date was 1/19/2024, and the end date is 7/19/2026.
+First of all, this shows how correspondence chess goes. The tournament started in 2021, and we are now—three years later—in the finals. That sets things in perspective. I have to say it was a great decision by USCF to move to the ICCF server with this engine-free format. It makes things much easier than with email. The start date was 1/19/2024, and the end date is 7/19/2026.
 
 As of May 2024, I was on the top 100 player list and ranked as [nr. 73 Schroeer](https://www.uschess.org/component/option,com_top_players/Itemid,371?op=list&month=2405&f=usa&l=C:Top%20Correspondence%20Ratings.&h=Correspondence%20Players), Egbert Heinrich (30088451) with ELO 2099.
 
