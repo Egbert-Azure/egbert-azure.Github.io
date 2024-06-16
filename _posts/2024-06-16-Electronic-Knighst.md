@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Road to 2200: USCF Tournament"
-description: "The Electronic Knights is THE USCF tournament for correspondence chess players. Latest update on my standing in Electronic Knights Final and 2024 Preliminary"
+description: "The Electronic Knights is THE USCF tournament for correspondence chess players. Latest update on my standing in Electronic Knights Final"
 image: '/images/randy-fath-G1yhU1Ej-9A-unsplash.jpg'
 date: 2024-06-16
 tags: [USCF, tournaments, Electronic-Knights]
@@ -57,13 +57,13 @@ My thoughtsd during the game are in the annotations too.
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=Qg346RO9FSPxoYd7Ysel0ziUN1yRg67wpTfWdd+kaKwHw9vxuebfJC8kxgTS/zGD'></iframe>
 
+<br>
 I believe worth to look into it again, especially tha calculated sidelines during the game.
-
 <br>
 
 **Amici Sumus**
 
-See you next week. If you enjoy my insights, consider supporting me with a virtual coffee! ☕️ Or a beer? Either way 😎 - Your support keeps me fueled to continue sharing valuable content.
+See you next week where I share the 2024 Electronic Knights Prelimanary results so far. If you enjoy my insights, consider supporting me with a virtual coffee! ☕️ Or a beer? Either way 😎 - Your support keeps me fueled to continue sharing valuable content.
 
 Click the coffee mug below at the end of the webpage, please subscribe and share broad and wide.
 
