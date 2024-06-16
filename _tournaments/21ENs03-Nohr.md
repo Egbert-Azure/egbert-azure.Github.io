@@ -1,7 +1,7 @@
 ---
 title: "Electronic Knights 2021 Semi-Final"
 layout: post
-name: Nohr, Mathew
+name: Nohr, Matthew
 section: 21ENs03
 tags: [annotated-game, 21ENs03]
 ---
