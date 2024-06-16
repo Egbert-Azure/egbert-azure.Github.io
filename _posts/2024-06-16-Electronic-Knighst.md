@@ -3,7 +3,7 @@ layout: post
 title: "The Road to 2200: USCF Tournament"
 description: "The Electronic Knights is THE USCF tournament for correspondence chess players. Latest update on my standing in Electronic Knights Final and 2024 Preliminary"
 image: '/images/randy-fath-G1yhU1Ej-9A-unsplash.jpg'
-date: 2024-06-17
+date: 2024-06-16
 tags: [USCF, tournaments, Electronic-Knights]
 featured: false
 ---
