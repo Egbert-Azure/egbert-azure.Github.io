@@ -61,6 +61,20 @@ My thoughts during the game are in the annotations, too.
 I am considering looking into it again, especially considering the calculated sidelines during the game.
 <br>
 
+## Game Analysis: Corkum, Tim
+
+And then -update 06/17/2024- after posting the blog I finished this game against Tim Corkum.
+I played Tim before and was able to secure a draw, but this one ended different - in favour for Tim; and as he always says **"slantje"**
+
+Tim Corkum is a Correspondence Chess Master (CCM) from Wisconsin. He has had significant achievements in the world of correspondence chess. He won the 2011 Electronic Knights Championship. He was the co-champion of the 2022 US Chess Absolute Championship. This is a testament to his skill and dedication to the game of chess.
+
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=HKsPDscJRcqSweic9QCoDk+uvpW5jVHxehrNedtquF0EjplLn2WZ+ZHiXmo2+b/C'></iframe>
+
+As you can see, I never recovered from my move 36. That's how it goes in correspondence chess. Over the board you might have had a chance to draw, but not here. I have 3 games to go and ranked actually at 3rd place. Let's wait and see how it goes.
+
+<br>
+<br>
+
 **Amici Sumus**
 
 See you next week, when I will share the 2024 Electronic Knights Preliminary results so far. If you enjoy my insights, consider supporting me with a virtual coffee! ☕️ Or a beer? Either way 😎 - Your support fuels me to continue sharing valuable content.
