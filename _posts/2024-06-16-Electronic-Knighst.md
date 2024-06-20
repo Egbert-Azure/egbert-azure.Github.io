@@ -66,7 +66,7 @@ I am considering looking into it again, especially considering the calculated si
 And then -update 06/17/2024- after posting the blog I finished this game against Tim Corkum.
 I played Tim before and was able to secure a draw, but this one ended different - in favour for Tim; and as he always says **"sláinte"**
 
-Tim Corkum is a Correspondence Chess Master (CCM) from Wisconsin. He has had significant achievements in the world of correspondence chess. He won the Electronic Knights title 3 times,  in 2011, 2016 and 2018. He was the co-champion of the 2022 US Chess Absolute Championship with John Walton. This is a testament to his skill and dedication to the game of chess.
+Tim Corkum is a Correspondence Chess Master (CCM) from Wisconsin. He has had significant achievements in the world of correspondence chess. He won the Electronic Knights title 3 times: 2011, 2016 and 2018. He was the co-champion of the 2022 US Chess Absolute Championship with John Walton. This is a testament to his skill and dedication to the game of chess.
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=HKsPDscJRcqSweic9QCoDk+uvpW5jVHxehrNedtquF0EjplLn2WZ+ZHiXmo2+b/C'></iframe>
 
