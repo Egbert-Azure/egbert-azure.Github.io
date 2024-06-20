@@ -70,8 +70,10 @@ Tim Corkum is a Correspondence Chess Master (CCM) from Wisconsin. He has had sig
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=HKsPDscJRcqSweic9QCoDk+uvpW5jVHxehrNedtquF0EjplLn2WZ+ZHiXmo2+b/C'></iframe>
 
+<br>
 As you can see, I never recovered from my move 36. That's how it goes in correspondence chess. Over the board you might have had a chance to draw, but not here. I have 3 games to go and ranked actually at 3rd place. Let's wait and see how it goes.
 
+You can find my other game from [semi-final here](https://chess.myvortexcloud.com/tournaments/21ENs04-Corkum/)
 <br>
 <br>
 
