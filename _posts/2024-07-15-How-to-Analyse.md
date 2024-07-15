@@ -75,7 +75,7 @@ By following these steps, you can transform your game analysis into a powerful t
 My latest game in this tournament with example of notes. Not heavily, but I think you can see the thought process. I don't rely on MegaDatabase but Ultracorr too in evaluating potential moves, but also for aftermath analysis.
 <br>
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=TkAwUdov+jN7HZHWSN6yCYhZFJC0SssVd2PdSvprRYWKEoJ84i9gOkGIr+YGXS1z'></iframe>
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=TkAwUdov+jN7HZHWSN6yCQy0GtKP9PX5rNfWbIXCF8lsDRq+kXP+vSGwpQ/7XOOA'></iframe>
 
 <br>
 <br>
