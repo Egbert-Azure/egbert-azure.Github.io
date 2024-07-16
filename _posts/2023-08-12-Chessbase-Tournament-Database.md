@@ -94,7 +94,7 @@ And with the players identified you can check them and prepare yourself to play 
 
 <div style="border: 1px solid white; padding: 10px">
      <blockquote style="font-size: 20px; font-style: italic; font-weight: 400;">
-I have updated the <a href="https://chess.myvortexcloud.com/the-road-to-elo-2000/">Road to ELO 200</a> blog with some more details and guidance. Check it out
+I have updated the <a href="https://chess.myvortexcloud.com/the-road-to-elo-2000">Road to ELO 2000</a> blog with some more details and guidance. Check it out
     </blockquote>
 </div>
 
