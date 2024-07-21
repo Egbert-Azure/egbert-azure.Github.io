@@ -2,7 +2,7 @@
 title: "Navigating the Giants: My Journey in the 13th ICCF Veterans’ World Cup"
 layout: post
 description: "The inspiring odyssey into the world of senior chess enthusiasts as I navigate the fierce competition and enduring passion of the 13th ICCF Veterans’ World Cup."
-tags: [correspondence-chess, ICCF]
+tags: [correspondence-chess, ICCF, VWC13]
 date: 2023-10-02
 image:  '/images/OIGt.jpeg'
 featured: false
