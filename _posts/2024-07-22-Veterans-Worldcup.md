@@ -19,7 +19,8 @@ Today, I share an update on my experience in the Veterans World Cup 14. The firs
 
 The Veterans World Cup attracts many highly experienced and rated players. In Veterans World Cup 14, I competed in the following groups:
 
-- Preliminary round Veterans World Cup 14
+### Preliminary round Veterans World Cup 14
+
 - ICCF Veterans World Cup 14 pr. 25
 - ICCF Veterans World Cup 14 pr. 56
 
