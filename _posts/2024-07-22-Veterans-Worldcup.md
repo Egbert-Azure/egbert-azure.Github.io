@@ -42,7 +42,7 @@ Paolo's kind words and sportsmanship made the game even more enjoyable. Here’s
 <br>
 <br>
 
-Superbly played by Salati. While he blayed 6 strong moves, I made 3 mistakes and 2 inaccurate moves.
+Superbly played by Salati. While he played 6 strong moves, I made 3 mistakes and 2 inaccurate moves.
 
 He clearly outplayed me and well deserved the first place in Preliminary round Veterans World Cup 14 pr. 56, moving forward into the semi-finals.
 I applaud his success!
