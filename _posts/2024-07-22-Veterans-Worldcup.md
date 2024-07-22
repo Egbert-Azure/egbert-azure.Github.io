@@ -3,7 +3,7 @@ layout: post
 title: "ICCF Veterans World Cup 14"
 description: "Finished my games in Group 25 and 56"
 image: '/images/eugene-chystiakov-unsplash.jpg'
-date: 2024-07-15
+date: 2024-07-22
 tags: [ICCF, Tournaments, VWC14]
 featured: false
 ---
