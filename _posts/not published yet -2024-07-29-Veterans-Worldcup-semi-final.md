@@ -2,14 +2,13 @@
 layout: post
 title: "ICCF Veterans World Cup 13 - Semi Final"
 description: "Finished my last games in the SEmi-Finals"
-image: '/images/eugene-chystiakov-unsplash.jpg'
+image: '/images/artyom-kabajev.jpg'
 date: 2024-07-22
 tags: [ICCF, Tournaments, VWC13]
 featured: false
 ---
 
-<small>Photo by <a href="https://unsplash.com/@eugenechystiakov?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Eugene Chystiakov</a> on <a href="https://unsplash.com/photos/chess-pieces-on-chess-board-sRRhKMeCeXY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  </small>
+<small>Photo by <a href="https://unsplash.com/@artfilm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Artyom Kabajev</a> on <a href="https://unsplash.com/photos/person-playing-chess-on-gray-concrete-floor-xDrKubSfIL0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
 
 ## Introduction
 
