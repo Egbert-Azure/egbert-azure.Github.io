@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "ICCF Veterans World Cup 13 - Semi Final"
-description: "Finished my last games in the SEmi-Finals"
+description: "Finished my last games in the Semi-Finals."
 image: '/images/artyom-kabajev.jpg'
-date: 2024-07-22
+date: 2024-07-29
 tags: [ICCF, Tournaments, VWC13]
 featured: false
 ---
@@ -12,7 +12,7 @@ featured: false
 
 ## Introduction
 
-Here we are, this is blog post number 40! Thank you all for comments on LinkedIn in regards to my last post, especially to [Daniel Furfaro](https://www.linkedin.com/in/dansbrandmoves/). Daniel, one of my keen observers, shared his thoughts on the match:
+Here we are, this is blog post number 40! Thank you all for your comments on LinkedIn regarding my last post, especially to [Daniel Furfaro](https://www.linkedin.com/in/dansbrandmoves/). Daniel, one of my keen observers, shared his thoughts on the match:
 
 *Daniel wrote the following thoughtful comment:*
 
@@ -26,28 +26,32 @@ The essence of chess, much like life, lies in the nuances and small decisions we
 
 How can this be a better start for blog number 40?
 
-That said, shortly after I published blog 39, I finished my last game in the Semi-Finals of Veterans Worldcup 13. It was against Correspondence Chess Master [Detlef Zoll](https://www.iccf.com/player?id=82490). Detlef is not only a very experienced player, but also from Germany, which is always a highlight for me to meet a fellow German player over the virtual board.
+Shortly after publishing blog 39, I finished my last game in the Semi-Finals of Veterans Worldcup 13. It was against Correspondence Chess Master [Detlef Zoll](https://www.iccf.com/player?id=82490). Detlef is a very experienced player from Germany, and it has always been a highlight for me to meet a fellow German player over the virtual board.
 
-Detlef, 69 years old and residing near Berlin, has had a rich career as a veterinarian and later in medical technology. His warm introduction set a friendly tone for our match, and we exchanged well wishes for Christmas and the New Year.
+Detlef, 69, lives near Berlin and has had a rich career as a veterinarian and later in medical technology. His warm introduction set a friendly tone for our match, and we exchanged well wishes for Christmas and the New Year.
 
-During our game, we had a pleasant conversation, wishing each other the best for the holidays. At move 29, Detlef offered a draw, but I declined because I felt I had the advantage and was on the path to victory.
+We had a pleasant conversation during our game, wishing each other the best for the holidays. At move 29, Detlef offered a draw, but I declined because I felt I had the advantage and was on the path to victory.
 
-## Highlight Game Against Detlef Zoll - Last Game in VWC 13 Semi Finals
+## Highlight Game Against Detlef Zoll - Last Game in VWC 13 Semi-Finals
 
-I didn't made a lot of notes during the game. It was a busy tournament phase (if this counts as an excuse).
+I didn't take many notes during the game. It was a busy tournament phase (if this counts as an excuse).
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=tQCgRXKuHZyIpEPyrhr7/W88YieQd4T3M1djEKitMa8Pqv7mDazsLx0wvtaqE6Xu'></iframe>
 
 <br>
 
-Not the most spectacular game but this relates to earlier quotes and findings - nuances matter! Three inaccurate moves have been enough for Black to lose the game.
+It's not the most spectacular game, but this relates to earlier quotes and findings - nuances matter! Three inaccurate moves have been enough for Black to lose the game.
+
+Find the full [crosstable](https://www.iccf.com/event?id=102157) here with all PGN.
+My annotated games versus Ilyasov, Anatoly Fedorovich (2317) and my fantastic game versus Hans Rolle * Learning from Defeat: A Lesson against CCM Hannes Rolle in the Semi-Finals * can be found in a previous blog [Navigating the Giants: My Journey in the 13th ICCF Veterans’ World Cup](https://chess.myvortexcloud.com/Navigating-the-Giants).
+
 
 <br>
 <br>
 
 **Amici Sumus**
 
-See you in the next weeks, when I will share some more tournament results. If you enjoy my insights, consider supporting me with a virtual coffee! ☕️ Or a beer? Either way 😎 - Your support fuels me to continue sharing valuable content.
+I will see you in the next few weeks when I will share some more tournament results. If you enjoy my insights, consider supporting me with a virtual coffee! ☕️ Or a beer? Either way 😎 - Your support fuels me to continue sharing valuable content.
 
 Click the coffee mug below at the end of the webpage, and please subscribe and share broadly.
 
