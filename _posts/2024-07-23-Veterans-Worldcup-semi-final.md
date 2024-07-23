@@ -14,7 +14,7 @@ featured: false
 
 Here we are, this is blog post number 40! Thank you all for your comments on LinkedIn regarding my last post, especially to [Daniel Furfaro](https://www.linkedin.com/in/dansbrandmoves/). Daniel, one of my keen observers, shared his thoughts on the match:
 
-*Daniel wrote the following thoughtful comment:*
+*Daniel wrote the following thoughtful comment on LinkedIn:*
 
 <div style="border: 1px solid white; padding: 10px">
      <blockquote style="font-size: 20px; font-style: italic; font-weight: 400;">
