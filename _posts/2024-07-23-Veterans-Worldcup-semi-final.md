@@ -16,11 +16,21 @@ Here we are, this is blog post number 40! Thank you all for your comments on Lin
 
 *Daniel wrote the following thoughtful comment:*
 
-**"You both played a level of chess that puts me to shame. It looked close and then all of a sudden there were no pawns in front of your king. Re: nuances. There’s something there. Something about that principle that applies beyond chess. Small mistakes … or rather the small decisions we make every day — they add up to significant consequences beyond what we may foresee. I love the dual respect for each other as chess players as well as the fierce competition that still takes place in-play. All the best to Paolo and wishing you the best on your next tournament as well."**
+<div style="border: 1px solid white; padding: 10px">
+     <blockquote style="font-size: 20px; font-style: italic; font-weight: 400;">
+"You both played a level of chess that puts me to shame. It looked close and then all of a sudden there were no pawns in front of your king. Re: nuances. There’s something there. Something about that principle that applies beyond chess. Small mistakes … or rather the small decisions we make every day — they add up to significant consequences beyond what we may foresee. I love the dual respect for each other as chess players as well as the fierce competition that still takes place in-play. All the best to Paolo and wishing you the best on your next tournament as well."
+     </blockquote>
+</div>
 
 His words resonated deeply with me. Reflecting on the game, I responded to him on LinkedIn, appreciating his insights and sharing my own thoughts on the match:
 
-**"Daniel, well said! I like your thoughts! When I moved off the beaten path, I thought I could at least draw, and at some point, I even thought I could win. The way you play typically in correspondence is to create a complex situation (which we did). Engines don't help you much here ;-) I should have been warned, his pawn structure was very active, and as you rightfully said, out of a sudden my king was looking around 'Where have my pawns gone?' Lol. Thanks a lot for reading and your comment here!"**
+<div style="border: 1px solid white; padding: 10px">
+     <blockquote style="font-size: 20px; font-style: italic; font-weight: 400;">
+
+"Daniel, well said! I like your thoughts! When I moved off the beaten path, I thought I could at least draw, and at some point, I even thought I could win. The way you play typically in correspondence is to create a complex situation (which we did). Engines don't help you much here ;-) I should have been warned, his pawn structure was very active, and as you rightfully said, out of a sudden my king was looking around 'Where have my pawns gone?' Lol. Thanks a lot for reading and your comment here!"
+
+     </blockquote>
+</div>
 
 The essence of chess, much like life, lies in the nuances and small decisions we make. Daniel's observation about small mistakes leading to significant consequences extends beyond the chessboard, reminding us of the impact of our everyday choices. His appreciation for the respect and fierce competition between players adds a layer of depth to the game, highlighting the beauty of sportsmanship and strategic thinking.
 Secondly, I believe if you stay in beaten path you need to know we all read probably the same tactics books. The players know how to defend themselves against the other’s tactics. So, what you need to win and to improve is simple: understand chess and build your own strategy. Sometimes it paid out and sometimes not - nuances matter!
@@ -46,7 +56,6 @@ It's not the my most spectacular game, but this relates to earlier quotes and fi
 Find the full [crosstable](https://www.iccf.com/event?id=102157) here with all PGN.
 My annotated games versus Ilyasov, Anatoly Fedorovich (2317) and my fantastic game versus Hans Rolle *Learning from Defeat: A Lesson against CCM Hannes Rolle in the Semi-Finals* can be found in a previous blog [Navigating the Giants: My Journey in the 13th ICCF Veterans’ World Cup](https://chess.myvortexcloud.com/Navigating-the-Giants).
 
-<br>
 <br>
 
 **Amici Sumus**
