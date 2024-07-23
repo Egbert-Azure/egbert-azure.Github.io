@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "ICCF Veterans World Cup 13 - Semi Final"
-description: "Finished my last games in the Semi-Finals."
+description: "Finished my last games in the Semi-Finals. Thanks to all of you who are following my journy. This is blog #40!"
 image: '/images/artyom-kabajev.jpg'
-date: 2024-07-29
+date: 2024-07-23
 tags: [ICCF, Tournaments, VWC13]
 featured: false
 ---
@@ -23,6 +23,7 @@ His words resonated deeply with me. Reflecting on the game, I responded to him o
 **"Daniel, well said! I like your thoughts! When I moved off the beaten path, I thought I could at least draw, and at some point, I even thought I could win. The way you play typically in correspondence is to create a complex situation (which we did). Engines don't help you much here ;-) I should have been warned, his pawn structure was very active, and as you rightfully said, out of a sudden my king was looking around 'Where have my pawns gone?' Lol. Thanks a lot for reading and your comment here!"**
 
 The essence of chess, much like life, lies in the nuances and small decisions we make. Daniel's observation about small mistakes leading to significant consequences extends beyond the chessboard, reminding us of the impact of our everyday choices. His appreciation for the respect and fierce competition between players adds a layer of depth to the game, highlighting the beauty of sportsmanship and strategic thinking.
+Secondly, I believe if you stay in beaten path you need to know we all read probably the same tactics books. The players know how to defend themselves against the other’s tactics. So, what you need to win and to improve is simple: understand chess and build your own strategy. Sometimes it paid out and sometimes not - nuances matter!
 
 How can this be a better start for blog number 40?
 
@@ -40,11 +41,10 @@ I didn't take many notes during the game. It was a busy tournament phase (if thi
 
 <br>
 
-It's not the most spectacular game, but this relates to earlier quotes and findings - nuances matter! Three inaccurate moves have been enough for Black to lose the game.
+It's not the my most spectacular game, but this relates to earlier quotes and findings - nuances matter! Three inaccurate moves have been enough for Black to lose the game.
 
 Find the full [crosstable](https://www.iccf.com/event?id=102157) here with all PGN.
-My annotated games versus Ilyasov, Anatoly Fedorovich (2317) and my fantastic game versus Hans Rolle * Learning from Defeat: A Lesson against CCM Hannes Rolle in the Semi-Finals * can be found in a previous blog [Navigating the Giants: My Journey in the 13th ICCF Veterans’ World Cup](https://chess.myvortexcloud.com/Navigating-the-Giants).
-
+My annotated games versus Ilyasov, Anatoly Fedorovich (2317) and my fantastic game versus Hans Rolle *Learning from Defeat: A Lesson against CCM Hannes Rolle in the Semi-Finals* can be found in a previous blog [Navigating the Giants: My Journey in the 13th ICCF Veterans’ World Cup](https://chess.myvortexcloud.com/Navigating-the-Giants).
 
 <br>
 <br>
