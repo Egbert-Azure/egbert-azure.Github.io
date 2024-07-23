@@ -22,6 +22,8 @@ Here we are, this is blog post number 40! Thank you all for your comments on Lin
      </blockquote>
 </div>
 
+<b>
+
 His words resonated deeply with me. Reflecting on the game, I responded to him on LinkedIn, appreciating his insights and sharing my own thoughts on the match:
 
 <div style="border: 1px solid white; padding: 10px">
