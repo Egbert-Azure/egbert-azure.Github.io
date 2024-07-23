@@ -12,7 +12,7 @@ featured: false
 
 ## Introduction
 
-Here we are, this is blog post number 40! Thank you all for your comments on LinkedIn regarding my last post, especially to [Daniel Furfaro](https://www.linkedin.com/in/dansbrandmoves/). Daniel, one of my keen observers, shared his thoughts on the match:
+Here we are, this is blog post number 40! Thank you all for your comments on LinkedIn regarding my last post, especially to [Daniel Furfaro](https://www.linkedin.com/in/dansbrandmoves/). Daniel, one of my keen observers, shared his thoughts on the match I shared in my last blog versus [Paolo Satali](https://chess.myvortexcloud.com/Veterans-Worldcup):
 
 *Daniel wrote the following thoughtful comment on LinkedIn:*
 
