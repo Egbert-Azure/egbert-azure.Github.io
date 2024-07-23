@@ -21,8 +21,9 @@ Here we are, this is blog post number 40! Thank you all for your comments on Lin
 "You both played a level of chess that puts me to shame. It looked close and then all of a sudden there were no pawns in front of your king. Re: nuances. There’s something there. Something about that principle that applies beyond chess. Small mistakes … or rather the small decisions we make every day — they add up to significant consequences beyond what we may foresee. I love the dual respect for each other as chess players as well as the fierce competition that still takes place in-play. All the best to Paolo and wishing you the best on your next tournament as well."
      </blockquote>
 </div>
-
 <br>
+<br>
+
 
 His words resonated deeply with me. Reflecting on the game, I responded to him on LinkedIn, appreciating his insights and sharing my own thoughts on the match:
 
@@ -33,8 +34,9 @@ His words resonated deeply with me. Reflecting on the game, I responded to him o
 
      </blockquote>
 </div>
-
 <br>
+<br>
+
 
 The essence of chess, much like life, lies in the nuances and small decisions we make. Daniel's observation about small mistakes leading to significant consequences extends beyond the chessboard, reminding us of the impact of our everyday choices. His appreciation for the respect and fierce competition between players adds a layer of depth to the game, highlighting the beauty of sportsmanship and strategic thinking.
 Secondly, I believe if you stay in beaten path you need to know we all read probably the same tactics books. The players know how to defend themselves against the other’s tactics. So, what you need to win and to improve is simple: understand chess and build your own strategy. Sometimes it paid out and sometimes not - nuances matter!
