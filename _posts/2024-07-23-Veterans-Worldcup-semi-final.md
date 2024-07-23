@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ICCF Veterans World Cup 13 - Semi Final"
-description: "Finished my last games in the Semi-Finals. Thanks to all of you who are following my journy. This is blog #40!"
+description: "Finished my last games in the Semi-Finals. Thanks to all of you who are following my journey. This is blog #40!"
 image: '/images/artyom-kabajev.jpg'
 date: 2024-07-23
 tags: [ICCF, Tournaments, VWC13]
@@ -24,8 +24,7 @@ Here we are, this is blog post number 40! Thank you all for your comments on Lin
 <br>
 <br>
 
-
-His words resonated deeply with me. Reflecting on the game, I responded to him on LinkedIn, appreciating his insights and sharing my own thoughts on the match:
+His words resonated deeply with me. Daniel also reminded me of the first player who really recognized the power of pawns, 18th-century master Philidor, who called pawns "the soul of chess". The pawn structure is the cornerstone of chess strategy, and a strong or weak pawn structure can sometimes be the deciding factor in a game. Reflecting on the game, I responded to him on LinkedIn, appreciating his insights and sharing my own thoughts on the match:
 
 <div style="border: 1px solid white; padding: 10px">
      <blockquote style="font-size: 20px; font-style: italic; font-weight: 400;">
@@ -37,9 +36,9 @@ His words resonated deeply with me. Reflecting on the game, I responded to him o
 <br>
 <br>
 
-
 The essence of chess, much like life, lies in the nuances and small decisions we make. Daniel's observation about small mistakes leading to significant consequences extends beyond the chessboard, reminding us of the impact of our everyday choices. His appreciation for the respect and fierce competition between players adds a layer of depth to the game, highlighting the beauty of sportsmanship and strategic thinking.
-Secondly, I believe if you stay in beaten path you need to know we all read probably the same tactics books. The players know how to defend themselves against the other’s tactics. So, what you need to win and to improve is simple: understand chess and build your own strategy. Sometimes it paid out and sometimes not - nuances matter!
+
+Secondly, I believe if you stay on the beaten path, you need to know we all read probably the same tactics books. The players know how to defend themselves against each other’s tactics. So, what you need to win and to improve is simple: understand chess and build your own strategy. Sometimes it pays off, and sometimes not - nuances matter!
 
 How can this be a better start for blog number 40?
 
@@ -57,7 +56,7 @@ I didn't take many notes during the game. It was a busy tournament phase (if thi
 
 <br>
 
-It's not the my most spectacular game, but this relates to earlier quotes and findings - nuances matter! Three inaccurate moves have been enough for Black to lose the game.
+It's not my most spectacular game, but this relates to earlier quotes and findings - nuances matter! Three inaccurate moves have been enough for Black to lose the game.
 
 Find the full [crosstable](https://www.iccf.com/event?id=102157) here with all PGN.
 My annotated games versus Ilyasov, Anatoly Fedorovich (2317) and my fantastic game versus Hans Rolle *Learning from Defeat: A Lesson against CCM Hannes Rolle in the Semi-Finals* can be found in a previous blog [Navigating the Giants: My Journey in the 13th ICCF Veterans’ World Cup](https://chess.myvortexcloud.com/Navigating-the-Giants).
