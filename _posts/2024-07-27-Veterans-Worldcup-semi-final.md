@@ -3,7 +3,7 @@ layout: post
 title: "ICCF Veterans World Cup 13 - Semi Final"
 description: "Finished my last games in the Semi-Finals. Thanks to all of you who are following my journey. This is blog #40!"
 image: '/images/artyom-kabajev.jpg'
-date: 2024-07-23
+date: 2024-07-27
 tags: [ICCF, Tournaments, VWC13]
 featured: false
 ---
@@ -60,6 +60,18 @@ It's not my most spectacular game, but this relates to earlier quotes and findin
 
 Find the full [crosstable](https://www.iccf.com/event?id=102157) here with all PGN.
 My annotated games versus Ilyasov, Anatoly Fedorovich (2317) and my fantastic game versus Hans Rolle *Learning from Defeat: A Lesson against CCM Hannes Rolle in the Semi-Finals* can be found in a previous blog [Navigating the Giants: My Journey in the 13th ICCF Veterans’ World Cup](https://chess.myvortexcloud.com/Navigating-the-Giants).
+
+## What's Next?
+
+The VWC 14 preliminary is finished, and I didn't make it to the semi-finals this time. As mentioned in another blog, I'm still determining if I will sign up for VWC 15. However, in 2022, I finished second place in the World Zone (WZ) tournament preliminary round. Due to funding issues for WZ tournaments, ICCF has accepted the World Zone proposal to transfer its main events. There will be two tournaments: the Rest of the World (ROW) individual championship and the ROW team championship.
+
+I got a free ticket for one of them and just signed up for the RoW Championship 2024 Semi-Final, which will start in September.
+The following players have the right to participate in the RoW Championship Semi-Finals:
+(a) a player rated 2300 to 2499 at the time of application.
+(b) a player who finished 1st or 2nd in a RoW Championship Preliminary is entitled to one start in a RoW Championship Semi-Final, regardless of rating.
+(c) a player with a qualification from the former World Zone.
+
+Why am I signing up for another one? At the beginning of 2024, I was exhausted because I reached the finals or semi-finals unexpectedly. Due to stiff competition, I didn't sign up for other tournaments and questioned VWC. The main events I thought of as my go-to were Electronic Knights and Champions League (a team tournament). I will check out ROW because I feel that lack of practice influences my strength.
 
 <br>
 

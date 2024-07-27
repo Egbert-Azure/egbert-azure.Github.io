@@ -170,7 +170,7 @@ Source: Conversation with Bing, 12/7/2023
 
 ## Christopher Ward
 
-Christopher Ward and Egbert Schroeer played a game in the 2021 Electronic Knights section 21EN09¹. The game started on May 17th and was finished by May 26th, which is quite fast by correspondence chess standards. The game started out as a London Opening. 
+[Christopher Ward ](https://www.iccf.com/player?id=518179)and Egbert Schroeer played a game in the 2021 Electronic Knights section 21EN09¹. The game started on May 17th and was finished by May 26th, which is quite fast by correspondence chess standards. The game started out as a London Opening. 
 
 Christopher Ward also participated in the US Chess Federation's (USCF) Correspondence Chess tournament, specifically in the Electronic Knights 2021 and 2022². Here are some details:
 
@@ -181,6 +181,7 @@ Christopher Ward also participated in the US Chess Federation's (USCF) Correspon
 Please note that these standings were last updated on December 2, 2023². For the most current standings, you may want to check the official USCF website¹. 
 
 In the RoW Championship 2023, Preliminary 6, he had a rating of 2127. As of the latest results from December 1, 2023, he scored 1 point.
+Christopher achieved the CCE (Correspondence Chess Expert) in 2024.
 
 Source: Conversation with Bing, 12/8/2023
 1. [Electronic Knights 2022 Section Standings | US Chess.org](https://new.uschess.org/correspondence-chess/en2022)
