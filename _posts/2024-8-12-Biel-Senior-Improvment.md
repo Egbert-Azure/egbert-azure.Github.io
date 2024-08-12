@@ -8,7 +8,7 @@ tags: [Biel Chess Festival, Game Analysis, Chess Strategy]
 featured: false  
 ---
 
-<small>Photo by Biel International Chess Festival<a href="https://unsplash.com/@artfilm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"> Simon Bohnenblust </a> on <a href="https://flic.kr/ps/3buRgq">Flickr</a></small>
+<small>Photo by Biel International Chess Festival - Simon Bohnenblust </a> on <a href="https://flic.kr/ps/3buRgq">Flickr</a></small>
 
 ## Introduction
 
