@@ -3,7 +3,7 @@ layout: post
 title: "Mastering the Endgame: A Senior Improver's Triumph at Biel"  
 description: "The success of another senior chess improver at Biel International Chess Festival"  
 image: '/images/DanielatBiel.jpg'  
-date: 2024-07-27  
+date: 2024-08-12  
 tags: [Biel Chess Festival, Game Analysis, Chess Strategy]  
 featured: false  
 ---
@@ -11,6 +11,8 @@ featured: false
 <small>Photo by Simon Bohnenblust / Biel International Chess Festival<a href="https://unsplash.com/@artfilm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Artyom Kabajev</a> on <a href="https://flic.kr/ps/3buRgq">Flickr</a></small>
 
 ## Introduction
+
+No folks, it's not me playing at Biel International Chess Festival, it's Mr. Daniel Bachmann!
 
 The journey of a senior chess improver is often filled with challenges, but it's also marked by moments of triumph that inspire others on the same path. Many of my blogs reflect on my journey and how I’ve improved and reached my current level in chess. In this post, I want to highlight the achievements of Daniel Bachmann, a dedicated follower of my blog who recently made waves at the Biel International Chess Festival.
 
